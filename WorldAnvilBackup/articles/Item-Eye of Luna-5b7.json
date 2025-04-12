@@ -223,19 +223,9 @@
     ],
     "comments": [
         {
-            "id": "2adcf9c9-8179-446b-a5f3-456c83765ac4",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "MGatta",
+            "comment": "Interesting artifact! I like that it's some sort of glowing firey orb is suspended on a liquid, but no one knows really what the orb or the liquid are.\r\nI am intrigued as to why did the priests hid the artifact and why. There is also no sense of time, so how long ago was this artifact hidden, and how well known is it for the general people? It could be something to add to the sidebar, maybe as a quote even.",
+            "response": "Thank you!\r\nIt is currently unknown why the priests have hidden the artifact, but I'll flesh that out after summercamp. It is part of the plot for the campaign that I plan to run in this world. Eventually, my players will come to know this.\r\nAs for the sense of time, I haven't figured out my timeline yet and all the times. Hence I kept it blank, but that's definitely a thing I want to figure out in the upcoming months. I have more articles now where time is \"non-existent\" and it bugs me too. >.<"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/item/829495b7-3f1b-499d-802e-7bb058e6fd87/edit",

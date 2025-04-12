@@ -328,49 +328,16 @@
     ],
     "comments": [
         {
-            "id": "11bd0d3e-5fd8-4488-af59-9f374ff44a1d",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "AmelieIS",
+            "comment": "A horcrux! O_O Very ominous stone with the way it manipulates people and make them think they're lucky... Great article!",
         },
         {
-            "id": "484b04f3-e20a-4952-adda-1e9b407b0a01",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "AwsmChimera",
+            "comment": "Alright, now _this_ is quite a sinister item. I find it very believable in how it could repeatedly get away with killing people even if one was aware of its existence as a magical item."
         },
         {
-            "id": "15379850-2920-4e27-a4f1-d8a6fa7fdca3",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "George Sanders",
+            "comment": "Whew! That is sinister. I like the legend growing up around it even though no one knows what is fully taking place yet...except the agents of the Archmage... Here is Lavani's Review:\r\n\"I will remember this story and warning. I have faced foes capable of infusing temptation and curses on items like the Pebble of Luck. I weep for Jale.\" - Lavani"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/item/c10d4b2a-7786-43d9-9c96-c508128d2ec8/edit",

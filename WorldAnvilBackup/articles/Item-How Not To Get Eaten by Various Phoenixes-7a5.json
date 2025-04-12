@@ -514,79 +514,25 @@
     ],
     "comments": [
         {
-            "id": "72de68ff-147d-4022-9549-f2bc18b6ff10",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "PrincessESH",
+            "comment": "This is so much fun, I love the reviews at the end!"
         },
         {
-            "id": "69922ad5-8447-4b89-886c-6db3b5bf7761",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "AwsmChimera",
+            "comment": "What a fun article. I love the reviews.\r\n\"Don't take advice from someone who hasn't experienced the hazards of a phoenix for themselves.\"\r\n\"Exactly. Listen to Johnny Teuwilliget; he knows what's up ever since he got burned. Ain't that right, Johnny,\" she says to a jar.",
+            "response": "Thank you! ^^\r\nThat quote is absolute gold x3"
         },
         {
-            "id": "ced58478-0e4e-4c51-a8ee-e31ddf3dba81",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "tele",
+            "comment": "I want a copy of this book, it may be useless, possibly. I still want it!"
         },
         {
-            "id": "a8311329-ab45-4357-a2a4-bca98c2a8678",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Rumengol",
+            "comment": "While it may be useless to some, I am under the impression that most would make good use of this book. And the reviews are hilarious! I had a good laugh with this article, very good work!"
         },
         {
-            "id": "353d36eb-da6f-4d3f-8f76-82b979f242e7",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Chrispy_O",
+            "comment": "Useless or not, the reviews make me want to buy the book, and the article was enjoyable to read."
         }
     ],
     "editURL": "https://www.worldanvil.com/world/item/d45b77a5-37ab-4089-b29f-f8797ddd150e/edit",
