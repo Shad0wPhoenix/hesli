@@ -437,19 +437,9 @@
     ],
     "comments": [
         {
-            "id": "00b449b7-3e6c-48a6-a9d5-7830df530755",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "I would love to visit one and get letters delivered by waffle phoenixes. :D",
+            "response": "Yess me too! It would make corresponding with other people so much more fun ^^"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/landmark/d4e250ab-1bef-4552-9b6f-ab8cf23fc7b4/edit",

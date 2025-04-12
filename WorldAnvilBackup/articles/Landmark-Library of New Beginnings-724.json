@@ -392,34 +392,14 @@
     ],
     "comments": [
         {
-            "id": "ee966c4c-1d54-4f17-8e02-7d67eb5108a9",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Catoblepon",
+            "comment": "I want a library of new beginnings but i wanna spend my LIFE learning about new things.",
+            "response": "YES! Which makes me think... should it have a building attached to it where you can get snaccs and drinks? Cause y'know, need to stay hydrated and such x3"
         },
         {
-            "id": "f49ec156-9e29-41ad-b380-d2587a7b4e6f",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "Oooo sneaky. I love it. And I want to curl up in one of those lounge chairs.",
+            "response": "Thank you! <3 Nothing beats curling up in a big chair with a big book ^^"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/landmark/ac4e1724-54d5-4f10-97b0-589bed2b5da9/edit",

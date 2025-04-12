@@ -332,64 +332,21 @@
     ],
     "comments": [
         {
-            "id": "ae4f43b3-0001-4551-ac5f-da2c3d960a7c",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "Can I come spend the day here? Lovely warm space in a cold environment surrounded by books? Yes, please."
         },
         {
-            "id": "11e3bb32-4936-4a36-a7d8-e6b73ddd840b",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "ecl1psed",
+            "comment": "it always amazes me how you can make any prompt in your world fit penguins. Though I am the last person to complain. love it."
         },
         {
-            "id": "8480a955-41ae-4095-81bc-a908abf2fe97",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Hanhula",
+            "comment": "I LOVE this. I agree with Emy, I want to go here and stay for a while. Also pingus!!!"
         },
         {
-            "id": "e3ce364d-2241-4f66-9717-e008eabea35f",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Those2Nerds",
+            "comment": "The only thing better than a cozy library is a cozy igloo library filled with pingus. I'd brave the cold to visit such a lovely place./r/nI enjoyed this article so much I included it in my Reading Challenge for this year :)",
+            "readingChallenge": "I'm surprised I didn't see more libraries as refuges among the worlds I follow (I haven't checked the submitted entries, I hope there are lots more!). How could I possibly not feature a penguin library??"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/landmark/709b187f-eb69-4d45-9d15-112932a6a095/edit",

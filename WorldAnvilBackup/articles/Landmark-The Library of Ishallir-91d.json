@@ -268,34 +268,12 @@
     ],
     "comments": [
         {
-            "id": "0ff92a87-5dde-4d84-a39a-ba58fcba1d8f",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Rashkavar",
+            "comment": "Very nice! Your description of the library is very evocative - it seems like a very cosy place to lead an imperial revival out of."
         },
         {
-            "id": "9398c8ad-6be0-4f6a-92a4-76738d4ccff2",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "FuriousTribble",
+            "comment": "First off, this place sounds super comfy. Second off and most importantly, love the underground secret society vibe. You can usually expect a library like this to HAVE a secret society but to find a politically motivated, nationalist revival sort of situation was not what I was expecting. Great article."
         }
     ],
     "editURL": "https://www.worldanvil.com/world/landmark/10e0791d-00c9-4565-b7a3-919dbcca6ad1/edit",
