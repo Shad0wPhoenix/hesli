@@ -223,19 +223,8 @@
     ],
     "comments": [
         {
-            "id": "3b422185-b797-46f5-a61c-3336c7168e4d",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Secere Laetes",
+            "comment": "Nice. I think it's well solved the way you describe that you don't describe the locations, etc. Otherwise, it's a good sweetener or wound treatment agent, but with a few side effects. I'll stay with sugar."
         }
     ],
     "editURL": "https://www.worldanvil.com/world/material/322759cf-ff52-4552-8cf1-f0b0bf1f2588/edit",

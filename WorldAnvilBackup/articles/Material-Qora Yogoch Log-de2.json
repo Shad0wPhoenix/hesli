@@ -392,34 +392,13 @@
     ],
     "comments": [
         {
-            "id": "689bfa24-955a-4cb2-b7b9-ad1a00e68687",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "Haha, I was thinking 'You make tableware out of these?!' and then that was addressed in the sidebar. I hope people take extra care to cure the logs well.",
+            "response": "Curing the logs is taken very seriously! You need to get special training that grants a certificate to be allowed to do it, because it is very dangerous. o.O"
         },
         {
-            "id": "9da04044-be72-451e-a802-c2d9f52680dd",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Rashkavar",
+            "comment": "Very cool. I am reminded of the Pine beetle here in BC, though trees killed by them are much easier to handle than these, of course."
         }
     ],
     "editURL": "https://www.worldanvil.com/world/material/c1d1fde2-4b84-41cd-a87a-3f00221adc77/edit",

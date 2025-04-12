@@ -467,49 +467,16 @@
     ],
     "comments": [
         {
-            "id": "c9a6138e-ed1f-4ce0-9110-bb4810fa220c",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "I would be pretty angry at the mages too, honestly. Sounds so scary."
         },
         {
-            "id": "0bb5314e-1b51-4801-9e23-815704bc3e6e",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "AP",
+            "comment": "Typical mages messing things up! Sounds like a tough place to live with that happening! Are there any warnings before the lands move so people have chance to escape, or does it happen too quickly?"
         },
         {
-            "id": "481ef863-8e0a-4943-b4b3-f8128aa257b4",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Ademal",
+            "comment": "Since Ulads and Shudderlung are so important to the article, I wish their articles were visible to give me more context, or that there was a tooltip to tide me over during judging.\r\nI imagine people still get very upset whenever an Ulad drifts off course! And probably sometimes even when it doesn't. Do they ever attempt to navigate an ulad to purposefully dig out an area, such as in preparation for creating a canal?\r\nAre there locations where these tunnels build up into hives, or do they remain fairly spread out? Does the ulad do anything with its tunnels to keep them stable?\r\nVery fun disaster that has a lot of mileage for storytelling and worldbuilding. :)"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/law/0baebb84-2078-4045-a6dc-0a6541683761/edit",

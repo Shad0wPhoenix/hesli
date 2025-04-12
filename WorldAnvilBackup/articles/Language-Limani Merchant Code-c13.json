@@ -482,34 +482,12 @@
     ],
     "comments": [
         {
-            "id": "5d40d1ca-bc28-4502-9c86-190ae7de28a9",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "I love this. The examples are cool. <3"
         },
         {
-            "id": "fbe99df8-b314-4709-8ecc-bb2ede73876e",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Autumnkitsune",
+            "comment": "This is really cool! I love the idea of weaving a secret code into a normal conversation. Very neat idea! :D"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/language/83306c13-145b-490b-94a4-6a9a37f111e4/edit",
