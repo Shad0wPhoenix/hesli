@@ -224,19 +224,8 @@
     ],
     "comments": [
         {
-            "id": "618d1b27-68c4-42c2-8fff-d41eaab54fd6",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Michael Chandra",
+            "comment": "Windmills for the win! \\o/ And I love how people turned traffic jams into a way to make a living guiding ships on the Millie."
         }
     ],
     "editURL": "https://www.worldanvil.com/world/location/604de04a-37f4-4e64-84f6-2446b37d27a2/edit",

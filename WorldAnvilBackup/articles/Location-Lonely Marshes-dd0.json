@@ -268,34 +268,12 @@
     ],
     "comments": [
         {
-            "id": "83650f9c-3f2b-4eda-9120-ceb75f813260",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "HuginRonin",
+            "comment": "I am very interested now in seeing how the people get plants to eat and fruit to harvest, since trees are so hard to come by. It's good to see that someone keeps the swamp in check though!"
         },
         {
-            "id": "942e9edf-c208-49d7-a2a8-074c3c0a21a1",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Giggitz208",
+            "comment": "Adventuring through the Lonely Marches sounds super fun! I am hooked by the nomadic people who live there, and I'd love to learn more about their ways of life. I'm interested in the dynamic between the always growing/changing swamp and the people/creatures that inhabit it! Also the name \"Lonely Marches\" sounds sick."
         }
     ],
     "editURL": "https://www.worldanvil.com/world/location/51427dd0-7762-4ca4-adaa-34cf920c80f0/edit",

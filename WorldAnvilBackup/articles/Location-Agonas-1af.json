@@ -482,64 +482,26 @@
     ],
     "comments": [
         {
-            "id": "013723bf-8a60-4fea-8a74-17c3932e37b7",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "Shuddersand sounds absolutely terrifying. I don't think I'd want to live anywhere in this region! O_O",
+            "response": "Hehe, understandable! Fortunately, there are a few places not plagued by Shuddersand, like the capital, but otherwise it's a pretty nomadic life filled with risk. ^,^\""
         },
         {
-            "id": "0d10f5ac-1651-4fbf-909b-b350666a0776",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "AP",
+            "comment": "The Slappening! xD Yeah this sounds like quite a challenging place to live and work!",
+            "response": {
+                "author": "ShadowPhoenix",
+                "comment": "I.. I just had to xD It is challenging indeed, until they can somehow regain control of the Shuddersand (and possibly use it in their favour)...",
+                "response": "Haha it's great xD Ooh I look forward to hearing more about how they might do that..."
+            }
         },
         {
-            "id": "8912544b-c204-4e4b-aa11-cbb2a10ce1fc",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "invadersforever",
+            "comment": "Poor Ulads =( Loved the article!"
         },
         {
-            "id": "ca25b5b2-d848-4ce6-b909-3adfe12b3ae2",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Those2Nerds",
+            "comment": "I'm glad they can now laugh at what happened before, but it sounds like prior events were quite horrific."
         }
     ],
     "editURL": "https://www.worldanvil.com/world/location/bb3731af-71ce-4f8c-86ae-5d5cf28930b5/edit",

@@ -407,19 +407,8 @@
     ],
     "comments": [
         {
-            "id": "fa7f7598-fe4f-4d9b-87c5-49e8807b5aa0",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": ":O\r\nScary! Someone should investigate in case another dark mage has taken up residence. D:"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/location/a2dcbbf7-149b-47ec-ada5-3f91acf62435/edit",
