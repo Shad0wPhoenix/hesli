@@ -330,19 +330,13 @@
     ],
     "comments": [
         {
-            "id": "44dbb8c3-2f50-4b64-9988-7582fe01c635",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "tjtrewin",
+            "comment": "Glad to see some healthy goals! How are you doing so far this WorldEmber? :D",
+            "response": {
+                "author": "Shadowphoenix",
+                "comment": "WorldEmber is going pretty well! I couldn't adhere to my physical healthy goals (gym and walking) as much as I'd like due to circumstances, but the first two is something that I've stuck to very well. So far, I've enjoyed everything I've written and it's been such a blast to get them on digital paper. :D\r\nHow about you? ^^",
+                "response": "I'm glad you stuck to those first two to prevent the burnout :D\r\nI'm doing well thanks! Just closing the gap on WorldEmber today, I've taken a sloooow and relaxed pace with it :)"
+            }
         }
     ],
     "editURL": "https://www.worldanvil.com/world/article/99165ae5-90a4-4be5-8b0d-1ff210134f05/edit",

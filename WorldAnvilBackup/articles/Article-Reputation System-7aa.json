@@ -423,64 +423,24 @@
     ],
     "comments": [
         {
-            "id": "3a505ab0-0a0b-48be-b6cc-75a6a1ce4781",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "CrazyEddie",
+            "comment": "Reputation all the way!",
+            "response": "Hell yeah! \\m/"
         },
         {
-            "id": "e575bea6-41b3-446e-a9c5-777e7ec2d22c",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "Oh my gosh, I love this system in video games. Your version seems really well thought through. :D",
+            "response": "Thank you! <3 My initial inspiration for this system came from Mass Effect and Dragon Age, because I absolutely loved that my choices made a difference. ^^ (Both the good and the bad XD)"
         },
         {
-            "id": "735f30e2-5193-49cc-a031-4f5ed5d85707",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "AwsmChimera",
+            "comment": "A flexible and easy-to-understand system. Most players could read this and get the gist of how a Game Master intends to steer the game based on Player Choice. Good work, yes.",
+            "response": "Thank you, Chimera! <3"
         },
         {
-            "id": "b77490a4-045c-4924-91ca-4befb8288541",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Satrium",
+            "comment": "This is a really nice and easy to understand system. I especially like the different tiers you've chosen. Might have to borrow them for my own games :D",
+            "response": "Yay, thank you! Feel free to borrow it for your own games, of course. ^^"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/article/c2be37aa-e294-4507-a6ac-494ea18469a3/edit",
