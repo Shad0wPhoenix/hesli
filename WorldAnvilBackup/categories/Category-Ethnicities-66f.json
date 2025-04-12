@@ -1,0 +1,251 @@
+{
+    "id": "bcf4166f-30cd-44e3-a08e-d2a4be40a329",
+    "title": "Ethnicities",
+    "slug": "ethnicities-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "https://www.worldanvil.com/w/hesli/c/ethnicities-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": null,
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": true,
+    "isCollapsed": false,
+    "position": 1000,
+    "creationDate": {
+        "date": "2022-04-18 15:11:56.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 426,
+    "custom1": null,
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\",\"toc\"],\"catCol3\":[\"custom3\",\"articleBlocks\",\"featuresArticles\"],\"catCol4\":[\"custom4\",\"maps\",\"timelines\"],\"catCol5\":[\"custom5\"]}",
+    "pagecover": null,
+    "bookcover": null,
+    "defaultarticlecover": null,
+    "parent": {
+        "id": "74049050-24fd-4e6d-9ceb-7586a3c11423",
+        "title": "Culture",
+        "slug": "ethnicities-26-cultures-category",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Category",
+        "icon": "fa-solid fa-folder",
+        "url": "https://www.worldanvil.com/w/hesli/c/ethnicities-26-cultures-category",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "world": {
+        "id": "2aca1405-dcb4-4c1e-b504-a2568b53266b",
+        "title": "Hesli",
+        "slug": "hesli",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/hesli",
+        "subscribergroups": [
+            {
+                "id": "0fca8d26-7f74-455a-9ff5-d522be436867",
+                "title": "Friends of the Wandering Lileon",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c863794d-f753-492f-b851-b0eff40acdd8",
+                "title": "Gamemaster",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-03-29 09:54:54.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "articleRedirect": null,
+    "articles": [
+        {
+            "id": "ff179f83-f15f-4880-bc47-d4cb744ea003",
+            "title": "Briyani",
+            "slug": "briyani-ethnicity",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Ethnicity",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/briyani-ethnicity",
+            "subscribergroups": [],
+            "folderId": "bcf4166f-30cd-44e3-a08e-d2a4be40a329",
+            "tags": "Expand",
+            "updateDate": {
+                "date": "2025-01-10 20:44:48.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "3d485e06-45a9-42e4-8a15-6325a4f6e625",
+            "title": "Drani",
+            "slug": "drani-ethnicity",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Ethnicity",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/drani-ethnicity",
+            "subscribergroups": [],
+            "folderId": "bcf4166f-30cd-44e3-a08e-d2a4be40a329",
+            "tags": "Expand",
+            "updateDate": {
+                "date": "2025-01-10 21:03:21.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "c65e1502-3ec1-4591-accd-044daba1d3ba",
+            "title": "Eilmari",
+            "slug": "eilmari-ethnicity",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Ethnicity",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/eilmari-ethnicity",
+            "subscribergroups": [],
+            "folderId": "bcf4166f-30cd-44e3-a08e-d2a4be40a329",
+            "tags": "Expand",
+            "updateDate": {
+                "date": "2025-01-10 21:04:39.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "b684be3a-2a9c-48a4-820b-3ba522f2f03a",
+            "title": "Gwenash",
+            "slug": "gwenash-ethnicity",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Ethnicity",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/gwenash-ethnicity",
+            "subscribergroups": [],
+            "folderId": "bcf4166f-30cd-44e3-a08e-d2a4be40a329",
+            "tags": "Refine",
+            "updateDate": {
+                "date": "2025-01-10 21:12:41.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "83277c77-2301-4798-a8e7-b34c2829ff6c",
+            "title": "Irrean",
+            "slug": "irrian-ethnicity",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Ethnicity",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/irrian-ethnicity",
+            "subscribergroups": [],
+            "folderId": "bcf4166f-30cd-44e3-a08e-d2a4be40a329",
+            "tags": "WorldEmber21,Expand",
+            "updateDate": {
+                "date": "2025-01-10 21:21:54.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "f88ac197-2b7f-4ade-9087-4a509077435e",
+            "title": "Mandri",
+            "slug": "mandri-ethnicity",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Ethnicity",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/mandri-ethnicity",
+            "subscribergroups": [],
+            "folderId": "bcf4166f-30cd-44e3-a08e-d2a4be40a329",
+            "tags": "Expand",
+            "updateDate": {
+                "date": "2025-01-10 21:27:29.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "43edc014-a07f-48f1-bb6e-66aa055d9092",
+            "title": "Nenn",
+            "slug": "nenn-ethnicity",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Ethnicity",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/nenn-ethnicity",
+            "subscribergroups": [],
+            "folderId": "bcf4166f-30cd-44e3-a08e-d2a4be40a329",
+            "tags": "Expand",
+            "updateDate": {
+                "date": "2025-01-10 21:30:23.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "77af85ef-759c-4197-8895-7cbd2f20624c",
+            "title": "Quani",
+            "slug": "quani-ethnicity",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Ethnicity",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/quani-ethnicity",
+            "subscribergroups": [],
+            "folderId": "bcf4166f-30cd-44e3-a08e-d2a4be40a329",
+            "tags": "Expand",
+            "updateDate": {
+                "date": "2025-01-10 21:32:38.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/category/bcf4166f-30cd-44e3-a08e-d2a4be40a329/edit",
+    "parsedDescription": "",
+    "isEditable": true,
+    "success": true
+}

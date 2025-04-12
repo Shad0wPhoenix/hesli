@@ -1,0 +1,42 @@
+{
+    "id": "13890eb0-87c1-49ce-81ca-9d896cffac8e",
+    "title": "Edwige's Epic Escapades",
+    "slug": "7528628072-sh4d0wph03n1x-edwige-s-epic-escapades",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Manuscript",
+    "icon": "fa-solid fa-book",
+    "url": "https://www.worldanvil.com/community/manuscripts/read/7528628072-sh4d0wph03n1x-edwige-s-epic-escapades",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": {},
+    "updateDate": {
+        "date": "2022-10-02 08:25:12.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "content": "A day in the life of the youngest cartographer is always full of adventures. Follow Edwige as she discovers the world in the form of short stories to put children in a world full of adventure before they set off to the land of dreams.",
+    "accessDenied": null,
+    "customAdvert": null,
+    "credits": null,
+    "patreon": null,
+    "kofi": null,
+    "creationDate": {
+        "date": "2022-10-02 08:25:12.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "publicationDate": {
+        "date": "2022-11-01 21:17:41.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "position": null,
+    "likes": 7,
+    "wordcount": 12628,
+    "viewcount": 15855,
+    "status": "ongoing",
+    "isEditable": true,
+    "success": true
+}

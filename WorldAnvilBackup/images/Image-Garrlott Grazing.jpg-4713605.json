@@ -1,0 +1,43 @@
+{
+    "id": 4713605,
+    "title": "Garrlott Grazing.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/ddae74c62ebe0070b843771b0751479b.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2023-07-21 12:42:50.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "ddae74c62ebe0070b843771b0751479b.jpg",
+    "path": "/uploads/images",
+    "size": 86907,
+    "width": 1668,
+    "height": 345,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Lucie Hošová",
+    "creditArtistWebsite": "https://unsplash.com/@marjorylucabaxter",
+    "creditArtTitle": "Grazing Garrlotts",
+    "creditArtUrl": "https://unsplash.com/photos/LL0CFwxjdRY",
+    "creationDate": {
+        "date": "2023-07-21 12:42:03.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 105,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/4713605",
+    "isEditable": true,
+    "success": true
+}

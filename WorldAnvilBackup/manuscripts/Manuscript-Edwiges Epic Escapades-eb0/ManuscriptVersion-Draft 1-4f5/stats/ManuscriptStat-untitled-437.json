@@ -1,0 +1,26 @@
+{
+    "id": "3f6e4437-758f-472c-8d72-dd92cb88a72b",
+    "title": "untitled",
+    "slug": null,
+    "state": null,
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "ManuscriptStat",
+    "icon": null,
+    "url": null,
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "creationDate": {
+        "date": "2022-11-06 00:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "notes": null,
+    "comments": 1,
+    "wordcount": 5333,
+    "likes": 5,
+    "isEditable": true,
+    "success": true
+}

@@ -1,0 +1,19 @@
+{
+    "id": "f9e911eb-812b-4538-8565-9efbf509f57a",
+    "title": "Regions",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "MarkerGroup",
+    "icon": "fa-solid fa-map-location-dot",
+    "url": null,
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "activeOnLoad": false,
+    "position": null,
+    "isEditable": true,
+    "success": true
+}

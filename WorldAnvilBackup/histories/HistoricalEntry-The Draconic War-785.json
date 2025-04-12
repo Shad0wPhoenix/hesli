@@ -1,0 +1,100 @@
+{
+    "id": "01bbc785-2e41-49a7-904b-0358f838b65a",
+    "title": "The Draconic War",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "HistoricalEntry",
+    "icon": "fa-solid fa-calendar-lines-pen",
+    "url": "https://www.worldanvil.com/w/hesli/h/01bbc785-2e41-49a7-904b-0358f838b65a",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": "",
+    "updateDate": {
+        "date": "2022-09-21 11:09:51.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "significance": 0,
+    "year": "1351",
+    "month": 8,
+    "day": 19,
+    "hour": null,
+    "minute": null,
+    "endingYear": "1492",
+    "endingMonth": 10,
+    "endingDay": 23,
+    "endingHour": null,
+    "endingMinute": null,
+    "lane": null,
+    "backgroundColor": null,
+    "category": {
+        "id": "60b91090-e691-4528-a270-42d3148ab8fc",
+        "title": "Military: War",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "HistoricalEntryCategory",
+        "icon": "ra ra-3x  ra-dripping-sword",
+        "url": null,
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "content": "The Draconic War is said to be a civil war amonst the people @[Taniyn](ethnicity:223c3d1e-c27d-4d56-ba0b-856e3fe43f2f). It spread a lot of bloodshed for reasons unknown to this day. Only @[one document](document:59bb8ea4-4e1f-4d47-9d3b-6761de8ac899) remains that tells the story.",
+    "fullcontent": null,
+    "displayDateName": null,
+    "creationDate": {
+        "date": "2022-09-21 11:09:51.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "meta": null,
+    "likes": null,
+    "world": {
+        "id": "2aca1405-dcb4-4c1e-b504-a2568b53266b",
+        "title": "Hesli",
+        "slug": "hesli",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/hesli",
+        "subscribergroups": [
+            {
+                "id": "0fca8d26-7f74-455a-9ff5-d522be436867",
+                "title": "Friends of the Wandering Lileon",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c863794d-f753-492f-b851-b0eff40acdd8",
+                "title": "Gamemaster",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-03-29 09:54:54.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "displayRange": true,
+    "isEditable": true,
+    "success": true
+}

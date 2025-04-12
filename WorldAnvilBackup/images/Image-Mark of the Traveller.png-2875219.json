@@ -1,0 +1,43 @@
+{
+    "id": 2875219,
+    "title": "Mark of the Traveller.png",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/ff7554c1f9ab61e12e905dd91dfe36ca.png",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-12-07 20:02:07.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "ff7554c1f9ab61e12e905dd91dfe36ca.png",
+    "path": "/uploads/images",
+    "size": 267823,
+    "width": 2523,
+    "height": 2709,
+    "extension": "png",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "ShadowPhoenix",
+    "creditArtistWebsite": "https://www.worldanvil.com/author/Sh4d0wPh03n1x",
+    "creditArtTitle": "Mark of the Traveller",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2021-12-07 20:01:45.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 168,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/2875219",
+    "isEditable": true,
+    "success": true
+}

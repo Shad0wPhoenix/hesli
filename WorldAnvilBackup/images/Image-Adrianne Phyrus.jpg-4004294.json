@@ -1,0 +1,43 @@
+{
+    "id": 4004294,
+    "title": "Adrianne Phyrus.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/98a33f461340acc9b0535984382e3a05.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2022-12-14 20:33:17.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "98a33f461340acc9b0535984382e3a05.jpg",
+    "path": "/uploads/images",
+    "size": 30188,
+    "width": 640,
+    "height": 427,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Rhett Wesley",
+    "creditArtistWebsite": "https://unsplash.com/@rhett__noonan",
+    "creditArtTitle": "Adrianne Phyrus",
+    "creditArtUrl": "https://unsplash.com/photos/NQexDDK9P9w",
+    "creationDate": {
+        "date": "2022-12-14 20:27:14.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": null,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/4004294",
+    "isEditable": true,
+    "success": true
+}

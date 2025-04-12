@@ -1,0 +1,43 @@
+{
+    "id": 3941031,
+    "title": "worldember2022.png",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/7eedd6d6f77d9ae4b2626f9b2c69b6e0.png",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2022-11-24 05:21:11.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "7eedd6d6f77d9ae4b2626f9b2c69b6e0.png",
+    "path": "/uploads/images",
+    "size": 600411,
+    "width": 1500,
+    "height": 500,
+    "extension": "png",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "WorldAnvil",
+    "creditArtistWebsite": "www.worldanvil.com",
+    "creditArtTitle": "WorldEmber2022",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2022-11-24 05:19:59.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 6,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/3941031",
+    "isEditable": true,
+    "success": true
+}

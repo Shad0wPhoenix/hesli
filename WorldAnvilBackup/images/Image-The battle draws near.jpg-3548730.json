@@ -1,0 +1,43 @@
+{
+    "id": 3548730,
+    "title": "The battle draws near.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/5c79ee7080e707a5b97ec4531884ce21.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2022-07-22 08:12:53.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "5c79ee7080e707a5b97ec4531884ce21.jpg",
+    "path": "/uploads/images",
+    "size": 77996,
+    "width": 640,
+    "height": 960,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Hans Isaacson",
+    "creditArtistWebsite": "https://unsplash.com/@hans_isaacson",
+    "creditArtTitle": "The Battle Draws Near",
+    "creditArtUrl": "https://unsplash.com/photos/Kx9p4imkgs8",
+    "creationDate": {
+        "date": "2022-07-22 08:11:57.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 141,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/3548730",
+    "isEditable": true,
+    "success": true
+}

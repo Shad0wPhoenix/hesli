@@ -1,0 +1,43 @@
+{
+    "id": 5658912,
+    "title": "DSC_1366.JPG",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/c2798a52-1647-4e83-af08-d7ecef98b723/uploads/images/785f38f75c9327a0e40e933b269df1f1.jpeg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2024-06-05 17:56:13.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "785f38f75c9327a0e40e933b269df1f1.jpeg",
+    "path": "https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/c2798a52-1647-4e83-af08-d7ecef98b723/uploads/images",
+    "size": 7825113,
+    "width": 3712,
+    "height": 5568,
+    "extension": "jpeg",
+    "description": null,
+    "alt": "Penguin peeking around a boat",
+    "creditArtistName": "ShadowPhoenix",
+    "creditArtistWebsite": null,
+    "creditArtTitle": "Oh, hi there!",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2024-06-05 17:29:14.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 567,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/5658912",
+    "isEditable": true,
+    "success": true
+}

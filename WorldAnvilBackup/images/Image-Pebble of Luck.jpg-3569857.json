@@ -1,0 +1,43 @@
+{
+    "id": 3569857,
+    "title": "Pebble of Luck.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/e60e6f0c63549813b873a16b28df5208.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2022-07-28 14:32:17.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "e60e6f0c63549813b873a16b28df5208.jpg",
+    "path": "/uploads/images",
+    "size": 38900,
+    "width": 640,
+    "height": 426,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "John Doyle",
+    "creditArtistWebsite": "https://unsplash.com/@hyw1",
+    "creditArtTitle": "Pebble of Luck",
+    "creditArtUrl": "https://unsplash.com/photos/BtlxANsJrCE",
+    "creationDate": {
+        "date": "2022-07-28 14:27:45.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 167,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/3569857",
+    "isEditable": true,
+    "success": true
+}

@@ -1,0 +1,289 @@
+{
+    "id": "c1624b4f-27da-491b-aa3b-add8698d8ec8",
+    "title": "Professions",
+    "slug": "professions-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "https://www.worldanvil.com/w/hesli/c/professions-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": null,
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": true,
+    "isCollapsed": false,
+    "position": 800,
+    "creationDate": {
+        "date": "2022-04-18 16:36:17.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 231,
+    "custom1": null,
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\",\"toc\"],\"catCol3\":[\"custom3\",\"articleBlocks\",\"featuresArticles\"],\"catCol4\":[\"custom4\",\"maps\",\"timelines\"],\"catCol5\":[\"custom5\"]}",
+    "pagecover": null,
+    "bookcover": null,
+    "defaultarticlecover": null,
+    "parent": {
+        "id": "74049050-24fd-4e6d-9ceb-7586a3c11423",
+        "title": "Culture",
+        "slug": "ethnicities-26-cultures-category",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Category",
+        "icon": "fa-solid fa-folder",
+        "url": "https://www.worldanvil.com/w/hesli/c/ethnicities-26-cultures-category",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "world": {
+        "id": "2aca1405-dcb4-4c1e-b504-a2568b53266b",
+        "title": "Hesli",
+        "slug": "hesli",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/hesli",
+        "subscribergroups": [
+            {
+                "id": "0fca8d26-7f74-455a-9ff5-d522be436867",
+                "title": "Friends of the Wandering Lileon",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c863794d-f753-492f-b851-b0eff40acdd8",
+                "title": "Gamemaster",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-03-29 09:54:54.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "articleRedirect": null,
+    "articles": [
+        {
+            "id": "550d5568-3a82-4eab-8f23-1e283bd79b19",
+            "title": "Blacksmith",
+            "slug": "blacksmith-profession",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Profession",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/blacksmith-profession",
+            "subscribergroups": [],
+            "folderId": "c1624b4f-27da-491b-aa3b-add8698d8ec8",
+            "tags": "WorldEmber21,Revisit",
+            "updateDate": {
+                "date": "2025-01-17 14:03:45.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "161d86d8-8cf3-4ab1-ad7c-8fa10eb1cc55",
+            "title": "Groomer",
+            "slug": "groomer-profession",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Profession",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/groomer-profession",
+            "subscribergroups": [],
+            "folderId": "c1624b4f-27da-491b-aa3b-add8698d8ec8",
+            "tags": "WorldEmber21,Revisit,Improve",
+            "updateDate": {
+                "date": "2025-01-17 14:04:22.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "9bbbb975-2ccd-4cb7-b112-683504c48ebd",
+            "title": "Jewelcrafter",
+            "slug": "jewelcrafter-profession",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Profession",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/jewelcrafter-profession",
+            "subscribergroups": [],
+            "folderId": "c1624b4f-27da-491b-aa3b-add8698d8ec8",
+            "tags": "WorldEmber21,Revisit",
+            "updateDate": {
+                "date": "2025-01-17 14:05:06.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "b8855c87-1d5a-4849-bfbe-a8695354ac02",
+            "title": "Miner",
+            "slug": "miner-profession",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Profession",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/miner-profession",
+            "subscribergroups": [],
+            "folderId": "c1624b4f-27da-491b-aa3b-add8698d8ec8",
+            "tags": "SummerCamp21,Rewrite",
+            "updateDate": {
+                "date": "2025-01-17 14:12:54.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "0db84637-ee32-4741-a436-6be4d4754faf",
+            "title": "Namesmither",
+            "slug": "namesmither-profession",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Profession",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/namesmither-profession",
+            "subscribergroups": [],
+            "folderId": "c1624b4f-27da-491b-aa3b-add8698d8ec8",
+            "tags": "TipsyChronicals,Revisit",
+            "updateDate": {
+                "date": "2025-01-17 18:46:31.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "97abd463-0501-44be-85bb-9bd0e404e413",
+            "title": "Polisher",
+            "slug": "polisher-profession",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Profession",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/polisher-profession",
+            "subscribergroups": [],
+            "folderId": "c1624b4f-27da-491b-aa3b-add8698d8ec8",
+            "tags": "Potential",
+            "updateDate": {
+                "date": "2025-01-17 18:54:23.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "7527879d-31db-4688-b821-5f22dc554e7e",
+            "title": "Potion Brewer",
+            "slug": "potion-brewer-profession",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Profession",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/potion-brewer-profession",
+            "subscribergroups": [],
+            "folderId": "c1624b4f-27da-491b-aa3b-add8698d8ec8",
+            "tags": "Potential",
+            "updateDate": {
+                "date": "2025-01-17 18:54:31.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "bd1f7306-e6de-4dce-8579-91488be04b73",
+            "title": "Sharpener",
+            "slug": "sharpener-profession",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Profession",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/sharpener-profession",
+            "subscribergroups": [],
+            "folderId": "c1624b4f-27da-491b-aa3b-add8698d8ec8",
+            "tags": "Potential",
+            "updateDate": {
+                "date": "2025-01-17 19:21:15.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "8c7ce8f7-4c92-45d2-8d4b-aa522c6b0180",
+            "title": "Smelter",
+            "slug": "smelter-profession",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Profession",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/smelter-profession",
+            "subscribergroups": [],
+            "folderId": "c1624b4f-27da-491b-aa3b-add8698d8ec8",
+            "tags": "Potential",
+            "updateDate": {
+                "date": "2025-01-17 19:22:08.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "efa8099e-842c-456b-ac17-498a6c4e7862",
+            "title": "Sniffer",
+            "slug": "sniffer-profession",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Profession",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/sniffer-profession",
+            "subscribergroups": [],
+            "folderId": "c1624b4f-27da-491b-aa3b-add8698d8ec8",
+            "tags": "Potential",
+            "updateDate": {
+                "date": "2025-01-17 19:24:12.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/category/c1624b4f-27da-491b-aa3b-add8698d8ec8/edit",
+    "parsedDescription": "",
+    "isEditable": true,
+    "success": true
+}

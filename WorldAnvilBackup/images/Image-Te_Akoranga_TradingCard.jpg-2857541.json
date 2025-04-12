@@ -1,0 +1,43 @@
+{
+    "id": 2857541,
+    "title": "Te_Akoranga_TradingCard.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/7c135ea0eb9fc4ce3b0a516cb94cde89.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-12-04 08:31:11.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "7c135ea0eb9fc4ce3b0a516cb94cde89.jpg",
+    "path": "/uploads/images",
+    "size": 323588,
+    "width": 1080,
+    "height": 1920,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Wombo",
+    "creditArtistWebsite": "https://www.wombo.art",
+    "creditArtTitle": "Te Akoranga (generated with Wombo)",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2021-12-01 17:52:52.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 184,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/2857541",
+    "isEditable": true,
+    "success": true
+}

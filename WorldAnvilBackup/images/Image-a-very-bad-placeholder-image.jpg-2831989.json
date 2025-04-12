@@ -1,0 +1,43 @@
+{
+    "id": 2831989,
+    "title": "a-very-bad-placeholder-image.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/e412b27bbbead02902cf1b07709b9af6.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "#placeholder",
+    "updateDate": {
+        "date": "2021-11-22 14:36:51.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "e412b27bbbead02902cf1b07709b9af6.jpg",
+    "path": "/uploads/images",
+    "size": 27404,
+    "width": 640,
+    "height": 427,
+    "extension": "jpg",
+    "description": "A very bad placeholder image",
+    "alt": null,
+    "creditArtistName": "Cornelius Ventures",
+    "creditArtistWebsite": "https://unsplash.com/@corneliusventures",
+    "creditArtTitle": "Placeholder image edited by Sh4d0wPh03n1x",
+    "creditArtUrl": "https://unsplash.com/photos/xw0qdCSerPo",
+    "creationDate": {
+        "date": "2021-11-22 14:35:02.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 267,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": "",
+    "pageUrl": "https://www.worldanvil.com/i/2831989",
+    "isEditable": true,
+    "success": true
+}

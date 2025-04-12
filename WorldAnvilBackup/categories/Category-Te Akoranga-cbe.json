@@ -1,0 +1,183 @@
+{
+    "id": "d7c17cbe-5c90-41f9-9715-a7472ec0137d",
+    "title": "Te Akoranga",
+    "slug": "te-akoranga-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "https://www.worldanvil.com/w/hesli/c/te-akoranga-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": null,
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": true,
+    "isCollapsed": false,
+    "position": null,
+    "creationDate": {
+        "date": "2022-04-18 14:50:18.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 156,
+    "custom1": null,
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\",\"toc\"],\"catCol3\":[\"custom3\",\"articleBlocks\",\"featuresArticles\"],\"catCol4\":[\"custom4\",\"maps\",\"timelines\"],\"catCol5\":[\"custom5\"]}",
+    "pagecover": null,
+    "bookcover": null,
+    "defaultarticlecover": null,
+    "parent": {
+        "id": "7848729a-2596-4116-964d-d7eb79674d5c",
+        "title": "Religions",
+        "slug": "deities-26-religions-category",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Category",
+        "icon": "fa-solid fa-folder",
+        "url": "https://www.worldanvil.com/w/hesli/c/deities-26-religions-category",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "world": {
+        "id": "2aca1405-dcb4-4c1e-b504-a2568b53266b",
+        "title": "Hesli",
+        "slug": "hesli",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/hesli",
+        "subscribergroups": [
+            {
+                "id": "0fca8d26-7f74-455a-9ff5-d522be436867",
+                "title": "Friends of the Wandering Lileon",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c863794d-f753-492f-b851-b0eff40acdd8",
+                "title": "Gamemaster",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-03-29 09:54:54.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "articleRedirect": {
+        "id": "f85ae34c-fa1c-4a34-9865-1294f3fa50b8",
+        "title": "Te Akoranga",
+        "slug": "te-akoranga-organization",
+        "state": "public",
+        "isWip": true,
+        "isDraft": false,
+        "entityClass": "Organization",
+        "icon": "fa-solid fa-shield-quartered",
+        "url": "https://www.worldanvil.com/w/hesli/a/te-akoranga-organization",
+        "subscribergroups": [],
+        "folderId": "d7c17cbe-5c90-41f9-9715-a7472ec0137d",
+        "tags": "WorldEmber21,Revisit",
+        "updateDate": {
+            "date": "2025-01-14 19:39:20.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "children": [
+        {
+            "id": "0fa0c852-1009-45e3-a7ec-81220b05e3e3",
+            "title": "Deities",
+            "slug": "deities-category",
+            "state": "public",
+            "isWip": null,
+            "isDraft": null,
+            "entityClass": "Category",
+            "icon": "fa-solid fa-folder",
+            "url": "https://www.worldanvil.com/w/hesli/c/deities-category",
+            "subscribergroups": [],
+            "folderId": null,
+            "tags": null,
+            "updateDate": null
+        },
+        {
+            "id": "22306109-4ce8-4ca1-9961-9c044007fe27",
+            "title": "Temples",
+            "slug": "temples-category",
+            "state": "public",
+            "isWip": null,
+            "isDraft": null,
+            "entityClass": "Category",
+            "icon": "fa-solid fa-folder",
+            "url": "https://www.worldanvil.com/w/hesli/c/temples-category",
+            "subscribergroups": [],
+            "folderId": null,
+            "tags": null,
+            "updateDate": null
+        },
+        {
+            "id": "4ea885b2-b11b-4010-babf-1baadd3387e1",
+            "title": "Traditions",
+            "slug": "traditions-category",
+            "state": "public",
+            "isWip": null,
+            "isDraft": null,
+            "entityClass": "Category",
+            "icon": "fa-solid fa-folder",
+            "url": "https://www.worldanvil.com/w/hesli/c/traditions-category",
+            "subscribergroups": [],
+            "folderId": null,
+            "tags": null,
+            "updateDate": null
+        }
+    ],
+    "articles": [
+        {
+            "id": "f85ae34c-fa1c-4a34-9865-1294f3fa50b8",
+            "title": "Te Akoranga",
+            "slug": "te-akoranga-organization",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Organization",
+            "icon": "fa-solid fa-shield-quartered",
+            "url": "https://www.worldanvil.com/w/hesli/a/te-akoranga-organization",
+            "subscribergroups": [],
+            "folderId": "d7c17cbe-5c90-41f9-9715-a7472ec0137d",
+            "tags": "WorldEmber21,Revisit",
+            "updateDate": {
+                "date": "2025-01-14 19:39:20.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/category/d7c17cbe-5c90-41f9-9715-a7472ec0137d/edit",
+    "parsedDescription": "",
+    "isEditable": true,
+    "success": true
+}

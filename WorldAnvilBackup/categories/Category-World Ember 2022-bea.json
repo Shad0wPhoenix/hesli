@@ -1,0 +1,268 @@
+{
+    "id": "6e646bea-8b69-4989-91fe-55b84a9492f9",
+    "title": "World Ember 2022",
+    "slug": "world-ember-2022-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "https://www.worldanvil.com/w/hesli/c/world-ember-2022-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": null,
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": true,
+    "isCollapsed": false,
+    "position": null,
+    "creationDate": {
+        "date": "2022-11-24 05:01:55.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 235,
+    "custom1": null,
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\",\"toc\"],\"catCol3\":[\"custom3\",\"articleBlocks\",\"featuresArticles\"],\"catCol4\":[\"custom4\",\"maps\",\"timelines\"],\"catCol5\":[\"custom5\"]}",
+    "pagecover": null,
+    "bookcover": {
+        "id": 3941032,
+        "title": "worldember2022goal.png",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/59e42128b228e1db5c39528e5306b347.png",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2022-11-24 05:23:33.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "defaultarticlecover": {
+        "id": 3941031,
+        "title": "worldember2022.png",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/7eedd6d6f77d9ae4b2626f9b2c69b6e0.png",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2022-11-24 05:21:11.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "parent": {
+        "id": "e89cfd90-fd31-4540-b9a0-d2e3beaa7608",
+        "title": "Challenges",
+        "slug": "challenges-category",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Category",
+        "icon": "fa-solid fa-folder",
+        "url": "https://www.worldanvil.com/w/hesli/c/challenges-category",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "world": {
+        "id": "2aca1405-dcb4-4c1e-b504-a2568b53266b",
+        "title": "Hesli",
+        "slug": "hesli",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/hesli",
+        "subscribergroups": [
+            {
+                "id": "0fca8d26-7f74-455a-9ff5-d522be436867",
+                "title": "Friends of the Wandering Lileon",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c863794d-f753-492f-b851-b0eff40acdd8",
+                "title": "Gamemaster",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-03-29 09:54:54.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "articleRedirect": null,
+    "articles": [
+        {
+            "id": "8644bc3c-fcf3-4eba-a615-bb747c11a2b7",
+            "title": "Adrianne Phyrus",
+            "slug": "adrianne-phyrus-person",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/hesli/a/adrianne-phyrus-person",
+            "subscribergroups": [],
+            "folderId": "6e646bea-8b69-4989-91fe-55b84a9492f9",
+            "tags": "WorldEmber22,Artwork,Revisit",
+            "updateDate": {
+                "date": "2025-01-09 11:29:23.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "d45b77a5-37ab-4089-b29f-f8797ddd150e",
+            "title": "How Not To Get Eaten by Various Phoenixes",
+            "slug": "how-not-to-get-eaten-by-various-phoenixes-item",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Item",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/how-not-to-get-eaten-by-various-phoenixes-item",
+            "subscribergroups": [],
+            "folderId": "6e646bea-8b69-4989-91fe-55b84a9492f9",
+            "tags": "WorldEmber22",
+            "updateDate": {
+                "date": "2025-01-25 21:52:22.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "a842ad50-85ca-4e30-ac45-b39cf8330ecf",
+            "title": "Phoenix",
+            "slug": "phoenix-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/phoenix-species",
+            "subscribergroups": [],
+            "folderId": "6e646bea-8b69-4989-91fe-55b84a9492f9",
+            "tags": "WorldEmber22",
+            "updateDate": {
+                "date": "2025-01-23 16:56:32.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "71199df9-4ab7-49a6-a29a-7b98c9d161ed",
+            "title": "The Phoenix Master",
+            "slug": "the-phoenix-master-rank",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Rank",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/the-phoenix-master-rank",
+            "subscribergroups": [],
+            "folderId": "6e646bea-8b69-4989-91fe-55b84a9492f9",
+            "tags": "WorldEmber22",
+            "updateDate": {
+                "date": "2025-01-25 21:52:27.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "f05cda92-9e7f-434a-b96a-dcdd4f16e079",
+            "title": "The Tale of The First Phoenix",
+            "slug": "the-tale-of-the-first-phoenix-prose",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Prose",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/the-tale-of-the-first-phoenix-prose",
+            "subscribergroups": [],
+            "folderId": "6e646bea-8b69-4989-91fe-55b84a9492f9",
+            "tags": "WorldEmber22,Rewrite",
+            "updateDate": {
+                "date": "2025-01-17 19:32:15.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "e1570f33-4ba3-4948-b5df-22d0edfb3348",
+            "title": "WafflePhoenix",
+            "slug": "wafflephoenix-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/wafflephoenix-species",
+            "subscribergroups": [],
+            "folderId": "6e646bea-8b69-4989-91fe-55b84a9492f9",
+            "tags": "WorldEmber22",
+            "updateDate": {
+                "date": "2025-01-25 21:52:13.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "99165ae5-90a4-4be5-8b0d-1ff210134f05",
+            "title": "World Ember Pledge 2022",
+            "slug": "world-ember-pledge-2022-article",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Article",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/world-ember-pledge-2022-article",
+            "subscribergroups": [],
+            "folderId": "6e646bea-8b69-4989-91fe-55b84a9492f9",
+            "tags": "WorldEmber22,Inspiration",
+            "updateDate": {
+                "date": "2025-01-12 13:16:06.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/category/6e646bea-8b69-4989-91fe-55b84a9492f9/edit",
+    "parsedDescription": "",
+    "isEditable": true,
+    "success": true
+}

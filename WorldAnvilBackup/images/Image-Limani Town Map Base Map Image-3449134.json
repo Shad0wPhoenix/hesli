@@ -1,0 +1,43 @@
+{
+    "id": 3449134,
+    "title": "Limani Town Map Base Map Image",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/maps/ef87c141dabe17703f9c07fea38c665b.png",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2022-06-20 11:25:27.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "ef87c141dabe17703f9c07fea38c665b.png",
+    "path": "/uploads/maps",
+    "size": 7131640,
+    "width": 3661,
+    "height": 4582,
+    "extension": "png",
+    "description": "Map",
+    "alt": "Limani Town Map Base Map Image",
+    "creditArtistName": null,
+    "creditArtistWebsite": null,
+    "creditArtTitle": null,
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2022-06-20 11:25:27.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 5,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": "",
+    "pageUrl": "https://www.worldanvil.com/i/3449134",
+    "isEditable": true,
+    "success": true
+}

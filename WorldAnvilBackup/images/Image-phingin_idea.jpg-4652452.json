@@ -1,0 +1,43 @@
+{
+    "id": 4652452,
+    "title": "phingin_idea.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/69188d454fc72fa38b90b603fed6db0e.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "#ideaPlaceholder",
+    "updateDate": {
+        "date": "2023-07-02 14:22:29.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "69188d454fc72fa38b90b603fed6db0e.jpg",
+    "path": "/uploads/images",
+    "size": 125326,
+    "width": 640,
+    "height": 1222,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Arjun MJ",
+    "creditArtistWebsite": "https://unsplash.com/@arjun_mj",
+    "creditArtTitle": "Phingin",
+    "creditArtUrl": "https://unsplash.com/photos/u3hLk3pJL3Q",
+    "creationDate": {
+        "date": "2023-07-02 14:21:03.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 106,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/4652452",
+    "isEditable": true,
+    "success": true
+}

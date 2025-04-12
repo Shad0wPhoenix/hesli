@@ -1,0 +1,75 @@
+{
+    "id": "af046c43-e879-47ec-b30d-0581a5b52bce",
+    "title": "",
+    "slug": "penguin-army-footernotice",
+    "state": null,
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Variable",
+    "icon": "fa-solid fa-function",
+    "url": null,
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": null,
+    "world": {
+        "id": "2aca1405-dcb4-4c1e-b504-a2568b53266b",
+        "title": "Hesli",
+        "slug": "hesli",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/hesli",
+        "subscribergroups": [
+            {
+                "id": "0fca8d26-7f74-455a-9ff5-d522be436867",
+                "title": "Friends of the Wandering Lileon",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c863794d-f753-492f-b851-b0eff40acdd8",
+                "title": "Gamemaster",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-03-29 09:54:54.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "collection": {
+        "id": "4d891d6f-7256-4f31-9380-16797091bac7",
+        "title": "Penguin Army Fundraiser",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "VariableCollection",
+        "icon": "fa-solid fa-abacus",
+        "url": "https://www.worldanvil.com/world/variables/collection/4d891d6f-7256-4f31-9380-16797091bac7/variables",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "k": "FooterNotice",
+    "v": "[container:penguinArmy aloud][row][container:col-md-10]\r\nHi there!\r\n\r\nAs you may or may not know, I absolutely adore penguins. So, when I heard the african penguin needed help, I had to spring into action — especially when I learned that with just under 20 bucks [url:https://adopt.sanccob.co.za/get-involved/adopt-a-penguin/]SANCCOB[/url] can hatch and raise a chick to full health and release them back in the wild.\r\n\r\nThat's why I'm holding [url:https://www.givengain.com/project/marie-rose-raising-funds-for-sanccob-79329]a fundraiser[/url] during the entirety of SummerCamp, just in time for the breeding season in September. During the entire event, until the award ceremony, you can find me on [url:https://www.twitch.tv/shadowphoenix7899]Twitch[/url] from time to time playing games, doing homework, writing for summer camp, and maybe some music practice too.\r\n\r\n[i]Will you help me Bolstering the Penguin Army in South Africa?[/i][/container][container:col-md-2][img:5658912][/container][/row]\r\n[/container]",
+    "type": "fragment",
+    "isEditable": true,
+    "success": true
+}

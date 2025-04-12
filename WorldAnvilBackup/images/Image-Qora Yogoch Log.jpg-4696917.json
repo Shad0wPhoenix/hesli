@@ -1,0 +1,43 @@
+{
+    "id": 4696917,
+    "title": "Qora Yog'och Log.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/27ecaefa609a8a7af0ebcabad52030b0.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2023-07-16 15:08:39.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "27ecaefa609a8a7af0ebcabad52030b0.jpg",
+    "path": "/uploads/images",
+    "size": 166248,
+    "width": 1556,
+    "height": 315,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Lucrezia Carnelos",
+    "creditArtistWebsite": "https://unsplash.com/@ciabattespugnose",
+    "creditArtTitle": "Crude Qora Yog'och Log",
+    "creditArtUrl": "https://unsplash.com/photos/yrh6UBEMszU",
+    "creationDate": {
+        "date": "2023-07-16 15:07:31.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 99,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/4696917",
+    "isEditable": true,
+    "success": true
+}

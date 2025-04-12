@@ -1,0 +1,232 @@
+{
+    "id": "cece4dc9-26d4-4cff-bf8c-36ce2526c027",
+    "title": "Funga",
+    "slug": "funga-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "https://www.worldanvil.com/w/hesli/c/funga-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": null,
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": true,
+    "isCollapsed": false,
+    "position": 800,
+    "creationDate": {
+        "date": "2022-04-18 14:32:39.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 231,
+    "custom1": null,
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\",\"toc\"],\"catCol3\":[\"custom3\",\"articleBlocks\",\"featuresArticles\"],\"catCol4\":[\"custom4\",\"maps\",\"timelines\"],\"catCol5\":[\"custom5\"]}",
+    "pagecover": null,
+    "bookcover": null,
+    "defaultarticlecover": null,
+    "parent": {
+        "id": "b6104e98-e552-4ddd-b734-df8686e370a0",
+        "title": "Biota",
+        "slug": "fauna-26-flora-category",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Category",
+        "icon": "fa-solid fa-folder",
+        "url": "https://www.worldanvil.com/w/hesli/c/fauna-26-flora-category",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "world": {
+        "id": "2aca1405-dcb4-4c1e-b504-a2568b53266b",
+        "title": "Hesli",
+        "slug": "hesli",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/hesli",
+        "subscribergroups": [
+            {
+                "id": "0fca8d26-7f74-455a-9ff5-d522be436867",
+                "title": "Friends of the Wandering Lileon",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c863794d-f753-492f-b851-b0eff40acdd8",
+                "title": "Gamemaster",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-03-29 09:54:54.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "articleRedirect": null,
+    "articles": [
+        {
+            "id": "3707ea8f-7303-47fa-9d51-276925d126ad",
+            "title": "Blipplerip",
+            "slug": "blipplerip-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/blipplerip-species",
+            "subscribergroups": [],
+            "folderId": "cece4dc9-26d4-4cff-bf8c-36ce2526c027",
+            "tags": "WorldEmber,PublishedWE",
+            "updateDate": {
+                "date": "2021-12-18 21:56:29.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "fb33f8e9-2c27-4aa9-8a18-5127bcf06764",
+            "title": "Kepikepi",
+            "slug": "kepikepi-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/kepikepi-species",
+            "subscribergroups": [],
+            "folderId": "cece4dc9-26d4-4cff-bf8c-36ce2526c027",
+            "tags": "WorldEmber21",
+            "updateDate": {
+                "date": "2025-01-24 14:11:04.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "a010a636-18e6-4a13-a055-5600f32f8eea",
+            "title": "Kosshi",
+            "slug": "kosshi-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/kosshi-species",
+            "subscribergroups": [],
+            "folderId": "cece4dc9-26d4-4cff-bf8c-36ce2526c027",
+            "tags": "WorldEmber21",
+            "updateDate": {
+                "date": "2025-01-24 14:11:13.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "bb99b6ca-d5ee-41e5-b2dc-f5a82fcdd418",
+            "title": "Mixiplix",
+            "slug": "mixiplix-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/mixiplix-species",
+            "subscribergroups": [],
+            "folderId": "cece4dc9-26d4-4cff-bf8c-36ce2526c027",
+            "tags": "WorldEmber21",
+            "updateDate": {
+                "date": "2025-01-23 16:30:39.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "a7da5783-2d49-42bd-aeaa-48bc86faa22e",
+            "title": "Munchskin",
+            "slug": "munchskin-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/munchskin-species",
+            "subscribergroups": [],
+            "folderId": "cece4dc9-26d4-4cff-bf8c-36ce2526c027",
+            "tags": "WorldEmber21",
+            "updateDate": {
+                "date": "2025-01-23 16:30:47.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "fee9b521-e003-4b05-9cf8-58657bff24b6",
+            "title": "Muramura",
+            "slug": "muramura-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/muramura-species",
+            "subscribergroups": [],
+            "folderId": "cece4dc9-26d4-4cff-bf8c-36ce2526c027",
+            "tags": "WorldEmber21,Revisit",
+            "updateDate": {
+                "date": "2025-01-23 16:32:46.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "b33f13af-b2fd-4df7-ac41-25170ab6bb4c",
+            "title": "Shimura",
+            "slug": "shimura-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/shimura-species",
+            "subscribergroups": [],
+            "folderId": "cece4dc9-26d4-4cff-bf8c-36ce2526c027",
+            "tags": "WorldEmber21",
+            "updateDate": {
+                "date": "2025-01-23 19:18:21.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/category/cece4dc9-26d4-4cff-bf8c-36ce2526c027/edit",
+    "parsedDescription": "",
+    "isEditable": true,
+    "success": true
+}

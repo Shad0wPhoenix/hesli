@@ -1,0 +1,43 @@
+{
+    "id": 4659101,
+    "title": "Zedonia.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/0b347f5b5c3cc669aebbbb729cfe453b.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2023-07-04 18:19:35.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "0b347f5b5c3cc669aebbbb729cfe453b.jpg",
+    "path": "/uploads/images",
+    "size": 6481,
+    "width": 240,
+    "height": 275,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Milad Fakurian",
+    "creditArtistWebsite": "https://unsplash.com/@fakurian",
+    "creditArtTitle": "Zedonia Crystal",
+    "creditArtUrl": "https://unsplash.com/photos/dgrcevUROak",
+    "creationDate": {
+        "date": "2023-07-04 18:18:38.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 100,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/4659101",
+    "isEditable": true,
+    "success": true
+}

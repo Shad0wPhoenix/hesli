@@ -1,0 +1,43 @@
+{
+    "id": 3903468,
+    "title": "ShadowPhoenixWorldEmberPledge.png",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/b3bcd9455aea1f5509304bcc42329ab4.png",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2022-11-11 14:22:37.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "b3bcd9455aea1f5509304bcc42329ab4.png",
+    "path": "/uploads/images",
+    "size": 979584,
+    "width": 1600,
+    "height": 900,
+    "extension": "png",
+    "description": null,
+    "alt": null,
+    "creditArtistName": null,
+    "creditArtistWebsite": null,
+    "creditArtTitle": null,
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2022-11-11 14:22:37.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 117,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": "",
+    "pageUrl": "https://www.worldanvil.com/i/3903468",
+    "isEditable": true,
+    "success": true
+}

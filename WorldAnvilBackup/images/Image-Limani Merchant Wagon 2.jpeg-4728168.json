@@ -1,0 +1,43 @@
+{
+    "id": 4728168,
+    "title": "Limani Merchant Wagon 2.jpeg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/8539fd32d70a5c9ee528fcf3c143296d.jpeg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2023-07-25 18:06:52.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "8539fd32d70a5c9ee528fcf3c143296d.jpeg",
+    "path": "/uploads/images",
+    "size": 193838,
+    "width": 1908,
+    "height": 375,
+    "extension": "jpeg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Patty Black",
+    "creditArtistWebsite": "https://unsplash.com/@pattib",
+    "creditArtTitle": "A merchant traveling home with two Otts pulling his wagon",
+    "creditArtUrl": "https://unsplash.com/photos/YQfwKQ4cSik",
+    "creationDate": {
+        "date": "2023-07-25 18:05:06.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 115,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/4728168",
+    "isEditable": true,
+    "success": true
+}

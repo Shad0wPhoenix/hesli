@@ -1,0 +1,43 @@
+{
+    "id": 4696994,
+    "title": "Mushuk.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/e0b2add169c3fb72614aac10153c33a8.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2023-07-16 15:52:17.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "e0b2add169c3fb72614aac10153c33a8.jpg",
+    "path": "/uploads/images",
+    "size": 19517,
+    "width": 289,
+    "height": 353,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "42 North",
+    "creditArtistWebsite": "https://unsplash.com/@42north",
+    "creditArtTitle": "A Stalking Mushuk",
+    "creditArtUrl": "https://unsplash.com/photos/OE7H8Zp1mw8",
+    "creationDate": {
+        "date": "2023-07-16 15:51:33.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 104,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/4696994",
+    "isEditable": true,
+    "success": true
+}

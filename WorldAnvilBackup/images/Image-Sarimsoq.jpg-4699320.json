@@ -1,0 +1,43 @@
+{
+    "id": 4699320,
+    "title": "Sarimsoq.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/b849baab61ebfe5ee19af3897d54e981.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2023-07-17 06:05:14.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "b849baab61ebfe5ee19af3897d54e981.jpg",
+    "path": "/uploads/images",
+    "size": 325134,
+    "width": 1659,
+    "height": 698,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Shelley Pauls",
+    "creditArtistWebsite": "https://unsplash.com/@shelleypauls",
+    "creditArtTitle": "Early Harvested Sarimsoq",
+    "creditArtUrl": "https://unsplash.com/photos/MSJMH0zW64c",
+    "creationDate": {
+        "date": "2023-07-17 06:04:16.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 112,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/4699320",
+    "isEditable": true,
+    "success": true
+}

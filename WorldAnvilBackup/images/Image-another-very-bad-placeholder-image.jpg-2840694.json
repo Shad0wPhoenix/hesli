@@ -1,0 +1,43 @@
+{
+    "id": 2840694,
+    "title": "another-very-bad-placeholder-image.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/53e92795b0786689b301f0aced9ae00c.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "#placeholder",
+    "updateDate": {
+        "date": "2021-11-25 20:36:41.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "53e92795b0786689b301f0aced9ae00c.jpg",
+    "path": "/uploads/images",
+    "size": 81681,
+    "width": 640,
+    "height": 960,
+    "extension": "jpg",
+    "description": "Another very bad placeholder image",
+    "alt": null,
+    "creditArtistName": "Nathalie Spehner",
+    "creditArtistWebsite": "https://unsplash.com/@nathalie_spehner",
+    "creditArtTitle": "Placeholder image edited by Sh4d0wPh03n1x",
+    "creditArtUrl": "https://unsplash.com/photos/NOwDZEMNbzI",
+    "creationDate": {
+        "date": "2021-11-25 20:35:25.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 291,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": "",
+    "pageUrl": "https://www.worldanvil.com/i/2840694",
+    "isEditable": true,
+    "success": true
+}

@@ -1,0 +1,43 @@
+{
+    "id": 2917638,
+    "title": "Joseph Dornstrike.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/b4ce3254d4b87e96058d1949680cf221.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-12-23 12:06:57.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "b4ce3254d4b87e96058d1949680cf221.jpg",
+    "path": "/uploads/images",
+    "size": 1336376,
+    "width": 1024,
+    "height": 1024,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "ShadowPhoenix",
+    "creditArtistWebsite": "https://www.worldanvil.com/author/Sh4d0wPh03n1x",
+    "creditArtTitle": "Joseph Dornstrike made with Heroforge",
+    "creditArtUrl": "https://www.heroforge.com",
+    "creationDate": {
+        "date": "2021-12-22 18:58:48.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": null,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/2917638",
+    "isEditable": true,
+    "success": true
+}

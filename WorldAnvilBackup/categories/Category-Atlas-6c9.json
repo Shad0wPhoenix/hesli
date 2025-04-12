@@ -1,0 +1,100 @@
+{
+    "id": "82d846c9-91f8-45eb-8004-91bb50d13440",
+    "title": "Atlas",
+    "slug": "world-atlas-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "https://www.worldanvil.com/w/hesli/c/world-atlas-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": "The lands of this world. Mountains, Rivers, Valleys, Cities and Landmarks.",
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": true,
+    "isCollapsed": false,
+    "position": 1000,
+    "creationDate": {
+        "date": "2021-06-27 20:20:55.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 218,
+    "custom1": null,
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\",\"toc\"],\"catCol3\":[\"custom3\",\"articleBlocks\",\"featuresArticles\"],\"catCol4\":[\"custom4\",\"maps\",\"timelines\"],\"catCol5\":[\"custom5\"]}",
+    "pagecover": null,
+    "bookcover": null,
+    "defaultarticlecover": null,
+    "parent": null,
+    "world": {
+        "id": "2aca1405-dcb4-4c1e-b504-a2568b53266b",
+        "title": "Hesli",
+        "slug": "hesli",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/hesli",
+        "subscribergroups": [
+            {
+                "id": "0fca8d26-7f74-455a-9ff5-d522be436867",
+                "title": "Friends of the Wandering Lileon",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c863794d-f753-492f-b851-b0eff40acdd8",
+                "title": "Gamemaster",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-03-29 09:54:54.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "articleRedirect": null,
+    "children": [
+        {
+            "id": "f2cf3d74-6fe9-4d01-9f7b-e07293ca55c3",
+            "title": "Hesli",
+            "slug": "hesli-category",
+            "state": "public",
+            "isWip": null,
+            "isDraft": null,
+            "entityClass": "Category",
+            "icon": "fa-solid fa-folder",
+            "url": "https://www.worldanvil.com/w/hesli/c/hesli-category",
+            "subscribergroups": [],
+            "folderId": null,
+            "tags": null,
+            "updateDate": null
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/category/82d846c9-91f8-45eb-8004-91bb50d13440/edit",
+    "parsedDescription": "The lands of this world. Mountains, Rivers, Valleys, Cities and Landmarks.",
+    "isEditable": true,
+    "success": true
+}

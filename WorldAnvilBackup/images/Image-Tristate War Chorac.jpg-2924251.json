@@ -1,0 +1,43 @@
+{
+    "id": 2924251,
+    "title": "Tristate War Chorac.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/e9632c3de324ef2f30039105edc36755.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-12-25 17:34:24.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "e9632c3de324ef2f30039105edc36755.jpg",
+    "path": "/uploads/images",
+    "size": 63503,
+    "width": 640,
+    "height": 406,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "museumsvictoria",
+    "creditArtistWebsite": "https://unsplash.com/@museumsvictoria",
+    "creditArtTitle": "Chorac after an Ostian bombing",
+    "creditArtUrl": "https://unsplash.com/photos/CzsHs8A87Y0",
+    "creationDate": {
+        "date": "2021-12-25 17:31:31.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 177,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/2924251",
+    "isEditable": true,
+    "success": true
+}

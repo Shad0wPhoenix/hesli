@@ -1,0 +1,161 @@
+{
+    "id": "95b797d8-6436-42b6-ba43-3d26110dc9e6",
+    "title": "The Tipsy Chronicles",
+    "slug": "the-tipsy-chronicles-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "https://www.worldanvil.com/w/hesli/c/the-tipsy-chronicles-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": "Sometimes, you are not fully sober but have the greatest ideas (or so it would seem in that moment) that you just [b]need[/b] to write down. Therefore, I present: The Tipsy Chronicals! A collection of articles made when I wasn't in a sober state of mind, but that I need of my chest.\r\n\r\nIs it quality work? You tell me. It will be a place that I'll revisit every now and then to check what I cooked up during interesting times and see if I can possibly work it into my world. If I can, then an article might get moved. If not, then I'll let the terrible ideas live in this sweet little place, because they do deserve a bit of love. ^^",
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": true,
+    "isCollapsed": false,
+    "position": 960,
+    "creationDate": {
+        "date": "2021-08-07 21:14:10.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 427,
+    "custom1": null,
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\",\"toc\"],\"catCol3\":[\"custom3\",\"articleBlocks\",\"featuresArticles\"],\"catCol4\":[\"custom4\",\"maps\",\"timelines\"],\"catCol5\":[\"custom5\"]}",
+    "pagecover": null,
+    "bookcover": null,
+    "defaultarticlecover": null,
+    "parent": null,
+    "world": {
+        "id": "2aca1405-dcb4-4c1e-b504-a2568b53266b",
+        "title": "Hesli",
+        "slug": "hesli",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/hesli",
+        "subscribergroups": [
+            {
+                "id": "0fca8d26-7f74-455a-9ff5-d522be436867",
+                "title": "Friends of the Wandering Lileon",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c863794d-f753-492f-b851-b0eff40acdd8",
+                "title": "Gamemaster",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-03-29 09:54:54.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "articleRedirect": null,
+    "articles": [
+        {
+            "id": "b4b19cdf-938c-45e3-b2a2-9c13fd87bc9e",
+            "title": "Akath Fan Shrimp",
+            "slug": "akath-fan-shrimp-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/akath-fan-shrimp-species",
+            "subscribergroups": [],
+            "folderId": "95b797d8-6436-42b6-ba43-3d26110dc9e6",
+            "tags": null,
+            "updateDate": {
+                "date": "2021-08-09 13:23:25.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "0616ba02-ad82-4755-ad42-8937d28c345f",
+            "title": "Casa Di Rosa",
+            "slug": "casa-di-rosa-settlement",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Settlement",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/casa-di-rosa-settlement",
+            "subscribergroups": [],
+            "folderId": "95b797d8-6436-42b6-ba43-3d26110dc9e6",
+            "tags": "SettlementChallenge",
+            "updateDate": {
+                "date": "2022-04-17 09:53:47.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "2ee9a73d-9f41-4308-82a4-9886a700c010",
+            "title": "Haunted Errands",
+            "slug": "haunted-errands-plot",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Plot",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/haunted-errands-plot",
+            "subscribergroups": [],
+            "folderId": "95b797d8-6436-42b6-ba43-3d26110dc9e6",
+            "tags": null,
+            "updateDate": {
+                "date": "2022-04-30 12:24:42.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "4070888f-9b12-4b4a-893c-16d5aa2e9eb0",
+            "title": "Lileon",
+            "slug": "lileon-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/lileon-species",
+            "subscribergroups": [],
+            "folderId": "95b797d8-6436-42b6-ba43-3d26110dc9e6",
+            "tags": null,
+            "updateDate": {
+                "date": "2021-12-08 13:44:54.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/category/95b797d8-6436-42b6-ba43-3d26110dc9e6/edit",
+    "parsedDescription": "Sometimes, you are not fully sober but have the greatest ideas (or so it would seem in that moment) that you just <b>need</b> to write down. Therefore, I present: The Tipsy Chronicals! A collection of articles made when I wasn't in a sober state of mind, but that I need of my chest.\n\nIs it quality work? You tell me. It will be a place that I'll revisit every now and then to check what I cooked up during interesting times and see if I can possibly work it into my world. If I can, then an article might get moved. If not, then I'll let the terrible ideas live in this sweet little place, because they do deserve a bit of love. ^^",
+    "isEditable": true,
+    "success": true
+}

@@ -1,0 +1,43 @@
+{
+    "id": 4697335,
+    "title": "Mushuk Hunting.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/9342adfdde7c84e1ece81760f9019ae3.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2023-07-16 17:49:12.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "9342adfdde7c84e1ece81760f9019ae3.jpg",
+    "path": "/uploads/images",
+    "size": 185900,
+    "width": 1910,
+    "height": 422,
+    "extension": "jpg",
+    "description": null,
+    "alt": "Mushuk Hunting.jpg",
+    "creditArtistName": "Aleksei Zaitcev",
+    "creditArtistWebsite": "https://unsplash.com/@laowai66",
+    "creditArtTitle": "Hunting Mushuk",
+    "creditArtUrl": "https://unsplash.com/photos/AaE67TUORWM",
+    "creationDate": {
+        "date": "2023-07-16 17:49:12.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 99,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": "",
+    "pageUrl": "https://www.worldanvil.com/i/4697335",
+    "isEditable": true,
+    "success": true
+}

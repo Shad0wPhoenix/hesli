@@ -1,0 +1,43 @@
+{
+    "id": 2492696,
+    "title": "Hunting snowfox on the hunt.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/f10cbe757f71be26042eb11dd30d1968.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-07-25 19:25:42.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "f10cbe757f71be26042eb11dd30d1968.jpg",
+    "path": "/uploads/images",
+    "size": 81755,
+    "width": 1908,
+    "height": 570,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Brad Josephs",
+    "creditArtistWebsite": null,
+    "creditArtTitle": "Hunting Snow Fox on the Hunt",
+    "creditArtUrl": "https://www.nathab.com/know-before-you-go/churchill/polar-bears/wildlife-guide/arctic-fox/",
+    "creationDate": {
+        "date": "2021-07-25 19:24:46.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 1,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": "",
+    "pageUrl": "https://www.worldanvil.com/i/2492696",
+    "isEditable": true,
+    "success": true
+}

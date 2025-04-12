@@ -1,0 +1,42 @@
+{
+    "id": "8c46626d-9be3-4f07-9a66-87d73d37ebab",
+    "title": "Adventures of Hesli",
+    "slug": "0872725009-sh4d0wph03n1x-adventures-of-hesli",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Manuscript",
+    "icon": "fa-solid fa-book",
+    "url": "https://www.worldanvil.com/community/manuscripts/read/0872725009-sh4d0wph03n1x-adventures-of-hesli",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": {},
+    "updateDate": {
+        "date": "2021-11-03 07:18:19.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "content": "Welcome to my first ever nanowrimo project that I am fully winging because I decided on October 31st to participate anyway. Enjoy the adventure of four players venturing through the world of Hesli with many dangers ahead of them. Can they survive and warn the people in time?",
+    "accessDenied": null,
+    "customAdvert": null,
+    "credits": null,
+    "patreon": null,
+    "kofi": null,
+    "creationDate": {
+        "date": "2021-11-03 07:18:19.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "publicationDate": {
+        "date": "2021-11-03 14:53:10.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "position": null,
+    "likes": 1,
+    "wordcount": 15395,
+    "viewcount": 4249,
+    "status": "ongoing",
+    "isEditable": true,
+    "success": true
+}

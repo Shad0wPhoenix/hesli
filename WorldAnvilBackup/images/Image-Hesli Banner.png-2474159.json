@@ -1,0 +1,43 @@
+{
+    "id": 2474159,
+    "title": "Hesli Banner.png",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/6b66201ef8418333def9f07a89754e7d.png",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "#banner #hesli",
+    "updateDate": {
+        "date": "2021-07-19 16:41:25.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "6b66201ef8418333def9f07a89754e7d.png",
+    "path": "/uploads/images",
+    "size": 468953,
+    "width": 1920,
+    "height": 500,
+    "extension": "png",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "ShadowPhoenix",
+    "creditArtistWebsite": null,
+    "creditArtTitle": "Hesli Banner",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2021-07-19 16:40:52.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 1,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": "",
+    "pageUrl": "https://www.worldanvil.com/i/2474159",
+    "isEditable": true,
+    "success": true
+}

@@ -1,0 +1,43 @@
+{
+    "id": 4699563,
+    "title": "Wild Sarimsoq Covering the Forest Floor.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/252a1816b36a95c6c96066b1d013ac73.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2023-07-17 10:15:49.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "252a1816b36a95c6c96066b1d013ac73.jpg",
+    "path": "/uploads/images",
+    "size": 444591,
+    "width": 1915,
+    "height": 510,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Pascal Debrunner",
+    "creditArtistWebsite": "https://unsplash.com/@debrupas",
+    "creditArtTitle": "Sarimsoq Covering the Forest Floor",
+    "creditArtUrl": "https://unsplash.com/photos/YNeuz7wCMWc",
+    "creationDate": {
+        "date": "2023-07-17 10:15:01.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 120,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/4699563",
+    "isEditable": true,
+    "success": true
+}

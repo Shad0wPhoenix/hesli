@@ -1,0 +1,43 @@
+{
+    "id": 2862902,
+    "title": "Ogalthr screenshot.png",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/523ae605eb5d5a666b0abac68d6312cf.png",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-12-08 11:19:46.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "523ae605eb5d5a666b0abac68d6312cf.png",
+    "path": "/uploads/images",
+    "size": 1161183,
+    "width": 1024,
+    "height": 1024,
+    "extension": "png",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Sh4d0wPh03n1x",
+    "creditArtistWebsite": "https://www.worldanvil.com/author/Sh4d0wPh03n1x",
+    "creditArtTitle": "Ogalthr",
+    "creditArtUrl": "https://www.heroforge.com",
+    "creationDate": {
+        "date": "2021-12-03 08:43:22.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": null,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/2862902",
+    "isEditable": true,
+    "success": true
+}

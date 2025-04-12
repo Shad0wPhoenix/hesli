@@ -1,0 +1,43 @@
+{
+    "id": 2536028,
+    "title": "WAImage00001.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/0cb17b59e869704452a5885f63845217.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-09-15 19:47:50.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "0cb17b59e869704452a5885f63845217.jpg",
+    "path": "/uploads/images",
+    "size": 603591,
+    "width": 2048,
+    "height": 1363,
+    "extension": "jpg",
+    "description": "Akath Fan Shrimp scraping the ground for food",
+    "alt": null,
+    "creditArtistName": "Sh4d0wPh03n1x",
+    "creditArtistWebsite": "https://www.worldanvil.com/author/Sh4d0wPh03n1x",
+    "creditArtTitle": "Oh uh... Hello! o//",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2021-08-09 12:21:24.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 180,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": "",
+    "pageUrl": "https://www.worldanvil.com/i/2536028",
+    "isEditable": true,
+    "success": true
+}

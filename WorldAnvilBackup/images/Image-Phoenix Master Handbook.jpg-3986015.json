@@ -1,0 +1,43 @@
+{
+    "id": 3986015,
+    "title": "Phoenix Master Handbook.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/80caa815a9201916d546341e4c6a9d94.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2022-12-08 20:15:18.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "80caa815a9201916d546341e4c6a9d94.jpg",
+    "path": "/uploads/images",
+    "size": 177225,
+    "width": 514,
+    "height": 758,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Emanuele Crava",
+    "creditArtistWebsite": "https://pixabay.com/users/crava_emanuele-8297760",
+    "creditArtTitle": "The Phoenix Master Handbook",
+    "creditArtUrl": "https://pixabay.com/photos/wallpaper-book-album-notebook-skin-3272886/",
+    "creationDate": {
+        "date": "2022-12-08 20:13:55.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 133,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/3986015",
+    "isEditable": true,
+    "success": true
+}

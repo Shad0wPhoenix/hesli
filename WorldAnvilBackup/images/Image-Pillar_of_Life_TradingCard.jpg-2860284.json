@@ -1,0 +1,43 @@
+{
+    "id": 2860284,
+    "title": "Pillar_of_Life_TradingCard.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/adbdda1af9febb79a290d43f19140057.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-12-02 16:26:01.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "adbdda1af9febb79a290d43f19140057.jpg",
+    "path": "/uploads/images",
+    "size": 400896,
+    "width": 1080,
+    "height": 1920,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Wombo",
+    "creditArtistWebsite": "https://www.wombo.art",
+    "creditArtTitle": "Pillar of Life (Generated with Wombo)",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2021-12-02 16:17:05.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": null,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": "",
+    "pageUrl": "https://www.worldanvil.com/i/2860284",
+    "isEditable": true,
+    "success": true
+}

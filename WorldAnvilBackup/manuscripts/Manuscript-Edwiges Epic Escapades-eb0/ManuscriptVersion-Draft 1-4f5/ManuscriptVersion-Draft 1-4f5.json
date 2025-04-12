@@ -1,0 +1,28 @@
+{
+    "id": "533464f5-06f3-4aff-b722-8dcde2297ccb",
+    "title": "Draft 1",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "ManuscriptVersion",
+    "icon": "fa-solid fa-book-arrow-up",
+    "url": null,
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2022-10-02 08:25:12.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "creationDate": {
+        "date": "2022-10-02 08:25:12.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "wordcount": null,
+    "position": 1,
+    "isEditable": true,
+    "success": true
+}

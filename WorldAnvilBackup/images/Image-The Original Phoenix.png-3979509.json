@@ -1,0 +1,43 @@
+{
+    "id": 3979509,
+    "title": "The Original Phoenix.png",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/ed3e2ea882f7d8abf6789d32c2eba000.png",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2022-12-06 19:05:52.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "ed3e2ea882f7d8abf6789d32c2eba000.png",
+    "path": "/uploads/images",
+    "size": 3799256,
+    "width": 1536,
+    "height": 1024,
+    "extension": "png",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Theiket using MidJourney",
+    "creditArtistWebsite": "https://www.worldanvil.com/author/theiket",
+    "creditArtTitle": "The Original Phoenix",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2022-12-06 18:21:36.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 157,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/3979509",
+    "isEditable": true,
+    "success": true
+}

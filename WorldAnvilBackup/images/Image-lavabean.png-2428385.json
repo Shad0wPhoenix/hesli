@@ -1,0 +1,43 @@
+{
+    "id": 2428385,
+    "title": "lavabean.png",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/836cc00ddb985f06bd675428f638f2bd.png",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-07-04 19:54:30.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "836cc00ddb985f06bd675428f638f2bd.png",
+    "path": "/uploads/images",
+    "size": 36477,
+    "width": 407,
+    "height": 385,
+    "extension": "png",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "nnie",
+    "creditArtistWebsite": null,
+    "creditArtTitle": "Lava Bean",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2021-07-04 19:45:36.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 152,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/2428385",
+    "isEditable": true,
+    "success": true
+}

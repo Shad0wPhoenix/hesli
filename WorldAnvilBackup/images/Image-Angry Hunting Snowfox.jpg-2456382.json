@@ -1,0 +1,43 @@
+{
+    "id": 2456382,
+    "title": "Angry Hunting Snowfox.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/aaf3a4ab9e043da138ab35906bb99cd1.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "#snowfox-barion-kala",
+    "updateDate": {
+        "date": "2021-07-13 19:39:43.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "aaf3a4ab9e043da138ab35906bb99cd1.jpg",
+    "path": "/uploads/images",
+    "size": 1938584,
+    "width": 7360,
+    "height": 4912,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Jonatan Pie",
+    "creditArtistWebsite": "https://unsplash.com/@r3dmax",
+    "creditArtTitle": "Angry Hunting Snowfox",
+    "creditArtUrl": "https://unsplash.com/photos/NBvcQRdRSeQ",
+    "creationDate": {
+        "date": "2021-07-13 19:34:58.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 6,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/2456382",
+    "isEditable": true,
+    "success": true
+}

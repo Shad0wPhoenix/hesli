@@ -1,0 +1,43 @@
+{
+    "id": 2456386,
+    "title": "Hunting Snowfox.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/ea1c2ff9a945697f07adf5341eb45c2f.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "#snowfox #barion #kala",
+    "updateDate": {
+        "date": "2021-07-28 18:08:33.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "ea1c2ff9a945697f07adf5341eb45c2f.jpg",
+    "path": "/uploads/images",
+    "size": 1949856,
+    "width": 7360,
+    "height": 4912,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Jonatan Pie",
+    "creditArtistWebsite": "https://unsplash.com/@r3dmax",
+    "creditArtTitle": "Hunting Snowfox",
+    "creditArtUrl": "https://unsplash.com/photos/NBvcQRdRSeQ",
+    "creationDate": {
+        "date": "2021-07-13 19:35:10.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 176,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": "",
+    "pageUrl": "https://www.worldanvil.com/i/2456386",
+    "isEditable": true,
+    "success": true
+}

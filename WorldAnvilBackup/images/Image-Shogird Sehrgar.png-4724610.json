@@ -1,0 +1,43 @@
+{
+    "id": 4724610,
+    "title": "Shogird Sehrgar.png",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/d99c199a272c3a4e9e4c65a668eac791.png",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2023-07-24 17:12:47.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "d99c199a272c3a4e9e4c65a668eac791.png",
+    "path": "/uploads/images",
+    "size": 1039740,
+    "width": 817,
+    "height": 1277,
+    "extension": "png",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "ShadowPhoenix using HeroForge",
+    "creditArtistWebsite": "https://www.worldanvil.com/author/Sh4d0wPh03n1x",
+    "creditArtTitle": "Shogird Sehrgar",
+    "creditArtUrl": "https://www.heroforge.com",
+    "creationDate": {
+        "date": "2023-07-24 17:11:41.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": null,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/4724610",
+    "isEditable": true,
+    "success": true
+}

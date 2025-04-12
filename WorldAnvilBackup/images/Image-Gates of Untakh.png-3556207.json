@@ -1,0 +1,43 @@
+{
+    "id": 3556207,
+    "title": "Gates of Untakh.png",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/7b23812dd02a6ab47f16a13988ee23ba.png",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2022-07-24 14:59:38.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "7b23812dd02a6ab47f16a13988ee23ba.png",
+    "path": "/uploads/images",
+    "size": 2944465,
+    "width": 1792,
+    "height": 1024,
+    "extension": "png",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Theiket using MidJourney",
+    "creditArtistWebsite": "https://www.worldanvil.com/author/Theiket",
+    "creditArtTitle": "Gates of Untakh",
+    "creditArtUrl": "https://s.mj.run/1yZTHSwtcPk",
+    "creationDate": {
+        "date": "2022-07-24 14:57:00.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 134,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/3556207",
+    "isEditable": true,
+    "success": true
+}

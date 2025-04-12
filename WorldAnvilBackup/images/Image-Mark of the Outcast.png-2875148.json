@@ -1,0 +1,43 @@
+{
+    "id": 2875148,
+    "title": "Mark of the Outcast.png",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/c8f3832161b57ab8714cda5eb32fccbf.png",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-12-07 19:30:54.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "c8f3832161b57ab8714cda5eb32fccbf.png",
+    "path": "/uploads/images",
+    "size": 563488,
+    "width": 4096,
+    "height": 4096,
+    "extension": "png",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "ShadowPhoenix",
+    "creditArtistWebsite": "https://www.worldanvil.com/author/Sh4d0wPh03n1x",
+    "creditArtTitle": "Mark of the Outcast",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2021-12-07 19:30:14.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 183,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/2875148",
+    "isEditable": true,
+    "success": true
+}

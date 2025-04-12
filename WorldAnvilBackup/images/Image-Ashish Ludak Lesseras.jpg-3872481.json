@@ -1,0 +1,43 @@
+{
+    "id": 3872481,
+    "title": "Ashish Ludak Lesseras.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/ceaa8bc4d00b375fae91f4a98a4b091a.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2022-11-01 15:56:26.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "ceaa8bc4d00b375fae91f4a98a4b091a.jpg",
+    "path": "/uploads/images",
+    "size": 5712720,
+    "width": 5400,
+    "height": 7200,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Lesseras",
+    "creditArtistWebsite": "https://twitter.com/lesseras_art",
+    "creditArtTitle": "Ashish Ludak",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2022-11-01 15:55:07.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": null,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/3872481",
+    "isEditable": true,
+    "success": true
+}

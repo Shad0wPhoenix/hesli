@@ -1,0 +1,43 @@
+{
+    "id": 3548687,
+    "title": "Kali under the tree.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/0e927f4cbf5f1fd4d5aa1305eda0feec.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2022-07-22 07:52:01.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "0e927f4cbf5f1fd4d5aa1305eda0feec.jpg",
+    "path": "/uploads/images",
+    "size": 144305,
+    "width": 640,
+    "height": 960,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Norbert Tóth",
+    "creditArtistWebsite": "https://unsplash.com/@tothnorex",
+    "creditArtTitle": "Kali's Loneliness",
+    "creditArtUrl": "https://unsplash.com/photos/exI3uXWZgwo",
+    "creationDate": {
+        "date": "2022-07-22 07:50:30.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 131,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/3548687",
+    "isEditable": true,
+    "success": true
+}

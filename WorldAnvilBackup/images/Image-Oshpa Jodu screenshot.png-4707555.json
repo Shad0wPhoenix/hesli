@@ -1,0 +1,43 @@
+{
+    "id": 4707555,
+    "title": "Oshpa Jodu screenshot.png",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/6beb4bd3498ebcbfb6d0596efbcbc749.png",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2023-07-19 14:59:16.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "6beb4bd3498ebcbfb6d0596efbcbc749.png",
+    "path": "/uploads/images",
+    "size": 1196725,
+    "width": 1024,
+    "height": 1024,
+    "extension": "png",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "ShadowPhoenix using HeroForge",
+    "creditArtistWebsite": "https://www.heroforge.com",
+    "creditArtTitle": "Oshpa Jodu",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2023-07-19 14:58:39.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": null,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/4707555",
+    "isEditable": true,
+    "success": true
+}

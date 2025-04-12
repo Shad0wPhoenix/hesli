@@ -1,0 +1,43 @@
+{
+    "id": 2474274,
+    "title": "Scroll.png",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/1d4f192642fccbf87a1e04f8c9ed244d.png",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-07-19 17:23:48.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "1d4f192642fccbf87a1e04f8c9ed244d.png",
+    "path": "/uploads/images",
+    "size": 156261,
+    "width": 500,
+    "height": 500,
+    "extension": "png",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "ShadowPhoenix",
+    "creditArtistWebsite": null,
+    "creditArtTitle": "Scroll",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2021-07-19 17:23:26.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 186,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": "",
+    "pageUrl": "https://www.worldanvil.com/i/2474274",
+    "isEditable": true,
+    "success": true
+}

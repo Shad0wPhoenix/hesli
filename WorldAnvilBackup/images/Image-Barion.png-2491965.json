@@ -1,0 +1,43 @@
+{
+    "id": 2491965,
+    "title": "Barion.png",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/9d5850a6d598f893bffb23645983da97.png",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-12-08 11:19:32.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "9d5850a6d598f893bffb23645983da97.png",
+    "path": "/uploads/images",
+    "size": 1573055,
+    "width": 1024,
+    "height": 1024,
+    "extension": "png",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "ShadowPhoenix",
+    "creditArtistWebsite": null,
+    "creditArtTitle": "A typical Barion with his Hunting Snowfox",
+    "creditArtUrl": "https://www.heroforge.com",
+    "creationDate": {
+        "date": "2021-07-25 14:51:23.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 145,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/2491965",
+    "isEditable": true,
+    "success": true
+}

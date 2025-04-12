@@ -1,0 +1,25 @@
+{
+    "id": "1fbf556c-36c2-4cbd-9469-989ed27bd22b",
+    "title": "Worldbuilding",
+    "slug": null,
+    "state": null,
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Notebook",
+    "icon": "fa-solid fa-notebook",
+    "url": "https://www.worldanvil.com/notebook/notebook/1fbf556c-36c2-4cbd-9469-989ed27bd22b/load",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "creationDate": {
+        "date": "2021-04-30 17:13:59.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "color": null,
+    "weight": 1,
+    "isSelected": 0,
+    "isEditable": true,
+    "success": true
+}

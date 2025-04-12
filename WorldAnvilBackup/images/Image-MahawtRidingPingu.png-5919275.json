@@ -1,0 +1,43 @@
+{
+    "id": 5919275,
+    "title": "MahawtRidingPingu.png",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/c2798a52-1647-4e83-af08-d7ecef98b723/uploads/images/761682b13a46d808f75eb4487668a876.png",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2024-09-10 20:06:03.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "761682b13a46d808f75eb4487668a876.png",
+    "path": "https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/c2798a52-1647-4e83-af08-d7ecef98b723/uploads/images",
+    "size": 576228,
+    "width": 707,
+    "height": 1000,
+    "extension": "png",
+    "description": null,
+    "alt": null,
+    "creditArtistName": null,
+    "creditArtistWebsite": null,
+    "creditArtTitle": "The Legendary Duo: Zuzu and her rider Noot",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2024-09-10 19:53:38.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 32,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/5919275",
+    "isEditable": true,
+    "success": true
+}

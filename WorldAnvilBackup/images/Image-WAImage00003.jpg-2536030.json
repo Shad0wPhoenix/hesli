@@ -1,0 +1,43 @@
+{
+    "id": 2536030,
+    "title": "WAImage00003.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/104c2f4141bdafcbceeb4935d790f3ac.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-08-09 12:25:41.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "104c2f4141bdafcbceeb4935d790f3ac.jpg",
+    "path": "/uploads/images",
+    "size": 543779,
+    "width": 2048,
+    "height": 1363,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Sh4d0wPh03n1x",
+    "creditArtistWebsite": "https://www.worldanvil.com/author/Sh4d0wPh03n1x",
+    "creditArtTitle": "Proudly in the current",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2021-08-09 12:21:28.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 181,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": "",
+    "pageUrl": "https://www.worldanvil.com/i/2536030",
+    "isEditable": true,
+    "success": true
+}

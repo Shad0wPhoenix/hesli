@@ -1,0 +1,43 @@
+{
+    "id": 2924289,
+    "title": "Knight Chess Piece.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/9b53c316cc01d1b8c57735c71a841995.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-12-25 17:47:32.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "9b53c316cc01d1b8c57735c71a841995.jpg",
+    "path": "/uploads/images",
+    "size": 20708,
+    "width": 640,
+    "height": 667,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Piotr Makowski",
+    "creditArtistWebsite": "https://unsplash.com/@m4quuv",
+    "creditArtTitle": "The Knight, Josephs Favourite Chess Piece",
+    "creditArtUrl": "https://unsplash.com/photos/27LH_0jXKYI",
+    "creationDate": {
+        "date": "2021-12-25 17:46:37.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 178,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/2924289",
+    "isEditable": true,
+    "success": true
+}

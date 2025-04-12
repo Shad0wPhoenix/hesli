@@ -1,0 +1,232 @@
+{
+    "id": "708bea70-a7f2-4fef-8fe2-a53f32d5c533",
+    "title": "Artifacts",
+    "slug": "artifacts-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "https://www.worldanvil.com/w/hesli/c/artifacts-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": "",
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": true,
+    "isCollapsed": false,
+    "position": 100,
+    "creationDate": {
+        "date": "2021-06-27 20:20:55.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 199,
+    "custom1": null,
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\",\"toc\"],\"catCol3\":[\"custom3\",\"articleBlocks\",\"featuresArticles\"],\"catCol4\":[\"custom4\",\"maps\",\"timelines\"],\"catCol5\":[\"custom5\"]}",
+    "pagecover": null,
+    "bookcover": null,
+    "defaultarticlecover": null,
+    "parent": {
+        "id": "55824525-41a2-4c22-b09e-066aaa9e3218",
+        "title": "Equipment",
+        "slug": "equipment-category",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Category",
+        "icon": "fa-solid fa-folder",
+        "url": "https://www.worldanvil.com/w/hesli/c/equipment-category",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "world": {
+        "id": "2aca1405-dcb4-4c1e-b504-a2568b53266b",
+        "title": "Hesli",
+        "slug": "hesli",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/hesli",
+        "subscribergroups": [
+            {
+                "id": "0fca8d26-7f74-455a-9ff5-d522be436867",
+                "title": "Friends of the Wandering Lileon",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c863794d-f753-492f-b851-b0eff40acdd8",
+                "title": "Gamemaster",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-03-29 09:54:54.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "articleRedirect": null,
+    "articles": [
+        {
+            "id": "85f3db24-79e1-4f8f-8b24-dbbd2d601d28",
+            "title": "The Day of the Rising Sun",
+            "slug": "the-day-of-the-rising-sun-document",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Document",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/the-day-of-the-rising-sun-document",
+            "subscribergroups": [],
+            "folderId": "708bea70-a7f2-4fef-8fe2-a53f32d5c533",
+            "tags": "Potential,History",
+            "updateDate": {
+                "date": "2025-01-10 17:44:15.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "a3cdcf39-14f0-4199-9b59-a2970be40de5",
+            "title": "The Disappearance",
+            "slug": "the-disappearance-document",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Document",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/the-disappearance-document",
+            "subscribergroups": [],
+            "folderId": "708bea70-a7f2-4fef-8fe2-a53f32d5c533",
+            "tags": "Potential,History",
+            "updateDate": {
+                "date": "2025-01-10 17:44:23.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "60d72ac6-27fd-41e4-96a7-f6dec1dd0651",
+            "title": "The Disciples of Chaos",
+            "slug": "the-disciples-of-chaos-document",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Document",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/the-disciples-of-chaos-document",
+            "subscribergroups": [],
+            "folderId": "708bea70-a7f2-4fef-8fe2-a53f32d5c533",
+            "tags": "Potential,History",
+            "updateDate": {
+                "date": "2025-01-10 17:44:30.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "59bb8ea4-4e1f-4d47-9d3b-6761de8ac899",
+            "title": "The Draconic War",
+            "slug": "the-draconic-war-document",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Document",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/the-draconic-war-document",
+            "subscribergroups": [],
+            "folderId": "708bea70-a7f2-4fef-8fe2-a53f32d5c533",
+            "tags": "Potential,History",
+            "updateDate": {
+                "date": "2025-01-10 17:44:38.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "2ab4dbb3-c6f2-4582-98d0-73fec001d92a",
+            "title": "The New Beginning",
+            "slug": "the-new-beginning-document",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Document",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/the-new-beginning-document",
+            "subscribergroups": [],
+            "folderId": "708bea70-a7f2-4fef-8fe2-a53f32d5c533",
+            "tags": "Potential,History",
+            "updateDate": {
+                "date": "2025-01-10 17:44:43.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "934ef499-2aec-4b69-971b-7915b5c3f88f",
+            "title": "The Night of the Setting Moon",
+            "slug": "the-day-of-the-setting-moon-document",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Document",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/the-day-of-the-setting-moon-document",
+            "subscribergroups": [],
+            "folderId": "708bea70-a7f2-4fef-8fe2-a53f32d5c533",
+            "tags": "Potential,History",
+            "updateDate": {
+                "date": "2025-01-10 17:44:49.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "67250d06-1f3a-42d0-9d8b-85df8a0651c5",
+            "title": "The Year of Collaboration",
+            "slug": "the-year-of-collaboration-document",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Document",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/the-year-of-collaboration-document",
+            "subscribergroups": [],
+            "folderId": "708bea70-a7f2-4fef-8fe2-a53f32d5c533",
+            "tags": "Potential,History",
+            "updateDate": {
+                "date": "2025-01-10 17:45:20.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/category/708bea70-a7f2-4fef-8fe2-a53f32d5c533/edit",
+    "parsedDescription": "",
+    "isEditable": true,
+    "success": true
+}

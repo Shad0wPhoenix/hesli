@@ -1,0 +1,43 @@
+{
+    "id": 2492661,
+    "title": "hunting-snowfox-pups.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/6a8896ccec21239148db17af15c30f94.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-07-28 19:07:10.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "6a8896ccec21239148db17af15c30f94.jpg",
+    "path": "/uploads/images",
+    "size": 407851,
+    "width": 750,
+    "height": 620,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Giedriius",
+    "creditArtistWebsite": "https://www.shutterstock.com/g/Giedriius",
+    "creditArtTitle": "Hunting Snow Fox pups",
+    "creditArtUrl": "https://www.shutterstock.com/image-photo/close-cute-playful-blue-morph-arctic-777241504",
+    "creationDate": {
+        "date": "2021-07-25 19:11:12.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 166,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/2492661",
+    "isEditable": true,
+    "success": true
+}

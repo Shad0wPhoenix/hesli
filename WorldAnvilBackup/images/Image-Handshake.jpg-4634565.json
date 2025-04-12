@@ -1,0 +1,43 @@
+{
+    "id": 4634565,
+    "title": "Handshake.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/0a979c639ba09cc9db7ca921b62f4d45.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2023-06-26 11:18:48.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "0a979c639ba09cc9db7ca921b62f4d45.jpg",
+    "path": "/uploads/images",
+    "size": 46408,
+    "width": 624,
+    "height": 419,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "KrakenImages",
+    "creditArtistWebsite": "https://unsplash.com/@krakenimages",
+    "creditArtTitle": "Working Together",
+    "creditArtUrl": "https://unsplash.com/photos/Y5bvRlcCx8k",
+    "creationDate": {
+        "date": "2023-06-26 11:17:17.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 121,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/4634565",
+    "isEditable": true,
+    "success": true
+}

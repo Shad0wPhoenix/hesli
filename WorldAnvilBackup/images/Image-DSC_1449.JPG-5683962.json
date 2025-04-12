@@ -1,0 +1,43 @@
+{
+    "id": 5683962,
+    "title": "DSC_1449.JPG",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/c2798a52-1647-4e83-af08-d7ecef98b723/uploads/images/97a5d522d7586bfdd8c11baacd8fa756.jpeg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2024-06-14 16:09:00.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "97a5d522d7586bfdd8c11baacd8fa756.jpeg",
+    "path": "https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/c2798a52-1647-4e83-af08-d7ecef98b723/uploads/images",
+    "size": 4965421,
+    "width": 5568,
+    "height": 3712,
+    "extension": "jpeg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "ShadowPhoenix",
+    "creditArtistWebsite": null,
+    "creditArtTitle": "Like this side of me, hm?",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2024-06-14 16:07:57.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 50,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": "",
+    "pageUrl": "https://www.worldanvil.com/i/5683962",
+    "isEditable": true,
+    "success": true
+}

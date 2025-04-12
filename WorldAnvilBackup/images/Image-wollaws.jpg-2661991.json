@@ -1,0 +1,43 @@
+{
+    "id": 2661991,
+    "title": "wollaws.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/701d759f8a10a380e18995121d6abc0f.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-09-23 14:44:00.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "701d759f8a10a380e18995121d6abc0f.jpg",
+    "path": "/uploads/images",
+    "size": 96465,
+    "width": 1500,
+    "height": 1000,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Roger Tidman",
+    "creditArtistWebsite": "https://www.gettyimages.nl/search/photographer?family=creative&photographer=Roger+Tidman",
+    "creditArtTitle": "A wollaws in flight",
+    "creditArtUrl": "https://www.gettyimages.nl/detail/foto/adult-barn-swallow-in-flight-royalty-free-beeld/528700642",
+    "creationDate": {
+        "date": "2021-09-22 06:37:29.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": null,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": "",
+    "pageUrl": "https://www.worldanvil.com/i/2661991",
+    "isEditable": true,
+    "success": true
+}

@@ -1,0 +1,363 @@
+{
+    "id": "daa4721e-1bde-4e10-b109-0cfc252415c1",
+    "title": "World Ember 2021",
+    "slug": "world-ember-2021-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "https://www.worldanvil.com/w/hesli/c/world-ember-2021-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": null,
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": true,
+    "isCollapsed": false,
+    "position": null,
+    "creationDate": {
+        "date": "2021-11-05 20:49:46.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 371,
+    "custom1": null,
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\",\"toc\"],\"catCol3\":[\"custom3\",\"articleBlocks\",\"featuresArticles\"],\"catCol4\":[\"custom4\",\"maps\",\"timelines\"],\"catCol5\":[\"custom5\"]}",
+    "pagecover": {
+        "id": 2853450,
+        "title": "worldember banner.png",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/06037fee6056a2d331f6df86dac9f6c0.png",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "#w",
+        "updateDate": {
+            "date": "2021-11-30 07:48:57.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "bookcover": null,
+    "defaultarticlecover": {
+        "id": 2853450,
+        "title": "worldember banner.png",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/06037fee6056a2d331f6df86dac9f6c0.png",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "#w",
+        "updateDate": {
+            "date": "2021-11-30 07:48:57.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "parent": {
+        "id": "e89cfd90-fd31-4540-b9a0-d2e3beaa7608",
+        "title": "Challenges",
+        "slug": "challenges-category",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Category",
+        "icon": "fa-solid fa-folder",
+        "url": "https://www.worldanvil.com/w/hesli/c/challenges-category",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "world": {
+        "id": "2aca1405-dcb4-4c1e-b504-a2568b53266b",
+        "title": "Hesli",
+        "slug": "hesli",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/hesli",
+        "subscribergroups": [
+            {
+                "id": "0fca8d26-7f74-455a-9ff5-d522be436867",
+                "title": "Friends of the Wandering Lileon",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c863794d-f753-492f-b851-b0eff40acdd8",
+                "title": "Gamemaster",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-03-29 09:54:54.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "articleRedirect": null,
+    "articles": [
+        {
+            "id": "cae06919-a39b-46aa-b886-454b7c59a678",
+            "title": "The People of Hesli - World Ember 2021 Pledge",
+            "slug": "the-people-of-hesli---world-ember-2021-pledge-article",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Article",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/the-people-of-hesli---world-ember-2021-pledge-article",
+            "subscribergroups": [],
+            "folderId": "daa4721e-1bde-4e10-b109-0cfc252415c1",
+            "tags": "Inspiration",
+            "updateDate": {
+                "date": "2025-01-12 13:14:08.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "44dc3f40-0581-414a-9580-d840e4bdc305",
+            "title": "Akori",
+            "slug": "akori-rank",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Rank",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/akori-rank",
+            "subscribergroups": [],
+            "folderId": "daa4721e-1bde-4e10-b109-0cfc252415c1",
+            "tags": "WorldEmber21,Potential",
+            "updateDate": {
+                "date": "2025-01-17 19:35:45.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "c85f1b19-0bdb-4c9a-8f2c-8cc0c93e70ad",
+            "title": "Armoursmith",
+            "slug": "armoursmith-rank",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Rank",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/armoursmith-rank",
+            "subscribergroups": [],
+            "folderId": "daa4721e-1bde-4e10-b109-0cfc252415c1",
+            "tags": "WorldEmber21,Expand",
+            "updateDate": {
+                "date": "2025-01-17 19:40:22.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "beedc6ab-0db9-4904-a1c0-aac5bd59a2bb",
+            "title": "Bladesmith",
+            "slug": "bladesmith-rank",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Rank",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/bladesmith-rank",
+            "subscribergroups": [],
+            "folderId": "daa4721e-1bde-4e10-b109-0cfc252415c1",
+            "tags": "WorldEmber21,Expand",
+            "updateDate": {
+                "date": "2025-01-17 19:41:51.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "e29a304d-f6a8-4a7e-9b88-7d4d1fabe232",
+            "title": "Dwarfish Grooming Industry",
+            "slug": "dwarfish-grooming-industry-article",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Article",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/dwarfish-grooming-industry-article",
+            "subscribergroups": [],
+            "folderId": "daa4721e-1bde-4e10-b109-0cfc252415c1",
+            "tags": "WorldEmber21,Potential,Rewrite",
+            "updateDate": {
+                "date": "2025-01-12 12:10:41.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "194da200-4171-4de5-97d6-ef9ba4807f60",
+            "title": "Joseph Dornstrike",
+            "slug": "joseph-dornstrike-person-1",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/hesli/a/joseph-dornstrike-person-1",
+            "subscribergroups": [],
+            "folderId": "daa4721e-1bde-4e10-b109-0cfc252415c1",
+            "tags": "WorldEmber21,Archive",
+            "updateDate": {
+                "date": "2025-01-09 13:02:25.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "84a3be9c-ef7d-418f-b319-8afed0c85493",
+            "title": "Ljef",
+            "slug": "ljef-person",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/hesli/a/ljef-person",
+            "subscribergroups": [],
+            "folderId": "daa4721e-1bde-4e10-b109-0cfc252415c1",
+            "tags": "WorldEmber21,Te Akoranga Deity,Revisit,Rewrite,TLC",
+            "updateDate": {
+                "date": "2025-01-09 13:46:38.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "96a82504-4a8e-4675-8205-6b7896c394cc",
+            "title": "Pillar of Life",
+            "slug": "pillar-of-life-organization",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Organization",
+            "icon": "fa-solid fa-shield-quartered",
+            "url": "https://www.worldanvil.com/w/hesli/a/pillar-of-life-organization",
+            "subscribergroups": [],
+            "folderId": "daa4721e-1bde-4e10-b109-0cfc252415c1",
+            "tags": "WorldEmber",
+            "updateDate": {
+                "date": "2021-12-18 21:55:25.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "33574d2c-a602-4f98-bf20-84fbccb8aceb",
+            "title": "The Dwarven Twists",
+            "slug": "the-dwarven-twists-ritual",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Ritual",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/the-dwarven-twists-ritual",
+            "subscribergroups": [],
+            "folderId": "daa4721e-1bde-4e10-b109-0cfc252415c1",
+            "tags": "WorldEmber21",
+            "updateDate": {
+                "date": "2025-01-25 21:47:01.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "9fdf7ed3-0e24-4cd5-9608-9f332d9fd893",
+            "title": "The Realm of Eternal Slumber",
+            "slug": "the-realm-of-eternal-slumber-location",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Location",
+            "icon": "fa-solid fa-mountain",
+            "url": "https://www.worldanvil.com/w/hesli/a/the-realm-of-eternal-slumber-location",
+            "subscribergroups": [],
+            "folderId": "daa4721e-1bde-4e10-b109-0cfc252415c1",
+            "tags": "WorldEmber21,Expand",
+            "updateDate": {
+                "date": "2025-01-12 11:43:39.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "7ae58d32-f66f-4515-8f9e-79652e890384",
+            "title": "Weaponsmith",
+            "slug": "weaponsmith-rank",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Rank",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/weaponsmith-rank",
+            "subscribergroups": [],
+            "folderId": "daa4721e-1bde-4e10-b109-0cfc252415c1",
+            "tags": "WorldEmber,PublishedWE",
+            "updateDate": {
+                "date": "2023-07-05 18:43:08.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "24533fef-6f3d-4c10-887e-f518c8a98b82",
+            "title": "Ye Musical Doom",
+            "slug": "ye-musical-doom-myth",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Myth",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/ye-musical-doom-myth",
+            "subscribergroups": [],
+            "folderId": "daa4721e-1bde-4e10-b109-0cfc252415c1",
+            "tags": "WorldEmber21,Revisit,Expand",
+            "updateDate": {
+                "date": "2025-01-13 13:39:02.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/category/daa4721e-1bde-4e10-b109-0cfc252415c1/edit",
+    "parsedDescription": "",
+    "isEditable": true,
+    "success": true
+}

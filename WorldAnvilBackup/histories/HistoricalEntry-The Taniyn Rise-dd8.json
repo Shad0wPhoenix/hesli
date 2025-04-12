@@ -1,0 +1,100 @@
+{
+    "id": "b9183dd8-e526-42d4-a399-c1f873329294",
+    "title": "The Taniyn Rise",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "HistoricalEntry",
+    "icon": "fa-solid fa-calendar-lines-pen",
+    "url": "https://www.worldanvil.com/w/hesli/h/b9183dd8-e526-42d4-a399-c1f873329294",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": "",
+    "updateDate": {
+        "date": "2022-09-21 11:07:02.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "significance": 1,
+    "year": "0",
+    "month": 1,
+    "day": 1,
+    "hour": null,
+    "minute": null,
+    "endingYear": "1200",
+    "endingMonth": 5,
+    "endingDay": 29,
+    "endingHour": null,
+    "endingMinute": null,
+    "lane": null,
+    "backgroundColor": null,
+    "category": {
+        "id": "9c172072-dc72-4c98-9fb1-98fe07ff86cd",
+        "title": "Civil action",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "HistoricalEntryCategory",
+        "icon": "ra ra-3x ra-hand",
+        "url": null,
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "content": "During a time when the world supposedly started, it was occupied by the @[Taniyn](ethnicity:223c3d1e-c27d-4d56-ba0b-856e3fe43f2f). The people helped themselves and fellow sapient species to develop new technologies and ways of living on the planet.",
+    "fullcontent": null,
+    "displayDateName": null,
+    "creationDate": {
+        "date": "2022-09-21 11:07:02.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "meta": null,
+    "likes": null,
+    "world": {
+        "id": "2aca1405-dcb4-4c1e-b504-a2568b53266b",
+        "title": "Hesli",
+        "slug": "hesli",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/hesli",
+        "subscribergroups": [
+            {
+                "id": "0fca8d26-7f74-455a-9ff5-d522be436867",
+                "title": "Friends of the Wandering Lileon",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c863794d-f753-492f-b851-b0eff40acdd8",
+                "title": "Gamemaster",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-03-29 09:54:54.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "displayRange": true,
+    "isEditable": true,
+    "success": true
+}

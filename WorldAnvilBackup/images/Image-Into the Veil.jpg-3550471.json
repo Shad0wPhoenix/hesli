@@ -1,0 +1,43 @@
+{
+    "id": 3550471,
+    "title": "Into the Veil.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/b9a451af6c2241941fee8273fb2c6658.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2022-07-22 21:06:07.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "b9a451af6c2241941fee8273fb2c6658.jpg",
+    "path": "/uploads/images",
+    "size": 23884,
+    "width": 640,
+    "height": 853,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Raluca Enea",
+    "creditArtistWebsite": "https://unsplash.com/@raluca_enea",
+    "creditArtTitle": "Into the Veil",
+    "creditArtUrl": "https://unsplash.com/photos/03WAxvxfNz4",
+    "creationDate": {
+        "date": "2022-07-22 21:05:00.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 107,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/3550471",
+    "isEditable": true,
+    "success": true
+}

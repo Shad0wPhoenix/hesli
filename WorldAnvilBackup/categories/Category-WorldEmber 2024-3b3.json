@@ -1,0 +1,232 @@
+{
+    "id": "994c83b3-fa4a-49b0-8cf3-4a348dcec496",
+    "title": "WorldEmber 2024",
+    "slug": "worldember-2024-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "https://www.worldanvil.com/w/hesli/c/worldember-2024-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": null,
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": true,
+    "isCollapsed": false,
+    "position": null,
+    "creationDate": {
+        "date": "2024-12-01 12:31:12.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 39,
+    "custom1": null,
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\",\"toc\"],\"catCol3\":[\"custom3\",\"articleBlocks\"],\"catCol4\":[\"custom4\",\"maps\",\"timelines\"],\"catCol5\":[\"custom5\"]}",
+    "pagecover": null,
+    "bookcover": null,
+    "defaultarticlecover": null,
+    "parent": {
+        "id": "e89cfd90-fd31-4540-b9a0-d2e3beaa7608",
+        "title": "Challenges",
+        "slug": "challenges-category",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Category",
+        "icon": "fa-solid fa-folder",
+        "url": "https://www.worldanvil.com/w/hesli/c/challenges-category",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "world": {
+        "id": "2aca1405-dcb4-4c1e-b504-a2568b53266b",
+        "title": "Hesli",
+        "slug": "hesli",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/hesli",
+        "subscribergroups": [
+            {
+                "id": "0fca8d26-7f74-455a-9ff5-d522be436867",
+                "title": "Friends of the Wandering Lileon",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c863794d-f753-492f-b851-b0eff40acdd8",
+                "title": "Gamemaster",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-03-29 09:54:54.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "articleRedirect": null,
+    "articles": [
+        {
+            "id": "d027d1cb-8cb0-4a5c-975c-bfe464af58ad",
+            "title": "Alqafi Pingu",
+            "slug": "alqafi-pingu-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/alqafi-pingu-species",
+            "subscribergroups": [],
+            "folderId": "994c83b3-fa4a-49b0-8cf3-4a348dcec496",
+            "tags": "Potential",
+            "updateDate": {
+                "date": "2025-01-22 20:33:45.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "1bff2cf9-978d-4857-ae0d-370b2443d197",
+            "title": "Gamar Pingu",
+            "slug": "gamar-pingu",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/gamar-pingu",
+            "subscribergroups": [],
+            "folderId": "994c83b3-fa4a-49b0-8cf3-4a348dcec496",
+            "tags": "WorldEmber24",
+            "updateDate": {
+                "date": "2025-01-25 21:51:34.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "8889d491-ca35-4239-999d-4a0516ab371b",
+            "title": "Pingu",
+            "slug": "pingu",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/pingu",
+            "subscribergroups": [],
+            "folderId": "994c83b3-fa4a-49b0-8cf3-4a348dcec496",
+            "tags": "WorldEmber24",
+            "updateDate": {
+                "date": "2025-01-23 16:56:41.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "a37f3d39-b34a-4ec1-90ed-f869f8e4ed4b",
+            "title": "Qadim Pingu",
+            "slug": "qadim-pingu",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/qadim-pingu",
+            "subscribergroups": [],
+            "folderId": "994c83b3-fa4a-49b0-8cf3-4a348dcec496",
+            "tags": "WorldEmber24,Potential",
+            "updateDate": {
+                "date": "2025-01-23 16:59:40.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "291ba257-c663-4c68-8205-8b4d2c5eaa7a",
+            "title": "Rahab Pingu",
+            "slug": "rahab-pingu",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/rahab-pingu",
+            "subscribergroups": [],
+            "folderId": "994c83b3-fa4a-49b0-8cf3-4a348dcec496",
+            "tags": "WorldEmber24,Potential",
+            "updateDate": {
+                "date": "2025-01-23 17:02:58.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "ef6dcf60-bd10-40b3-825a-42c6f637a7d4",
+            "title": "Shara Pingu",
+            "slug": "shara-pingu",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/shara-pingu",
+            "subscribergroups": [],
+            "folderId": "994c83b3-fa4a-49b0-8cf3-4a348dcec496",
+            "tags": "WorldEmber24,Potential",
+            "updateDate": {
+                "date": "2025-01-23 18:51:39.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "9bf12592-d846-40e3-a68d-7d61743302fd",
+            "title": "Sharid Pingu",
+            "slug": "sharid-pingu",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/sharid-pingu",
+            "subscribergroups": [],
+            "folderId": "994c83b3-fa4a-49b0-8cf3-4a348dcec496",
+            "tags": "WorldEmber24,Potential",
+            "updateDate": {
+                "date": "2025-01-23 18:51:53.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/category/994c83b3-fa4a-49b0-8cf3-4a348dcec496/edit",
+    "parsedDescription": "",
+    "isEditable": true,
+    "success": true
+}

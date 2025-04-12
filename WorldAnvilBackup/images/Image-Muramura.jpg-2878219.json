@@ -1,0 +1,43 @@
+{
+    "id": 2878219,
+    "title": "Muramura.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/24553eaa556bbfeecdfe31894cb07829.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-12-08 18:33:42.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "24553eaa556bbfeecdfe31894cb07829.jpg",
+    "path": "/uploads/images",
+    "size": 310155,
+    "width": 1024,
+    "height": 1024,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "ShadowPhoenix",
+    "creditArtistWebsite": "https://www.worldanvil.com/author/Sh4d0wPh03n1x",
+    "creditArtTitle": "The Muramura",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2021-12-08 18:33:17.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 152,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/2878219",
+    "isEditable": true,
+    "success": true
+}

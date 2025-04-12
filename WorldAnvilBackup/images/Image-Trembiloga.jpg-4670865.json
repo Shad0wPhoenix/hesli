@@ -1,0 +1,43 @@
+{
+    "id": 4670865,
+    "title": "Trembiloga.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/74c6a20fd90148460f09c09bcb7189b4.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2023-07-08 15:32:01.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "74c6a20fd90148460f09c09bcb7189b4.jpg",
+    "path": "/uploads/images",
+    "size": 83201,
+    "width": 601,
+    "height": 275,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Jonny Gios",
+    "creditArtistWebsite": "https://unsplash.com/@supergios",
+    "creditArtTitle": "Trembiloga",
+    "creditArtUrl": "https://unsplash.com/photos/KGL7Rw_-YPY",
+    "creationDate": {
+        "date": "2023-07-08 15:30:30.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 112,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/4670865",
+    "isEditable": true,
+    "success": true
+}

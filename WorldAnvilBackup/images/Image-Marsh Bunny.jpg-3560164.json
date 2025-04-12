@@ -1,0 +1,43 @@
+{
+    "id": 3560164,
+    "title": "Marsh Bunny.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/6825bc12b4c23f3c2356425da60205b4.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2022-07-25 19:37:15.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "6825bc12b4c23f3c2356425da60205b4.jpg",
+    "path": "/uploads/images",
+    "size": 100332,
+    "width": 640,
+    "height": 960,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Satyabratasm",
+    "creditArtistWebsite": "https://unsplash.com/@smpicturez",
+    "creditArtTitle": "Marsh Bunny",
+    "creditArtUrl": "https://unsplash.com/photos/u_kMWN-BWyU",
+    "creationDate": {
+        "date": "2022-07-25 19:36:32.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 123,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/3560164",
+    "isEditable": true,
+    "success": true
+}

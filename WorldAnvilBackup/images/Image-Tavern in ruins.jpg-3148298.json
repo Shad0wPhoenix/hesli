@@ -1,0 +1,43 @@
+{
+    "id": 3148298,
+    "title": "Tavern in ruins.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/bae0b83618eb286c1dbe0cb9814fa652.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2022-03-08 13:21:50.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "bae0b83618eb286c1dbe0cb9814fa652.jpg",
+    "path": "/uploads/images",
+    "size": 71821,
+    "width": 640,
+    "height": 480,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Andrew Ridley",
+    "creditArtistWebsite": "https://unsplash.com/@aridley88",
+    "creditArtTitle": "Tavern in ruins",
+    "creditArtUrl": "https://unsplash.com/photos/4dPHQviRbWo",
+    "creationDate": {
+        "date": "2022-03-08 13:21:12.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 197,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": "",
+    "pageUrl": "https://www.worldanvil.com/i/3148298",
+    "isEditable": true,
+    "success": true
+}

@@ -1,0 +1,43 @@
+{
+    "id": 3575808,
+    "title": "Young Archmage Anvar.png",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/1383797913efea671c9058f2cd61d3a1.png",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2022-07-30 17:43:11.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "1383797913efea671c9058f2cd61d3a1.png",
+    "path": "/uploads/images",
+    "size": 1442263,
+    "width": 1224,
+    "height": 1170,
+    "extension": "png",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "ShadowPhoenix using HeroForge",
+    "creditArtistWebsite": "https://www.worldanvil.com/author/Sh4d0wPh03n1x",
+    "creditArtTitle": "The Young Archmage Anvar",
+    "creditArtUrl": "https://www.heroforge.com",
+    "creationDate": {
+        "date": "2022-07-30 17:42:15.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": null,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/3575808",
+    "isEditable": true,
+    "success": true
+}

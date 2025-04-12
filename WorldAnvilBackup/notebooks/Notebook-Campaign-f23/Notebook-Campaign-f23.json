@@ -1,0 +1,25 @@
+{
+    "id": "b8bedf23-8679-439a-a41a-688db3b8dc41",
+    "title": "Campaign",
+    "slug": null,
+    "state": null,
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Notebook",
+    "icon": "fa-solid fa-notebook",
+    "url": "https://www.worldanvil.com/notebook/notebook/b8bedf23-8679-439a-a41a-688db3b8dc41/load",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "creationDate": {
+        "date": "2022-06-20 19:33:22.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "color": null,
+    "weight": null,
+    "isSelected": 0,
+    "isEditable": true,
+    "success": true
+}

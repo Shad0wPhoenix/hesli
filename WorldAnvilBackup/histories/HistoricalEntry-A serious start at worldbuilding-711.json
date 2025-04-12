@@ -1,0 +1,100 @@
+{
+    "id": "b09db711-281d-449c-8b3f-14e59aa9c6e2",
+    "title": "A serious start at worldbuilding",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "HistoricalEntry",
+    "icon": "fa-solid fa-calendar-lines-pen",
+    "url": "https://www.worldanvil.com/w/hesli/h/b09db711-281d-449c-8b3f-14e59aa9c6e2",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": "",
+    "updateDate": {
+        "date": "2022-03-28 12:56:04.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "significance": 1,
+    "year": "2022",
+    "month": 1,
+    "day": 4,
+    "hour": null,
+    "minute": null,
+    "endingYear": null,
+    "endingMonth": null,
+    "endingDay": null,
+    "endingHour": null,
+    "endingMinute": null,
+    "lane": null,
+    "backgroundColor": null,
+    "category": {
+        "id": "9bf22415-4fb2-4468-98ee-092d881802a0",
+        "title": "Era beginning/end",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "HistoricalEntryCategory",
+        "icon": "ra ra-3x ra-book",
+        "url": null,
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "content": "After almost an entire year of trying out World Anvil and testing my creativity, a time has come to create some proper guidance in the road towards a campaign. I have created an article to describe @[my plans for 2022](article:7565e0a2-5b8a-4a1d-8e93-066fcb85a1e1), let's see how that will go...",
+    "fullcontent": null,
+    "displayDateName": null,
+    "creationDate": {
+        "date": "2022-03-28 12:56:04.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "meta": null,
+    "likes": null,
+    "world": {
+        "id": "2aca1405-dcb4-4c1e-b504-a2568b53266b",
+        "title": "Hesli",
+        "slug": "hesli",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/hesli",
+        "subscribergroups": [
+            {
+                "id": "0fca8d26-7f74-455a-9ff5-d522be436867",
+                "title": "Friends of the Wandering Lileon",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c863794d-f753-492f-b851-b0eff40acdd8",
+                "title": "Gamemaster",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-03-29 09:54:54.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "displayRange": true,
+    "isEditable": true,
+    "success": true
+}

@@ -1,0 +1,43 @@
+{
+    "id": 2860281,
+    "title": "Pillar_of_Darkness_TradingCard.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/acde6873b85b310d7233aa488f5733e9.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-12-02 16:21:30.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "acde6873b85b310d7233aa488f5733e9.jpg",
+    "path": "/uploads/images",
+    "size": 353532,
+    "width": 1080,
+    "height": 1920,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Wombo",
+    "creditArtistWebsite": "https://www.wombo.art",
+    "creditArtTitle": "Pillar of Darkness (generated with Wombo)",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2021-12-02 16:16:25.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": null,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/2860281",
+    "isEditable": true,
+    "success": true
+}

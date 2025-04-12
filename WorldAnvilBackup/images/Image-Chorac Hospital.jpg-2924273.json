@@ -1,0 +1,43 @@
+{
+    "id": 2924273,
+    "title": "Chorac Hospital.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/653951e76838e8648982dcb9dad47aac.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-12-25 17:39:01.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "653951e76838e8648982dcb9dad47aac.jpg",
+    "path": "/uploads/images",
+    "size": 83201,
+    "width": 640,
+    "height": 489,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "British Library",
+    "creditArtistWebsite": "https://unsplash.com/@britishlibrary",
+    "creditArtTitle": "A makeshift hospital in Chorac after the Tristate War",
+    "creditArtUrl": "https://unsplash.com/photos/ayJ9DP8lZks",
+    "creationDate": {
+        "date": "2021-12-25 17:37:09.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 182,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/2924273",
+    "isEditable": true,
+    "success": true
+}

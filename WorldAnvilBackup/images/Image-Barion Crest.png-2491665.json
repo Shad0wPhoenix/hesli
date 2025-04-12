@@ -1,0 +1,43 @@
+{
+    "id": 2491665,
+    "title": "Barion Crest.png",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/66a55c4a3183e6b5cca0d7373f56a95f.png",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "#barion-",
+    "updateDate": {
+        "date": "2021-07-25 11:59:13.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "66a55c4a3183e6b5cca0d7373f56a95f.png",
+    "path": "/uploads/images",
+    "size": 205401,
+    "width": 746,
+    "height": 926,
+    "extension": "png",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "ShadowPhoenix",
+    "creditArtistWebsite": null,
+    "creditArtTitle": "Barion Crest",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2021-07-25 11:53:28.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 159,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/2491665",
+    "isEditable": true,
+    "success": true
+}

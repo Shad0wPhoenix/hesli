@@ -1,0 +1,43 @@
+{
+    "id": 4699849,
+    "title": "Fresh Sarimsoq.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/3196af9452a0365fa667d287be64e93e.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2023-07-17 12:51:58.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "3196af9452a0365fa667d287be64e93e.jpg",
+    "path": "/uploads/images",
+    "size": 193655,
+    "width": 2418,
+    "height": 342,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Balázs Svarcz",
+    "creditArtistWebsite": "https://unsplash.com/@svbalazs",
+    "creditArtTitle": "Dried Sarimsoq",
+    "creditArtUrl": "https://unsplash.com/photos/g_31H_C4fOk",
+    "creationDate": {
+        "date": "2023-07-17 12:51:22.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 118,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/4699849",
+    "isEditable": true,
+    "success": true
+}

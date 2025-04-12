@@ -1,0 +1,43 @@
+{
+    "id": 3575029,
+    "title": "Hourglass.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/571a7cb8817cffd355d512528eacf31a.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2022-07-30 12:39:04.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "571a7cb8817cffd355d512528eacf31a.jpg",
+    "path": "/uploads/images",
+    "size": 37511,
+    "width": 640,
+    "height": 427,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Aron Visuals",
+    "creditArtistWebsite": "https://unsplash.com/@aronvisuals",
+    "creditArtTitle": "Life trickling away",
+    "creditArtUrl": "https://unsplash.com/photos/BXOXnQ26B7o",
+    "creationDate": {
+        "date": "2022-07-30 12:38:15.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 136,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/3575029",
+    "isEditable": true,
+    "success": true
+}

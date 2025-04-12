@@ -1,0 +1,43 @@
+{
+    "id": 3985809,
+    "title": "Phoenix Summoning.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/21cf424aabe5e689914c07bb16cfdad1.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2022-12-08 18:43:16.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "21cf424aabe5e689914c07bb16cfdad1.jpg",
+    "path": "/uploads/images",
+    "size": 41222,
+    "width": 640,
+    "height": 421,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Mohamed Nohassi",
+    "creditArtistWebsite": "https://unsplash.com/@coopery",
+    "creditArtTitle": "A Master summoning his FlamePhoenix",
+    "creditArtUrl": "https://unsplash.com/photos/UKX_DwNKXSA",
+    "creationDate": {
+        "date": "2022-12-08 18:42:14.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 126,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/3985809",
+    "isEditable": true,
+    "success": true
+}

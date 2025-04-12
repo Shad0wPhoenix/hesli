@@ -1,0 +1,19 @@
+{
+    "id": "103f3088-38e2-4d54-bf48-3705cec1dd93",
+    "title": "Districts",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "MarkerGroup",
+    "icon": "fa-solid fa-map-location-dot",
+    "url": null,
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "activeOnLoad": false,
+    "position": null,
+    "isEditable": true,
+    "success": true
+}

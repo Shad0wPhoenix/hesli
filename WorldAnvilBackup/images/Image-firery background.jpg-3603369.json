@@ -1,0 +1,43 @@
+{
+    "id": 3603369,
+    "title": "firery background.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/b336dd80a88f8a0e166be06a551ea19c.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2022-08-08 12:13:44.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "b336dd80a88f8a0e166be06a551ea19c.jpg",
+    "path": "/uploads/images",
+    "size": 298806,
+    "width": 2400,
+    "height": 1600,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Patrick Hendry",
+    "creditArtistWebsite": "https://unsplash.com/@worldsbetweenlines",
+    "creditArtTitle": "Fires of Hesli",
+    "creditArtUrl": "https://unsplash.com/photos/3r-T6Cq4XX0",
+    "creationDate": {
+        "date": "2022-08-08 10:58:14.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": null,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/3603369",
+    "isEditable": true,
+    "success": true
+}

@@ -1,0 +1,192 @@
+{
+    "id": "7848729a-2596-4116-964d-d7eb79674d5c",
+    "title": "Religions",
+    "slug": "deities-26-religions-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "https://www.worldanvil.com/w/hesli/c/deities-26-religions-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": "The supernatural and their faithful of Hesli",
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": true,
+    "isCollapsed": false,
+    "position": 400,
+    "creationDate": {
+        "date": "2021-06-27 20:20:55.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 209,
+    "custom1": null,
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\",\"toc\"],\"catCol3\":[\"custom3\",\"articleBlocks\",\"featuresArticles\"],\"catCol4\":[\"custom4\",\"maps\",\"timelines\"],\"catCol5\":[\"custom5\"]}",
+    "pagecover": null,
+    "bookcover": null,
+    "defaultarticlecover": null,
+    "parent": {
+        "id": "64e9d5cd-476e-4702-b353-300b4353665b",
+        "title": "Encyclopedia",
+        "slug": "world-encyclopedia-category",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Category",
+        "icon": "fa-solid fa-folder",
+        "url": "https://www.worldanvil.com/w/hesli/c/world-encyclopedia-category",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "world": {
+        "id": "2aca1405-dcb4-4c1e-b504-a2568b53266b",
+        "title": "Hesli",
+        "slug": "hesli",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/hesli",
+        "subscribergroups": [
+            {
+                "id": "0fca8d26-7f74-455a-9ff5-d522be436867",
+                "title": "Friends of the Wandering Lileon",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c863794d-f753-492f-b851-b0eff40acdd8",
+                "title": "Gamemaster",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-03-29 09:54:54.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "articleRedirect": null,
+    "children": [
+        {
+            "id": "d7c17cbe-5c90-41f9-9715-a7472ec0137d",
+            "title": "Te Akoranga",
+            "slug": "te-akoranga-category",
+            "state": "public",
+            "isWip": null,
+            "isDraft": null,
+            "entityClass": "Category",
+            "icon": "fa-solid fa-folder",
+            "url": "https://www.worldanvil.com/w/hesli/c/te-akoranga-category",
+            "subscribergroups": [],
+            "folderId": null,
+            "tags": null,
+            "updateDate": null
+        }
+    ],
+    "articles": [
+        {
+            "id": "c1a7cde6-ee3e-43ec-b283-78b4e0a30693",
+            "title": "Gaelach",
+            "slug": "gaelach-organization",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Organization",
+            "icon": "fa-solid fa-shield-quartered",
+            "url": "https://www.worldanvil.com/w/hesli/a/gaelach-organization",
+            "subscribergroups": [],
+            "folderId": "7848729a-2596-4116-964d-d7eb79674d5c",
+            "tags": "Potential",
+            "updateDate": {
+                "date": "2025-01-14 19:10:22.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "990a8286-fc9d-44a0-a067-926b9abd6409",
+            "title": "Gnireknit",
+            "slug": "gnireknit-organization",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Organization",
+            "icon": "fa-solid fa-shield-quartered",
+            "url": "https://www.worldanvil.com/w/hesli/a/gnireknit-organization",
+            "subscribergroups": [],
+            "folderId": "7848729a-2596-4116-964d-d7eb79674d5c",
+            "tags": "Potential,Rework",
+            "updateDate": {
+                "date": "2025-01-14 19:12:14.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "56adfaaf-ac6c-4102-a23b-90a4f186a37a",
+            "title": "Grilyi",
+            "slug": "grilyi-organization",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Organization",
+            "icon": "fa-solid fa-shield-quartered",
+            "url": "https://www.worldanvil.com/w/hesli/a/grilyi-organization",
+            "subscribergroups": [],
+            "folderId": "7848729a-2596-4116-964d-d7eb79674d5c",
+            "tags": "Potential,Rewrite",
+            "updateDate": {
+                "date": "2025-01-14 19:16:17.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "9b7a2d32-7a0b-4dc3-9736-120dce6cad9d",
+            "title": "The Mind",
+            "slug": "the-mind-organization",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Organization",
+            "icon": "fa-solid fa-shield-quartered",
+            "url": "https://www.worldanvil.com/w/hesli/a/the-mind-organization",
+            "subscribergroups": [],
+            "folderId": "7848729a-2596-4116-964d-d7eb79674d5c",
+            "tags": "Potential",
+            "updateDate": {
+                "date": "2025-01-25 21:52:55.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/category/7848729a-2596-4116-964d-d7eb79674d5c/edit",
+    "parsedDescription": "The supernatural and their faithful of Hesli",
+    "isEditable": true,
+    "success": true
+}

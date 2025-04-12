@@ -1,0 +1,43 @@
+{
+    "id": 6140648,
+    "title": "Gamar Pingu.png",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/c2798a52-1647-4e83-af08-d7ecef98b723/uploads/images/1d89cdd735f2c63c0f659834095e47e9.png",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2024-12-02 09:56:02.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "1d89cdd735f2c63c0f659834095e47e9.png",
+    "path": "https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/c2798a52-1647-4e83-af08-d7ecef98b723/uploads/images",
+    "size": 1079400,
+    "width": 800,
+    "height": 972,
+    "extension": "png",
+    "description": null,
+    "alt": "Gamar Pingu.png",
+    "creditArtistName": "",
+    "creditArtistWebsite": "",
+    "creditArtTitle": "Skeletal & Muscle Anatomy of a Gamar Pingu",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2024-12-02 09:45:28.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 18,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/6140648",
+    "isEditable": true,
+    "success": true
+}

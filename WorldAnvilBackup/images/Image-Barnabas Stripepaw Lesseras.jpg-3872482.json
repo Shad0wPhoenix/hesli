@@ -1,0 +1,43 @@
+{
+    "id": 3872482,
+    "title": "Barnabas Stripepaw Lesseras.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/219203e74976af85294147d3262c4dae.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2022-11-01 15:57:52.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "219203e74976af85294147d3262c4dae.jpg",
+    "path": "/uploads/images",
+    "size": 5046844,
+    "width": 5400,
+    "height": 7200,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Lesseras",
+    "creditArtistWebsite": "https://twitter.com/lesseras_art",
+    "creditArtTitle": "Barnabas Stripepaw",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2022-11-01 15:55:07.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": null,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/3872482",
+    "isEditable": true,
+    "success": true
+}

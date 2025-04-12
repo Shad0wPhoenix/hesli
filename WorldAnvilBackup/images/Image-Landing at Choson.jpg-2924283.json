@@ -1,0 +1,43 @@
+{
+    "id": 2924283,
+    "title": "Landing at Choson.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/daa21dce630dbe2766a208dfe84c2843.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-12-25 17:45:12.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "daa21dce630dbe2766a208dfe84c2843.jpg",
+    "path": "/uploads/images",
+    "size": 34564,
+    "width": 640,
+    "height": 467,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Duncan Kidd",
+    "creditArtistWebsite": "https://unsplash.com/@we_the_royal",
+    "creditArtTitle": "Landing at Choson",
+    "creditArtUrl": "https://unsplash.com/photos/Cju-BkSkM1k",
+    "creationDate": {
+        "date": "2021-12-25 17:44:05.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 176,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/2924283",
+    "isEditable": true,
+    "success": true
+}

@@ -1,0 +1,43 @@
+{
+    "id": 2504016,
+    "title": "hunting snowfox at night.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/631f97a9bde96f289ebe3d6f193c22f8.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-07-29 19:22:49.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "631f97a9bde96f289ebe3d6f193c22f8.jpg",
+    "path": "/uploads/images",
+    "size": 1086671,
+    "width": 4577,
+    "height": 2063,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Ray Hennessy",
+    "creditArtistWebsite": "https://unsplash.com/@rayhennessy",
+    "creditArtTitle": "Hunting Snowfox at Night",
+    "creditArtUrl": "https://unsplash.com/photos/9rloii_qmmw",
+    "creationDate": {
+        "date": "2021-07-29 19:21:45.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 165,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/2504016",
+    "isEditable": true,
+    "success": true
+}

@@ -1,0 +1,43 @@
+{
+    "id": 2881415,
+    "title": "Kepikepi.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/4706e5a0df06228b3c2866493e21bfb2.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-12-09 20:12:53.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "4706e5a0df06228b3c2866493e21bfb2.jpg",
+    "path": "/uploads/images",
+    "size": 190264,
+    "width": 1024,
+    "height": 1024,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "ShadowPhoenix",
+    "creditArtistWebsite": "https://www.worldanvil.com/author/Sh4d0wPh03n1x",
+    "creditArtTitle": "Kepikepi",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2021-12-09 20:12:27.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 169,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/2881415",
+    "isEditable": true,
+    "success": true
+}

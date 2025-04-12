@@ -1,0 +1,43 @@
+{
+    "id": 2456385,
+    "title": "Hunting Snowfox Laying Down.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/95b69c759b8ba288e1c602ad394263c0.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "#snowfox #barion #kala",
+    "updateDate": {
+        "date": "2021-07-13 19:39:10.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "95b69c759b8ba288e1c602ad394263c0.jpg",
+    "path": "/uploads/images",
+    "size": 2668373,
+    "width": 7360,
+    "height": 4912,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Jonatan Pie",
+    "creditArtistWebsite": "https://unsplash.com/@r3dmax",
+    "creditArtTitle": "Hunting Snowfox Laying Down",
+    "creditArtUrl": "https://unsplash.com/photos/rl8F_iQglvo",
+    "creationDate": {
+        "date": "2021-07-13 19:35:08.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 167,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": "",
+    "pageUrl": "https://www.worldanvil.com/i/2456385",
+    "isEditable": true,
+    "success": true
+}

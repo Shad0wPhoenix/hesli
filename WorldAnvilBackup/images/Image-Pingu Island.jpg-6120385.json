@@ -1,0 +1,43 @@
+{
+    "id": 6120385,
+    "title": "Pingu Island.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://wa-cdn.nyc3.digitaloceanspaces.com/user-data/production/c2798a52-1647-4e83-af08-d7ecef98b723/uploads/map/93e0af8ec7e8ae48feaf0b0b0fba08ec.jpeg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2024-11-24 10:07:21.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "93e0af8ec7e8ae48feaf0b0b0fba08ec.jpeg",
+    "path": "https://wa-cdn.nyc3.digitaloceanspaces.com/user-data/production/c2798a52-1647-4e83-af08-d7ecef98b723/uploads/map",
+    "size": 5716709,
+    "width": 2480,
+    "height": 3508,
+    "extension": "jpeg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": null,
+    "creditArtistWebsite": null,
+    "creditArtTitle": null,
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2024-11-24 10:07:21.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": null,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/6120385",
+    "isEditable": true,
+    "success": true
+}

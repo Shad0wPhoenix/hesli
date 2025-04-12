@@ -1,0 +1,43 @@
+{
+    "id": 2853450,
+    "title": "worldember banner.png",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/06037fee6056a2d331f6df86dac9f6c0.png",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "#w",
+    "updateDate": {
+        "date": "2021-11-30 07:48:57.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "06037fee6056a2d331f6df86dac9f6c0.png",
+    "path": "/uploads/images",
+    "size": 723347,
+    "width": 1500,
+    "height": 500,
+    "extension": "png",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "World Anvil",
+    "creditArtistWebsite": "https://www.worldanvil.com",
+    "creditArtTitle": "World",
+    "creditArtUrl": "https://cdn.discordapp.com/attachments/906198972819976192/913062769262223390/twitter-emberkeeper.png",
+    "creationDate": {
+        "date": "2021-11-30 07:48:05.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 5,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/2853450",
+    "isEditable": true,
+    "success": true
+}

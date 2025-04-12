@@ -1,0 +1,43 @@
+{
+    "id": 3215255,
+    "title": "Barnabas Stripepaw.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/0159e2742618d2175e33b937e05b947f.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2022-03-30 11:56:34.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "0159e2742618d2175e33b937e05b947f.jpg",
+    "path": "/uploads/images",
+    "size": 70960,
+    "width": 569,
+    "height": 643,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "ShadowPhoenix using HeroForge",
+    "creditArtistWebsite": "https://www.worldanvil.com/author/Sh4d0wPh03n1x",
+    "creditArtTitle": "Barnabas Stripepaw",
+    "creditArtUrl": "https://www.heroforge.com",
+    "creationDate": {
+        "date": "2022-03-30 11:54:07.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 54,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": "",
+    "pageUrl": "https://www.worldanvil.com/i/3215255",
+    "isEditable": true,
+    "success": true
+}

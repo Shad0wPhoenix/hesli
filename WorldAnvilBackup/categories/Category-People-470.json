@@ -1,0 +1,232 @@
+{
+    "id": "dfadf470-9dfb-4e55-bfd9-ab6bea5af362",
+    "title": "People",
+    "slug": "people-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "https://www.worldanvil.com/w/hesli/c/people-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": null,
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": true,
+    "isCollapsed": false,
+    "position": 700,
+    "creationDate": {
+        "date": "2022-04-18 14:31:11.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 222,
+    "custom1": null,
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\",\"toc\"],\"catCol3\":[\"custom3\",\"articleBlocks\",\"featuresArticles\"],\"catCol4\":[\"custom4\",\"maps\",\"timelines\"],\"catCol5\":[\"custom5\"]}",
+    "pagecover": null,
+    "bookcover": null,
+    "defaultarticlecover": null,
+    "parent": {
+        "id": "c07fad86-5383-4c0c-91b1-b62940e5e42a",
+        "title": "Fauna",
+        "slug": "sapient-species-category",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Category",
+        "icon": "fa-solid fa-folder",
+        "url": "https://www.worldanvil.com/w/hesli/c/sapient-species-category",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "world": {
+        "id": "2aca1405-dcb4-4c1e-b504-a2568b53266b",
+        "title": "Hesli",
+        "slug": "hesli",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/hesli",
+        "subscribergroups": [
+            {
+                "id": "0fca8d26-7f74-455a-9ff5-d522be436867",
+                "title": "Friends of the Wandering Lileon",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c863794d-f753-492f-b851-b0eff40acdd8",
+                "title": "Gamemaster",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-03-29 09:54:54.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "articleRedirect": null,
+    "articles": [
+        {
+            "id": "5e5920f9-06fd-4628-9838-4028f0b01f84",
+            "title": "Dwarf",
+            "slug": "dwarf-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/dwarf-species",
+            "subscribergroups": [],
+            "folderId": "dfadf470-9dfb-4e55-bfd9-ab6bea5af362",
+            "tags": "Revisit,Rewrite",
+            "updateDate": {
+                "date": "2025-01-22 20:34:35.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "e2e5ffdc-a979-4353-942b-555de42cf8c1",
+            "title": "Elf",
+            "slug": "elf-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/elf-species",
+            "subscribergroups": [],
+            "folderId": "dfadf470-9dfb-4e55-bfd9-ab6bea5af362",
+            "tags": "Potential",
+            "updateDate": {
+                "date": "2025-01-22 20:34:40.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "a00a0977-ea62-49be-855a-ff66df39704f",
+            "title": "Gnome",
+            "slug": "gnome-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/gnome-species",
+            "subscribergroups": [],
+            "folderId": "dfadf470-9dfb-4e55-bfd9-ab6bea5af362",
+            "tags": "Revisit,Rewrite",
+            "updateDate": {
+                "date": "2025-01-23 15:36:59.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "94de1f60-4310-4c78-b3f6-4db374ee8ba4",
+            "title": "High Elf",
+            "slug": "high-elf-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/high-elf-species",
+            "subscribergroups": [],
+            "folderId": "dfadf470-9dfb-4e55-bfd9-ab6bea5af362",
+            "tags": "Revisit,Rewrite",
+            "updateDate": {
+                "date": "2025-01-23 15:37:16.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "a15c5df5-82d4-4fb1-8e36-aead3aec2726",
+            "title": "Human",
+            "slug": "human-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/human-species",
+            "subscribergroups": [],
+            "folderId": "dfadf470-9dfb-4e55-bfd9-ab6bea5af362",
+            "tags": "Potential",
+            "updateDate": {
+                "date": "2025-01-23 15:37:30.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "4f712056-952a-48b8-b906-0ea2857c1102",
+            "title": "Lileon",
+            "slug": "lileon-species-1",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/lileon-species-1",
+            "subscribergroups": [],
+            "folderId": "dfadf470-9dfb-4e55-bfd9-ab6bea5af362",
+            "tags": "Revisit",
+            "updateDate": {
+                "date": "2025-01-23 16:01:55.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "d1e7a374-3934-4ee1-b8dd-361408b84269",
+            "title": "Wood Elf",
+            "slug": "wood-elf-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/wood-elf-species",
+            "subscribergroups": [],
+            "folderId": "dfadf470-9dfb-4e55-bfd9-ab6bea5af362",
+            "tags": "Potential",
+            "updateDate": {
+                "date": "2025-01-25 21:53:17.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/category/dfadf470-9dfb-4e55-bfd9-ab6bea5af362/edit",
+    "parsedDescription": "",
+    "isEditable": true,
+    "success": true
+}

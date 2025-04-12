@@ -1,0 +1,43 @@
+{
+    "id": 2644098,
+    "title": "Deathwing Shrine.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/36618ecf8d4c7df943417d064a263ae7.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "#deathwing #shrine",
+    "updateDate": {
+        "date": "2021-09-15 19:47:56.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "36618ecf8d4c7df943417d064a263ae7.jpg",
+    "path": "/uploads/images",
+    "size": 674445,
+    "width": 2048,
+    "height": 1365,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Sh4d0wPh03n1x",
+    "creditArtistWebsite": "https://www.worldanvil.com/author/Sh4d0wPh03n1x",
+    "creditArtTitle": "Shrine of Deathwing",
+    "creditArtUrl": "",
+    "creationDate": {
+        "date": "2021-09-15 19:47:15.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 208,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": "",
+    "pageUrl": "https://www.worldanvil.com/i/2644098",
+    "isEditable": true,
+    "success": true
+}

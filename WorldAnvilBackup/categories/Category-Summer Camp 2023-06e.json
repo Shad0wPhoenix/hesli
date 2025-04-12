@@ -1,0 +1,764 @@
+{
+    "id": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+    "title": "Summer Camp 2023 ",
+    "slug": "summer-camp-2023--category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "https://www.worldanvil.com/w/hesli/c/summer-camp-2023--category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": null,
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": true,
+    "isCollapsed": false,
+    "position": null,
+    "creationDate": {
+        "date": "2023-06-05 13:31:56.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 265,
+    "custom1": null,
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\",\"toc\"],\"catCol3\":[\"custom3\",\"articleBlocks\"],\"catCol4\":[\"custom4\",\"maps\",\"timelines\"],\"catCol5\":[\"custom5\"]}",
+    "pagecover": null,
+    "bookcover": null,
+    "defaultarticlecover": null,
+    "parent": {
+        "id": "e89cfd90-fd31-4540-b9a0-d2e3beaa7608",
+        "title": "Challenges",
+        "slug": "challenges-category",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Category",
+        "icon": "fa-solid fa-folder",
+        "url": "https://www.worldanvil.com/w/hesli/c/challenges-category",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "world": {
+        "id": "2aca1405-dcb4-4c1e-b504-a2568b53266b",
+        "title": "Hesli",
+        "slug": "hesli",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/hesli",
+        "subscribergroups": [
+            {
+                "id": "0fca8d26-7f74-455a-9ff5-d522be436867",
+                "title": "Friends of the Wandering Lileon",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c863794d-f753-492f-b851-b0eff40acdd8",
+                "title": "Gamemaster",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-03-29 09:54:54.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "articleRedirect": null,
+    "articles": [
+        {
+            "id": "e468c2dd-4dda-460d-828a-1504cb5e93ed",
+            "title": "Bosqinchi",
+            "slug": "bosqinchi-article",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Organization",
+            "icon": "fa-solid fa-shield-quartered",
+            "url": "https://www.worldanvil.com/w/hesli/a/bosqinchi-article",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "Expand",
+            "updateDate": {
+                "date": "2025-01-14 18:32:05.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "c7a81719-7a91-4447-8706-cb2456b36289",
+            "title": "Cartographer",
+            "slug": "cartographer-profession",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Profession",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/cartographer-profession",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23,Expand",
+            "updateDate": {
+                "date": "2025-01-17 14:04:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "4b506d7d-22a5-47e1-8670-4721edb4f753",
+            "title": "Chikomo",
+            "slug": "chikomo-settlement",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Settlement",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/chikomo-settlement",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "Expand",
+            "updateDate": {
+                "date": "2025-01-22 07:44:06.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "ac474fd6-12d2-441f-a5e1-bc86984c1048",
+            "title": "Creative Summer Traditions: A Spectacle to Behold!",
+            "slug": "creative-summer-traditions3A-a-spectacle-to-behold21-article",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Article",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/creative-summer-traditions3A-a-spectacle-to-behold21-article",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23",
+            "updateDate": {
+                "date": "2025-01-12 12:04:36.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "ba4b4f76-f66a-425c-8e68-26f740509c3f",
+            "title": "Garrlott",
+            "slug": "garrlott-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/garrlott-species",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23",
+            "updateDate": {
+                "date": "2025-01-22 20:35:03.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "cd79c677-c98e-4580-9153-d36718c557b6",
+            "title": "Haldir",
+            "slug": "haldir-ethnicity",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Ethnicity",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/haldir-ethnicity",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23",
+            "updateDate": {
+                "date": "2025-01-10 21:18:37.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "30e470c3-d63b-4866-871d-23f5d547ef1e",
+            "title": "Haldir Frenzies",
+            "slug": "haldir-frenzies-militaryConflict",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "MilitaryConflict",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/haldir-frenzies-militaryConflict",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23",
+            "updateDate": {
+                "date": "2025-01-12 19:25:48.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "677004fe-fc11-454f-86e7-14ce6f8af81d",
+            "title": "Havalla",
+            "slug": "havalla-settlement",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Settlement",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/havalla-settlement",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23,Expand",
+            "updateDate": {
+                "date": "2025-01-22 08:14:42.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "8c319140-e4a7-4f39-a732-02a74a729428",
+            "title": "Hommel",
+            "slug": "hommel-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/hommel-species",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23",
+            "updateDate": {
+                "date": "2025-01-23 15:37:25.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "d5cb649e-a3cd-4a2d-b065-5512783135ef",
+            "title": "Illtresi",
+            "slug": "illtresi-organization",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Organization",
+            "icon": "fa-solid fa-shield-quartered",
+            "url": "https://www.worldanvil.com/w/hesli/a/illtresi-organization",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23,Expand",
+            "updateDate": {
+                "date": "2025-01-14 19:19:16.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "0784c55f-0d16-4dd0-a914-7e470285adb8",
+            "title": "Journey To Apprentice",
+            "slug": "journey-to-apprentice-ritual",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Ritual",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/journey-to-apprentice-ritual",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23",
+            "updateDate": {
+                "date": "2025-01-25 21:45:56.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "883b3c7f-8497-4643-9f94-49d6115e7906",
+            "title": "King of Illtresi",
+            "slug": "king-of-illtresi-rank",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Rank",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/king-of-illtresi-rank",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23,Archive",
+            "updateDate": {
+                "date": "2025-01-22 06:46:14.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "0a7ea785-b002-4b70-adf4-2a4817d0635f",
+            "title": "Letter from Anvar",
+            "slug": "letter-from-anvar-document",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Document",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/letter-from-anvar-document",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23,Potential,Revisit",
+            "updateDate": {
+                "date": "2025-01-10 17:31:48.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "ac4e1724-54d5-4f10-97b0-589bed2b5da9",
+            "title": "Library of New Beginnings",
+            "slug": "library-of-new-beginnings-landmark",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Landmark",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/library-of-new-beginnings-landmark",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "Rewrite,Expand",
+            "updateDate": {
+                "date": "2025-01-09 09:28:04.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "83306c13-145b-490b-94a4-6a9a37f111e4",
+            "title": "Limani Merchant Code",
+            "slug": "limani-merchant-code-language",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Language",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/limani-merchant-code-language",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23,Revisit,Expand",
+            "updateDate": {
+                "date": "2025-01-12 18:59:07.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "56d06081-b5b7-4476-947d-565dadd791da",
+            "title": "Limani Merchant Wagon",
+            "slug": "limani-merchant-wagon-vehicle",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Vehicle",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/limani-merchant-wagon-vehicle",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23",
+            "updateDate": {
+                "date": "2025-01-22 19:48:30.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "5787ec15-1a85-4ea0-8409-a49405dc946c",
+            "title": "Limani Supplies Dealer Messaging System",
+            "slug": "limani-supplies-dealer-messaging-system-technology",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Technology",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/limani-supplies-dealer-messaging-system-technology",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23",
+            "updateDate": {
+                "date": "2025-01-22 08:40:15.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "ed81f438-3853-4cff-85f2-5b7e233024b1",
+            "title": "Matona",
+            "slug": "matona-settlement",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Settlement",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/matona-settlement",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23,Expand",
+            "updateDate": {
+                "date": "2025-01-22 08:15:37.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "945e5e08-bf52-4956-863f-8f2bbad27b68",
+            "title": "Messenger",
+            "slug": "messenger-profession",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Profession",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/messenger-profession",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23,Expand",
+            "updateDate": {
+                "date": "2025-01-17 14:11:09.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "fd1ae320-808d-4ee1-95c1-2ccabb28350f",
+            "title": "Mushuk",
+            "slug": "mushuk-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/mushuk-species",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23",
+            "updateDate": {
+                "date": "2025-01-23 16:32:54.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "7f350ab7-99c5-4278-97c1-b3e4a36e81a3",
+            "title": "Oshpa Jodu",
+            "slug": "oshpa-jodu-person",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/hesli/a/oshpa-jodu-person",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23,Expand",
+            "updateDate": {
+                "date": "2025-01-09 14:14:39.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "1ed91cd1-fead-4e8a-9a61-9a641dbfe408",
+            "title": "Phingin",
+            "slug": "phingin-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/phingin-species",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23",
+            "updateDate": {
+                "date": "2025-01-23 16:56:22.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "d4e250ab-1bef-4552-9b6f-ab8cf23fc7b4",
+            "title": "Phoenixery",
+            "slug": "phoenixery-landmark",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Landmark",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/phoenixery-landmark",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "Artwork,Expand",
+            "updateDate": {
+                "date": "2025-01-09 09:29:07.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "6b388a6b-40ec-41fb-a594-35f08f7bea5a",
+            "title": "Phoenixery is Available for Everyone",
+            "slug": "phoenixery-is-available-for-everyone-document",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Document",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/phoenixery-is-available-for-everyone-document",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23,Refine",
+            "updateDate": {
+                "date": "2025-01-10 17:36:49.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "c1d1fde2-4b84-41cd-a87a-3f00221adc77",
+            "title": "Qora Yog'och Log",
+            "slug": "qora-yog-och-log-material",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Material",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/qora-yog-och-log-material",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23,Potential",
+            "updateDate": {
+                "date": "2025-01-12 19:03:16.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "bdf425df-aa2e-4cc9-b1c9-217ea3d449b0",
+            "title": "Return of Inspiration",
+            "slug": "return-of-inspiration-article",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Article",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/return-of-inspiration-article",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23,Inspiration",
+            "updateDate": {
+                "date": "2025-01-12 13:07:13.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "56932b64-ee12-4295-9d45-27dd561ddd63",
+            "title": "Sarimsoq",
+            "slug": "sarimsoq-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/sarimsoq-species",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23",
+            "updateDate": {
+                "date": "2025-01-23 18:51:29.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "6cb46a52-4200-4973-8edf-af34c6c62339",
+            "title": "Shogird Sehrgar",
+            "slug": "shogird-sehrgar-person",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/hesli/a/shogird-sehrgar-person",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23,Revisit",
+            "updateDate": {
+                "date": "2025-01-09 14:50:13.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "9797c91d-50f0-4579-98d4-30bb510ddf6d",
+            "title": "Silver Whisperer",
+            "slug": "silver-whisperer--person",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/hesli/a/silver-whisperer--person",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23,Expand",
+            "updateDate": {
+                "date": "2025-01-09 14:54:27.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "88580333-48c1-464f-8bad-d2a36dbe2d10",
+            "title": "Sizzling Sarimsoq Shenanigans",
+            "slug": "sizzling-sarimsoq-shenanigans-ritual",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Ritual",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/sizzling-sarimsoq-shenanigans-ritual",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23,Expand",
+            "updateDate": {
+                "date": "2025-01-25 21:46:44.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "12bf1f86-6e40-417c-9468-3ef56fd9e4dc",
+            "title": "Tarozilar",
+            "slug": "tarozilar-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/tarozilar-species",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "Potential",
+            "updateDate": {
+                "date": "2025-01-23 19:19:11.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "a2dcbbf7-149b-47ec-ada5-3f91acf62435",
+            "title": "Theorston Thicket",
+            "slug": "theorston-thicket-location",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Location",
+            "icon": "fa-solid fa-mountain",
+            "url": "https://www.worldanvil.com/w/hesli/a/theorston-thicket-location",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23,Expand,Secret",
+            "updateDate": {
+                "date": "2025-01-12 11:48:12.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "7acc5fdf-bedc-4769-a8e9-f746c585f49d",
+            "title": "Trembiloga",
+            "slug": "trembiloga-ritual",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Ritual",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/trembiloga-ritual",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23",
+            "updateDate": {
+                "date": "2025-01-25 21:47:16.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "b45a7b8c-2a3b-4531-a731-d2a946fc0038",
+            "title": "Urnai Gaelach",
+            "slug": "urnai-gaelach-ritual",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Ritual",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/urnai-gaelach-ritual",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23",
+            "updateDate": {
+                "date": "2025-01-25 21:47:23.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "6a929cbe-43da-49d2-8bc7-cded09522f24",
+            "title": "Zedonia",
+            "slug": "zedonia-material",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Material",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/zedonia-material",
+            "subscribergroups": [],
+            "folderId": "0e19306e-5e1d-40cd-b899-8a87e8233a52",
+            "tags": "SummerCamp23",
+            "updateDate": {
+                "date": "2025-01-12 19:17:28.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/category/0e19306e-5e1d-40cd-b899-8a87e8233a52/edit",
+    "parsedDescription": "",
+    "isEditable": true,
+    "success": true
+}

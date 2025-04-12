@@ -1,0 +1,43 @@
+{
+    "id": 2881309,
+    "title": "Kosshi.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/62380989987cff0d7ed735f8c588913a.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-12-09 19:20:39.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "62380989987cff0d7ed735f8c588913a.jpg",
+    "path": "/uploads/images",
+    "size": 215369,
+    "width": 1024,
+    "height": 1024,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "ShadowPhoenix",
+    "creditArtistWebsite": "https://www.worldanvil.com/author/Sh4d0wPh03n1x",
+    "creditArtTitle": "Kosshi",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2021-12-09 19:20:20.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 163,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/2881309",
+    "isEditable": true,
+    "success": true
+}

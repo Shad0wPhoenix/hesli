@@ -1,0 +1,43 @@
+{
+    "id": 2536029,
+    "title": "WAImage00002.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/ea757bd37ef0864c5a093ecec3992a4e.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-08-09 12:25:39.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "ea757bd37ef0864c5a093ecec3992a4e.jpg",
+    "path": "/uploads/images",
+    "size": 531942,
+    "width": 2048,
+    "height": 1363,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Sh4d0wPh03n1x",
+    "creditArtistWebsite": "https://www.worldanvil.com/author/Sh4d0wPh03n1x",
+    "creditArtTitle": "The Akath Fan Shrimp a few days after molting, its blue colour is coming back",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2021-08-09 12:21:26.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 186,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": "",
+    "pageUrl": "https://www.worldanvil.com/i/2536029",
+    "isEditable": true,
+    "success": true
+}

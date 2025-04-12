@@ -1,0 +1,43 @@
+{
+    "id": 2665337,
+    "title": "wollaws tail.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/d3e6d2005745827ddece47f53ab6b5f8.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-09-23 16:57:33.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "d3e6d2005745827ddece47f53ab6b5f8.jpg",
+    "path": "/uploads/images",
+    "size": 72519,
+    "width": 640,
+    "height": 426,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Santa3",
+    "creditArtistWebsite": "https://pixabay.com/users/santa3-3503898/",
+    "creditArtTitle": "A wollaws in flight",
+    "creditArtUrl": "https://pixabay.com/photos/animal-park-lawn-bird-wild-bird-3528301/",
+    "creationDate": {
+        "date": "2021-09-23 16:56:43.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": null,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": "",
+    "pageUrl": "https://www.worldanvil.com/i/2665337",
+    "isEditable": true,
+    "success": true
+}

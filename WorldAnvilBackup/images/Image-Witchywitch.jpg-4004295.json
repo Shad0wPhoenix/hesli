@@ -1,0 +1,43 @@
+{
+    "id": 4004295,
+    "title": "Witchywitch.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/430328af499758d58971102e95068f57.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2022-12-14 20:29:19.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "430328af499758d58971102e95068f57.jpg",
+    "path": "/uploads/images",
+    "size": 30690,
+    "width": 640,
+    "height": 365,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Marko Blažević",
+    "creditArtistWebsite": "https://unsplash.com/@kerber",
+    "creditArtTitle": "Witch in the Woods",
+    "creditArtUrl": "https://unsplash.com/photos/S7mAngnWV1A",
+    "creationDate": {
+        "date": "2022-12-14 20:27:14.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": null,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/4004295",
+    "isEditable": true,
+    "success": true
+}

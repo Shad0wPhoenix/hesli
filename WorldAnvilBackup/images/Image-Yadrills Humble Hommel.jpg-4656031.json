@@ -1,0 +1,43 @@
+{
+    "id": 4656031,
+    "title": "Yadrills Humble Hommel.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/09888f803e2ecc7d78e5badaa83fd090.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2023-07-03 18:56:17.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "09888f803e2ecc7d78e5badaa83fd090.jpg",
+    "path": "/uploads/images",
+    "size": 169172,
+    "width": 1200,
+    "height": 849,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "ShadowPhoenix",
+    "creditArtistWebsite": "https://www.worldanvil.com/author/Sh4d0wPh03n1x",
+    "creditArtTitle": "Crayon Drawing of the Hommel drawn by Yadrill",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2023-07-03 18:54:44.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 135,
+    "likes": 1,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/4656031",
+    "isEditable": true,
+    "success": true
+}

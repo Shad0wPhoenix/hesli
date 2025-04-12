@@ -1,0 +1,43 @@
+{
+    "id": 3201446,
+    "title": "Eshil of Illtresi  Base Map Image",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/maps/6286c7924f2d3de6bf69ec1e72c02a72.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2022-03-25 21:40:32.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "6286c7924f2d3de6bf69ec1e72c02a72.jpg",
+    "path": "/uploads/maps",
+    "size": 13484932,
+    "width": 12288,
+    "height": 8192,
+    "extension": "jpg",
+    "description": "Map",
+    "alt": "Eshil of Illtresi  Base Map Image",
+    "creditArtistName": null,
+    "creditArtistWebsite": null,
+    "creditArtTitle": null,
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2022-03-25 21:40:32.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": null,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": "",
+    "pageUrl": "https://www.worldanvil.com/i/3201446",
+    "isEditable": true,
+    "success": true
+}

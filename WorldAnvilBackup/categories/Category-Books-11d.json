@@ -1,0 +1,100 @@
+{
+    "id": "dc5b611d-245b-467f-8470-1b462855a48f",
+    "title": "Books",
+    "slug": "books-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "https://www.worldanvil.com/w/hesli/c/books-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": null,
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": true,
+    "isCollapsed": false,
+    "position": 950,
+    "creationDate": {
+        "date": "2022-12-26 11:36:24.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 139,
+    "custom1": null,
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\",\"toc\"],\"catCol3\":[\"custom3\",\"articleBlocks\",\"featuresArticles\"],\"catCol4\":[\"custom4\",\"maps\",\"timelines\"],\"catCol5\":[\"custom5\"]}",
+    "pagecover": null,
+    "bookcover": null,
+    "defaultarticlecover": null,
+    "parent": null,
+    "world": {
+        "id": "2aca1405-dcb4-4c1e-b504-a2568b53266b",
+        "title": "Hesli",
+        "slug": "hesli",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/hesli",
+        "subscribergroups": [
+            {
+                "id": "0fca8d26-7f74-455a-9ff5-d522be436867",
+                "title": "Friends of the Wandering Lileon",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c863794d-f753-492f-b851-b0eff40acdd8",
+                "title": "Gamemaster",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-03-29 09:54:54.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "articleRedirect": null,
+    "children": [
+        {
+            "id": "ca4364e3-c019-4467-9ae9-d4bbe67bda2b",
+            "title": "How Not To Get Eaten by Various Phoenixes",
+            "slug": "how-not-to-get-eaten-by-various-phoenixes-category",
+            "state": "public",
+            "isWip": null,
+            "isDraft": null,
+            "entityClass": "Category",
+            "icon": "fa-solid fa-folder",
+            "url": "https://www.worldanvil.com/w/hesli/c/how-not-to-get-eaten-by-various-phoenixes-category",
+            "subscribergroups": [],
+            "folderId": null,
+            "tags": null,
+            "updateDate": null
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/category/dc5b611d-245b-467f-8470-1b462855a48f/edit",
+    "parsedDescription": "",
+    "isEditable": true,
+    "success": true
+}

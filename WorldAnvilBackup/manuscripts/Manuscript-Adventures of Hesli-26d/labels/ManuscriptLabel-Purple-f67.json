@@ -1,0 +1,19 @@
+{
+    "id": "bcafef67-61f8-4fc3-80c6-5ce4d22c9b38",
+    "title": "Purple",
+    "slug": null,
+    "state": null,
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "ManuscriptLabel",
+    "icon": null,
+    "url": null,
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "color": "#e4d8ff",
+    "fontcolor": null,
+    "isEditable": true,
+    "success": true
+}

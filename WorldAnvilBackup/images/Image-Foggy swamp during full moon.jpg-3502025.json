@@ -1,0 +1,43 @@
+{
+    "id": 3502025,
+    "title": "Foggy swamp during full moon.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/8a15e346ff85a960e07b9800a54a7282.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2022-07-07 18:40:08.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "8a15e346ff85a960e07b9800a54a7282.jpg",
+    "path": "/uploads/images",
+    "size": 79252,
+    "width": 640,
+    "height": 960,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Ivana Cajina",
+    "creditArtistWebsite": "https://unsplash.com/@von_co",
+    "creditArtTitle": "Foggy Swamp during a Full Moon",
+    "creditArtUrl": "https://unsplash.com/photos/DuiPYwz3CBA",
+    "creationDate": {
+        "date": "2022-07-07 18:37:33.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 143,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/3502025",
+    "isEditable": true,
+    "success": true
+}

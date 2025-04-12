@@ -1,0 +1,43 @@
+{
+    "id": 5950610,
+    "title": "coastlineOfBahrid.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/c2798a52-1647-4e83-af08-d7ecef98b723/uploads/images/7c363fa4e6e2bc8a5c35459e9f1aa1d6.jpeg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2024-09-23 13:11:59.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "7c363fa4e6e2bc8a5c35459e9f1aa1d6.jpeg",
+    "path": "https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/c2798a52-1647-4e83-af08-d7ecef98b723/uploads/images",
+    "size": 55290,
+    "width": 640,
+    "height": 427,
+    "extension": "jpeg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Matt Palmer",
+    "creditArtistWebsite": "https://unsplash.com/@mattpalmer",
+    "creditArtTitle": "Hidden somewhere along the icy coastline of Bahrid lays Alfaris Alqatir training a new crop of excellent warriors",
+    "creditArtUrl": "https://unsplash.com/photos/snow-covered-mountain-during-daytime-dSZJXtLOlB0",
+    "creationDate": {
+        "date": "2024-09-23 13:09:42.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 27,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/5950610",
+    "isEditable": true,
+    "success": true
+}

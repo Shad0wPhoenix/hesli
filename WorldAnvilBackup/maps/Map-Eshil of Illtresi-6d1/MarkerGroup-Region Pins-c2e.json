@@ -1,0 +1,19 @@
+{
+    "id": "ac9aec2e-3ecc-4bf2-9c30-a2724472670f",
+    "title": "Region Pins",
+    "slug": null,
+    "state": "private",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "MarkerGroup",
+    "icon": "fa-solid fa-map-location-dot",
+    "url": null,
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "activeOnLoad": false,
+    "position": null,
+    "isEditable": true,
+    "success": true
+}

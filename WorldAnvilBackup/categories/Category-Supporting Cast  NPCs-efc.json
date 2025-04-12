@@ -1,0 +1,137 @@
+{
+    "id": "4dab7efc-9f4c-4f20-96e4-1e6df4c4287d",
+    "title": "Supporting Cast / NPCs",
+    "slug": "supporting-cast-2F-npcs-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "https://www.worldanvil.com/w/hesli/c/supporting-cast-2F-npcs-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": "",
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": true,
+    "isCollapsed": false,
+    "position": 400,
+    "creationDate": {
+        "date": "2021-06-27 20:20:55.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 230,
+    "custom1": null,
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\",\"toc\"],\"catCol3\":[\"custom3\",\"articleBlocks\",\"featuresArticles\"],\"catCol4\":[\"custom4\",\"maps\",\"timelines\"],\"catCol5\":[\"custom5\"]}",
+    "pagecover": null,
+    "bookcover": null,
+    "defaultarticlecover": null,
+    "parent": {
+        "id": "1ec47348-c782-4f1e-b76c-0a1f523f0302",
+        "title": "Hesli Dungeons & Dragons 5e Campaign",
+        "slug": "hesli-dungeons-26-dragons-5e-campaign-category",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Category",
+        "icon": "fa-solid fa-folder",
+        "url": "https://www.worldanvil.com/w/hesli/c/hesli-dungeons-26-dragons-5e-campaign-category",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "world": {
+        "id": "2aca1405-dcb4-4c1e-b504-a2568b53266b",
+        "title": "Hesli",
+        "slug": "hesli",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/hesli",
+        "subscribergroups": [
+            {
+                "id": "0fca8d26-7f74-455a-9ff5-d522be436867",
+                "title": "Friends of the Wandering Lileon",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c863794d-f753-492f-b851-b0eff40acdd8",
+                "title": "Gamemaster",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-03-29 09:54:54.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "articleRedirect": null,
+    "articles": [
+        {
+            "id": "ed93a35a-9b92-4bdb-a3be-414f145a2a4c",
+            "title": "Ashish Ludak",
+            "slug": "ashish-ludak-person",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/hesli/a/ashish-ludak-person",
+            "subscribergroups": [],
+            "folderId": "4dab7efc-9f4c-4f20-96e4-1e6df4c4287d",
+            "tags": "NPC,Rewrite",
+            "updateDate": {
+                "date": "2025-01-09 10:12:22.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "34da735d-d9d7-47de-a9f4-15d4bcc1ecca",
+            "title": "Barnabas Stripepaw",
+            "slug": "barnabas-stripepaw-person",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/hesli/a/barnabas-stripepaw-person",
+            "subscribergroups": [],
+            "folderId": "4dab7efc-9f4c-4f20-96e4-1e6df4c4287d",
+            "tags": "NPC,Rewrite",
+            "updateDate": {
+                "date": "2025-01-09 10:15:59.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/category/4dab7efc-9f4c-4f20-96e4-1e6df4c4287d/edit",
+    "parsedDescription": "",
+    "isEditable": true,
+    "success": true
+}

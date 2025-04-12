@@ -1,0 +1,370 @@
+{
+    "id": "2989e49e-ed6f-4f47-919a-800b43fcf3bb",
+    "title": "Slumber Walk",
+    "slug": "slumber-walk-ritual",
+    "state": "public",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Ritual",
+    "icon": "fa-solid fa-file",
+    "url": "https://www.worldanvil.com/w/hesli/a/slumber-walk-ritual",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "SummerCamp22",
+    "updateDate": {
+        "date": "2025-01-25 21:46:53.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "position": null,
+    "excerpt": null,
+    "wordcount": 531,
+    "creationDate": {
+        "date": "2022-07-08 19:49:09.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "publicationDate": {
+        "date": "2022-07-12 11:47:43.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "notificationDate": null,
+    "likes": 1,
+    "views": 316,
+    "userMetadata": null,
+    "articleMetadata": null,
+    "cssClasses": null,
+    "displayCss": null,
+    "templateType": "ritual",
+    "customArticleTemplate": null,
+    "editor": "code",
+    "content": "Becoming a @[Keeper of the Swamp](organization:461eba10-ced9-4910-b3f1-012de1834c22) is a most memorable moment for any young resident of the wetlands. They train their entire life for this moment, where their abilities for the tasks at hand will be vigorously tested. The maintenance part of this ritual is fairly straightforward, but one particular activity is most feared by all.\r\n\r\n[quote]Wha... what? No... I have to go [i]there[/i]?! Oh no... What happens if I don't come back?|A frightened participant of the ritual[/quote]\r\n\r\n[h2]Into the Slumber[/h2]\r\nIn the line of work for the Keepers, they often traverse the swamp during the full moon. During this moment, the veil between the @[The Realm of Eternal Slumber](location:9fdf7ed3-0e24-4cd5-9608-9f332d9fd893) and the mortal world appears. The dead will travel to the next life and the Keepers will have to make sure that the path forward is clean.\r\n\r\nAs such, they have become the Gatekeepers and have been granted the ability to work within the narrow veil between the two realms. Being in this small void poses its challenges and thus it is the most important part of the entire ritual. At some point it was deemed so vital, that this activity became the name of the ritual itself: Slumber Walk.\r\n\r\n[h2]Meal of Celebration[/h2]\r\nIn order to test the participants on their ability to navigate the veil, the elders came up with a rewarding challenge. They must find all the ingredients to create a festive meal to celebrate the completion of the rite. There are a few things they need to gather from the shrouds of the realm of slumber: a fish, ten @[Slumber Flowers](species:60741409-28ea-41e2-b53f-7e1feb933fba), a citrus, a few small tomatoes, and a variety of herbs.\r\n\r\nOnce back from the slumber walk, the participant prepares the fish by cleaning it. A fellow member of the tribe prepares oil with the gathered herbs and covers both the outside and the inside of the fish with it. The citrus is sliced and the tomatoes halved which becomes the stuffing of the fish. The head of the tribe has a roaring fire in the open and grills the fish until the flesh can be taken off the bones without much force.\r\n\r\nWhile the cooking is underway, one member extracts @[Slumber Flower Nectar](material:322759cf-ff52-4552-8cf1-f0b0bf1f2588) from the ten flowers taken back from the Slumber walk. It is a tedious process resulting in five proper droplets of the nectar. With four droplets of this precious nectar, they create a dipping sauce for everyone to enjoy. The one left over droplet is put on the first piece of fish that the participant consumes. After that first bite, the participant has completed the rite.\r\n\r\nWith the meal on the table, the entire tribe feasts and celebrates their newest member to @[The Keepers Order](organization:461eba10-ced9-4910-b3f1-012de1834c22).",
+    "author": {
+        "id": "c2798a52-1647-4e83-af08-d7ecef98b723",
+        "title": "Sh4d0wPh03n1x",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "https://www.worldanvil.com/author/Sh4d0wPh03n1x",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "fff3ebe3-9ec9-42e9-9e73-d1d30a97e1dc",
+        "title": "Summer Camp 2022",
+        "slug": "summer-camp-2022-category",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Category",
+        "icon": "fa-solid fa-folder",
+        "url": "https://www.worldanvil.com/w/hesli/c/summer-camp-2022-category",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "world": {
+        "id": "2aca1405-dcb4-4c1e-b504-a2568b53266b",
+        "title": "Hesli",
+        "slug": "hesli",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/hesli",
+        "subscribergroups": [
+            {
+                "id": "0fca8d26-7f74-455a-9ff5-d522be436867",
+                "title": "Friends of the Wandering Lileon",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c863794d-f753-492f-b851-b0eff40acdd8",
+                "title": "Gamemaster",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-03-29 09:54:54.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "cover": {
+        "id": 2474159,
+        "title": "Hesli Banner.png",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6b66201ef8418333def9f07a89754e7d.png",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "#banner #hesli",
+        "updateDate": {
+            "date": "2021-07-19 16:41:25.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "coverSource": "World",
+    "pronunciation": null,
+    "snippet": null,
+    "seeded": null,
+    "sidebarcontent": null,
+    "sidepanelcontenttop": null,
+    "sidepanelcontent": "[b]Required Materials/Items[/b][br]\r\n@[Slumber Flower Nectar](material:322759cf-ff52-4552-8cf1-f0b0bf1f2588)",
+    "sidebarcontentbottom": null,
+    "footnotes": null,
+    "fullfooter": null,
+    "authornotes": null,
+    "scrapbook": null,
+    "credits": null,
+    "displaySidebar": true,
+    "articleNext": null,
+    "articlePrevious": null,
+    "timeline": null,
+    "prompt": null,
+    "gallery": null,
+    "articleParent": null,
+    "block": null,
+    "orgchart": null,
+    "showSeeded": false,
+    "webhookUpdate": false,
+    "communityUpdate": false,
+    "commentPlaceholder": null,
+    "passcodecta": null,
+    "metaTitle": null,
+    "metaDescription": null,
+    "subheading": null,
+    "coverIsMap": false,
+    "isFeaturedArticle": false,
+    "isAdultContent": false,
+    "isLocked": false,
+    "allowComments": true,
+    "allowContentCopy": false,
+    "showInToc": true,
+    "isEmphasized": false,
+    "displayAuthor": false,
+    "displayChildrenUnder": true,
+    "displayTitle": true,
+    "displaySheet": true,
+    "competitionEntries": [
+        {
+            "id": 494175,
+            "title": "untitled",
+            "slug": null,
+            "state": null,
+            "isWip": null,
+            "isDraft": null,
+            "entityClass": "CompetitionEntry",
+            "icon": "fa-solid fa-balloon",
+            "url": null,
+            "subscribergroups": [],
+            "folderId": null,
+            "tags": null,
+            "updateDate": null
+        }
+    ],
+    "badge": null,
+    "fans": [
+        {
+            "id": "c8fa2d22-bb7d-40de-9979-727655073e76",
+            "title": "CrazyEddie",
+            "slug": null,
+            "state": null,
+            "isWip": null,
+            "isDraft": null,
+            "entityClass": "User",
+            "icon": "fa-solid fa-user",
+            "url": "https://www.worldanvil.com/author/CrazyEddie",
+            "subscribergroups": [],
+            "folderId": null,
+            "tags": null,
+            "updateDate": null
+        }
+    ],
+    "comments": [
+        {
+            "id": "458d97e8-9bc0-4b4a-bfa0-2000a1074cf3",
+            "title": "untitled",
+            "slug": null,
+            "state": "public",
+            "isWip": null,
+            "isDraft": null,
+            "entityClass": "Comment",
+            "icon": "fa-solid fa-comment",
+            "url": null,
+            "subscribergroups": [],
+            "folderId": null,
+            "tags": null,
+            "updateDate": null
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/ritual/2989e49e-ed6f-4f47-919a-800b43fcf3bb/edit",
+    "ancestry": {
+        "firstUp": {
+            "id": "fff3ebe3-9ec9-42e9-9e73-d1d30a97e1dc",
+            "title": "Summer Camp 2022",
+            "slug": "summer-camp-2022-category",
+            "state": "public",
+            "isWip": null,
+            "isDraft": null,
+            "entityClass": "Category",
+            "icon": "fa-solid fa-folder",
+            "url": "https://www.worldanvil.com/w/hesli/c/summer-camp-2022-category",
+            "subscribergroups": [],
+            "folderId": null,
+            "tags": null,
+            "updateDate": null
+        },
+        "secondUp": {
+            "id": "e89cfd90-fd31-4540-b9a0-d2e3beaa7608",
+            "title": "Challenges",
+            "slug": "challenges-category",
+            "state": "public",
+            "isWip": null,
+            "isDraft": null,
+            "entityClass": "Category",
+            "icon": "fa-solid fa-folder",
+            "url": "https://www.worldanvil.com/w/hesli/c/challenges-category",
+            "subscribergroups": [],
+            "folderId": null,
+            "tags": null,
+            "updateDate": null
+        },
+        "thirdUp": {
+            "id": "2aca1405-dcb4-4c1e-b504-a2568b53266b",
+            "title": "Hesli",
+            "slug": "hesli",
+            "state": "public",
+            "isWip": null,
+            "isDraft": null,
+            "entityClass": "World",
+            "icon": "fa-solid fa-globe-stand",
+            "url": "https://www.worldanvil.com/w/hesli",
+            "subscribergroups": [
+                {
+                    "id": "0fca8d26-7f74-455a-9ff5-d522be436867",
+                    "title": "Friends of the Wandering Lileon",
+                    "slug": null,
+                    "state": null,
+                    "entityClass": "SubscriberGroup",
+                    "icon": null,
+                    "url": null,
+                    "subscribergroups": []
+                },
+                {
+                    "id": "c863794d-f753-492f-b851-b0eff40acdd8",
+                    "title": "Gamemaster",
+                    "slug": null,
+                    "state": null,
+                    "entityClass": "SubscriberGroup",
+                    "icon": null,
+                    "url": null,
+                    "subscribergroups": []
+                }
+            ],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-29 09:54:54.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    },
+    "components": null,
+    "history": null,
+    "execution": null,
+    "participants": null,
+    "observance": null,
+    "location": null,
+    "organizations": [
+        {
+            "id": "461eba10-ced9-4910-b3f1-012de1834c22",
+            "title": "The Keepers Order",
+            "slug": "the-keepers-order-organization",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Organization",
+            "icon": "fa-solid fa-shield-quartered",
+            "url": "https://www.worldanvil.com/w/hesli/a/the-keepers-order-organization",
+            "subscribergroups": [],
+            "folderId": "fff3ebe3-9ec9-42e9-9e73-d1d30a97e1dc",
+            "tags": "SummerCamp22,Revisit",
+            "updateDate": {
+                "date": "2025-01-14 19:44:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "importantLocations": [
+        {
+            "id": "51427dd0-7762-4ca4-adaa-34cf920c80f0",
+            "title": "Lonely Marshes",
+            "slug": "lonely-marshes-location",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Location",
+            "icon": "fa-solid fa-mountain",
+            "url": "https://www.worldanvil.com/w/hesli/a/lonely-marshes-location",
+            "subscribergroups": [],
+            "folderId": "fff3ebe3-9ec9-42e9-9e73-d1d30a97e1dc",
+            "tags": "SummerCamp22,Expand",
+            "updateDate": {
+                "date": "2025-01-11 21:01:39.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "ethnicities": [
+        {
+            "id": "a0d6c013-ff3d-4815-b498-c9666db67d7c",
+            "title": "Eneb Tireloica",
+            "slug": "eneb-tireloica-ethnicity",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Ethnicity",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/hesli/a/eneb-tireloica-ethnicity",
+            "subscribergroups": [],
+            "folderId": "fff3ebe3-9ec9-42e9-9e73-d1d30a97e1dc",
+            "tags": "SummerCamp22,Revisit",
+            "updateDate": {
+                "date": "2025-01-10 21:08:37.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "isEditable": true,
+    "success": true
+}

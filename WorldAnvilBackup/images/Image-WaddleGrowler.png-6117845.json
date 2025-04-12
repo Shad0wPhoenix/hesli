@@ -1,0 +1,43 @@
+{
+    "id": 6117845,
+    "title": "WaddleGrowler.png",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/c2798a52-1647-4e83-af08-d7ecef98b723/uploads/images/ef21d224106f390df71acd7852aa3bd7.png",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2024-11-23 13:32:06.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "ef21d224106f390df71acd7852aa3bd7.png",
+    "path": "https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/c2798a52-1647-4e83-af08-d7ecef98b723/uploads/images",
+    "size": 257548,
+    "width": 861,
+    "height": 1200,
+    "extension": "png",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "ShadowPhoenix",
+    "creditArtistWebsite": "https://www.worldanvil.com/author/Sh4d0wPh03n1x",
+    "creditArtTitle": "The WaddleGrowler Badge",
+    "creditArtUrl": null,
+    "creationDate": {
+        "date": "2024-11-23 13:29:37.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 39,
+    "likes": 1,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/6117845",
+    "isEditable": true,
+    "success": true
+}

@@ -1,0 +1,43 @@
+{
+    "id": 2923831,
+    "title": "Space Mithril Soul.jpg",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Image",
+    "icon": "fa-solid fa-image",
+    "url": "https://www.worldanvil.com/uploads/images/407f2bee8446e15b0904c9e5980b5bb6.jpg",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-12-25 09:38:13.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "filename": "407f2bee8446e15b0904c9e5980b5bb6.jpg",
+    "path": "/uploads/images",
+    "size": 42893,
+    "width": 640,
+    "height": 960,
+    "extension": "jpg",
+    "description": null,
+    "alt": null,
+    "creditArtistName": "Marek Piwnicki",
+    "creditArtistWebsite": "https://unsplash.com/@marekpiwnicki",
+    "creditArtTitle": "A visual interpretation of Space Mithril Soul",
+    "creditArtUrl": "https://unsplash.com/photos/6vddaknKm3k",
+    "creationDate": {
+        "date": "2021-12-25 09:32:33.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 182,
+    "likes": null,
+    "isFeatured": false,
+    "linkUrl": null,
+    "pageUrl": "https://www.worldanvil.com/i/2923831",
+    "isEditable": true,
+    "success": true
+}

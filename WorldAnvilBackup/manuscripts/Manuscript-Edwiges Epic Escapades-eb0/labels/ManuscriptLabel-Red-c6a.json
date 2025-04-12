@@ -1,0 +1,19 @@
+{
+    "id": "2dcc6c6a-9b12-4695-b250-b779c1c7db11",
+    "title": "Red",
+    "slug": null,
+    "state": null,
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "ManuscriptLabel",
+    "icon": null,
+    "url": null,
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "color": "#ffd8d8",
+    "fontcolor": null,
+    "isEditable": true,
+    "success": true
+}
