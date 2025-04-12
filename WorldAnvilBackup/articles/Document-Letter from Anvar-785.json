@@ -377,19 +377,9 @@
     ],
     "comments": [
         {
-            "id": "7db9deb4-9e45-42b7-a784-c1fe81eccfe5",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "Ooo, what a sinister letter...",
+            "response": "Indeed.. I hope someone will find out what happened to the king o.O"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/document/0a7ea785-b002-4b70-adf4-2a4817d0635f/edit",

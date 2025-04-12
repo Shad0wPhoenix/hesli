@@ -452,19 +452,9 @@
     ],
     "comments": [
         {
-            "id": "2bb0cb68-045b-4d96-94e4-093e3a68caca",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "Yaaay! Time to buy a wafflephoenix!",
+            "response": "* hands over wafflephoenix *\r\nHere, is gift! ^^"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/document/6b388a6b-40ec-41fb-a594-35f08f7bea5a/edit",
