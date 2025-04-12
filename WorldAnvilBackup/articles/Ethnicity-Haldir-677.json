@@ -512,49 +512,30 @@
     ],
     "comments": [
         {
-            "id": "1e45d051-4317-44ae-8a9c-021c746d9e3c",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Catoblepon",
+            "comment": "Oh boy.... They deserved the ending but at the same time I feel bad for them. ALSO! IF THEY HAD ACCESS TO THE DRAGON EGGS SINCE FAIRLY THE START? WHY DID THEY NOT HATCH THEM? Oh my god a dragon farm...",
+            "response": {
+                "author": "ShadowPhoenix",
+                "comment": "Mm, good question... Aha! You need dragon fire to provide the necessary hear for the eggs to develop ^^ Even though they had advanced magic, they couldn't produce a fire that had enough heat and energy for the development and thus the hatching of the eggs. :D I have to add this to the Zedonia article, thanks!",
+                "response": {
+                    "author": "Catoblepon",
+                    "comment": "sad... you making finding loop holes for dragons to come back alive so hard! :p",
+                    "response": {
+                        "author": "ShadowPhoenix",
+                        "comment": "Hehehe, I have plans that might be even better :P Or at least I hope more epic, but I need to give my potential DnD party some time to convince the people of their return before the Dragons are already on their doorstep xD"
+                    }
+                }
+            }
         },
         {
-            "id": "82e952f5-3ff7-43dc-a80b-66dd305b4fb7",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "Erikdroun... I worry for you.",
+            "response": "I hope Amberlig didn't go after him >.<"
         },
         {
-            "id": "5ae734a0-2cee-4a57-8598-cd07fab70e40",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "AmelieIS",
+            "comment": "These poor dwarves. And also THE POOR BABY DRAGONS!!!! You are killing so many of them!!! And this mountains must be really filled with eggs everywhere XD Why did the dragons just choose to stuff it like that? XD",
+            "response": "I know right! At some point, there was a war going on, so the dragons couldn't hatch their eggs anymore. :( Plus, another group of dragons probably tried to lay as much eggs as they could, hoping that they would have surviving offspring once the war was over.. That clearly didn't happen. ^^'"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/ethnicity/cd79c677-c98e-4580-9153-d36718c557b6/edit",
