@@ -411,34 +411,13 @@
     ],
     "comments": [
         {
-            "id": "9703dc51-95e4-4158-9f29-755d6929ff4c",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "CrazyEddie",
+            "comment": "Ah yes, the Witch Cook. Exploring the borders of culinary and beyond. Sweet nice article."
         },
         {
-            "id": "f66d9e8a-0199-4d0e-81ab-57d1436a6b7e",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "Chaotic pranking. Lol. She sounds like a fun character, I want to try her cooking.",
+            "response": "Thank you! <3 Cooking has to be fun after all, and nothing beats chaotic pranking for that imho ^^"
         }
     ],
     "character": null,

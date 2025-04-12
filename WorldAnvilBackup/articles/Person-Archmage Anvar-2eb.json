@@ -272,34 +272,12 @@
     ],
     "comments": [
         {
-            "id": "b0da9fc9-0b3b-4a03-b877-faad8e165608",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "lillianacasper",
+            "comment": "Nice job nailing all the details! I like the simplicity of the article and the continuation of the story in the quotes."
         },
         {
-            "id": "42953e4e-4b9a-4b72-bd26-27e37fce3be0",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "CrazyEddie",
+            "comment": "An Archmage to restore balance. Well, I do like him. :)"
         }
     ],
     "character": null,

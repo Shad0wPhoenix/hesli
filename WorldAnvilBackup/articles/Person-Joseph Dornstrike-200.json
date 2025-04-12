@@ -458,49 +458,17 @@
     ],
     "comments": [
         {
-            "id": "9f261182-b32f-4416-a35c-a4a94fe48213",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "AwsmChimera",
+            "comment": "Aw, ShadowPhoenix, I think it's lovely you've taken aspects of your Grandfather and used it as the basis for a part of your work. (I've done the same thing with my Grandparents) From what I've read, I'm sure Joseph was quite a cool cat. Thanks for sending this article my way; it was heart-warming.",
+            "response": "Thank you! He was definitely a cool cat and taught me much of what I know and value today. ^^"
         },
         {
-            "id": "b56ebd46-1fae-4a43-a703-0b3bd7f19506",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "invadersforever",
+            "comment": "awww. this is so sweet. and i love that you based it off your own grandfather (something similar to what I plan to do with some of my characters, actually)./r/nVery good article, as always. =)"
         },
         {
-            "id": "eef87485-bc01-4621-b44d-3095ac353462",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Theiket",
+            "comment": "I'm not sad, you're sad! It's them mithril soul people that get you, it's always the mithril souls... THE DAMN SPACE DWARVES DID THIS TO US ON PURPOSE, I SWEAR!"
         }
     ],
     "character": null,

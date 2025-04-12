@@ -349,19 +349,8 @@
     ],
     "comments": [
         {
-            "id": "76dc5ee3-f5da-46f5-8ebc-38094bf415b7",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "I love the quotes - they really bring Ashish to life! :D"
         }
     ],
     "character": null,

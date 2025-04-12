@@ -380,19 +380,8 @@
     ],
     "comments": [
         {
-            "id": "6cb90dc3-fff1-4454-a01b-634c8be60dce",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "JAWest13",
+            "comment": "Great character! I'm getting some fun Druid-esque vibes from Adrianne."
         }
     ],
     "character": null,
