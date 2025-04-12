@@ -348,19 +348,8 @@
     ],
     "comments": [
         {
-            "id": "44c8f736-e534-4784-86c4-5cbafb056dbf",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "CrazyEddie",
+            "comment": "This speaks to my very soul. Maintaining, storing and knowing things about the books in this library, as vast as it gets, must be so rewarding and relaxing on the soul. Thank you for this."
         }
     ],
     "editURL": "https://www.worldanvil.com/world/organization/e179613b-0b95-4070-8667-edcfa19c14e0/edit",

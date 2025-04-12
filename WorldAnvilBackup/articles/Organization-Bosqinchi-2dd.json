@@ -408,34 +408,13 @@
     ],
     "comments": [
         {
-            "id": "1f1f8867-cf3a-4d50-86d2-88a9ad5e6928",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "*GASP*",
+            "response": "Someone needs to put a stop to them o.O"
         },
         {
-            "id": "97b2baff-d3ba-42d7-8cf4-9d6a00376779",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Barron",
+            "comment": "Fantastic work Shadow, this was a great read, loved the thief quote and love how you did your spoiler. Well done. :)"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/organization/e468c2dd-4dda-460d-828a-1504cb5e93ed/edit",

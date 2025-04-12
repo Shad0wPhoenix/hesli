@@ -483,34 +483,12 @@
     ],
     "comments": [
         {
-            "id": "ddaf445a-e7b5-4b60-a60e-f5fffc1dee9d",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "kitoypoy",
+            "comment": "I am entranced by the thought of penguin warriors riding orca mounts! How do they fight? Do they have weapons? How did this relationship with their actual apex predator come about? Great work as usual!"
         },
         {
-            "id": "f6badc1d-a679-4e39-98ad-65ff25c15bcd",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "NOOOT!\r\nOrcas terrify me. I am happy for the pingus that they have managed to gain a somewhat tentative partnership with them. Despite the accidental snacking."
         }
     ],
     "editURL": "https://www.worldanvil.com/world/organization/9cafe10d-ad51-4a7e-bd93-254f34af72d6/edit",
