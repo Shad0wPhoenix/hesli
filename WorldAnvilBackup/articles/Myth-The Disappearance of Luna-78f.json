@@ -253,49 +253,19 @@
     ],
     "comments": [
         {
-            "id": "29b960aa-85f8-4e8e-adc9-d9a6f9e0c234",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Qurilion",
+            "comment": "Ooo, very mysterious! :D\r\nA nice spread of details here, and a good assortment of plothooks to get readers wanting to know more! Well done :D",
+            "response": "Thank you! ^^ I still want to flesh out many more details, but I'm liking the basis so far! :D"
         },
         {
-            "id": "eae223d6-cc67-4de6-b372-46f4a5f50c1f",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Kefkejaco",
+            "comment": "Nice article! Love the myth and the mysterious stuff like the portal like throne that support it!",
+            "response": "Thank you! ^^ It's going to be a lot of fun to incorporate these details into the final.. thing. ^^ Glad you like it!"
         },
         {
-            "id": "c029d8ed-2741-4f31-9c19-6f92e36942af",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Mochimanoban",
+            "comment": "Very cool! I'm really interested to find out what happened to Luna!",
+            "response": "Well, if you look through the world articles, there is a document that gives a big hint as to what happened to her. ;) So, if you're curious, go find it. :3"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/myth/7a6c878f-d6d2-4ba1-975c-7a82fc0cd6ac/edit",
