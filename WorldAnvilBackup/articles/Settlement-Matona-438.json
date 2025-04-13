@@ -467,49 +467,19 @@
     ],
     "comments": [
         {
-            "id": "8a53c50c-638a-4efa-8760-208bcf6f3cdc",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Those2Nerds",
+            "comment": "I'm curious, with so many coming here for education, and entire families moving here for work... what do they do for fun? I can only imagine what hijinks college students get up to in a mining town :D",
+            "response": "Oooh good question! That's definitely something I should expand on ^^ I can see those students playing hide and seek in the mines, or messing with school equipment (swapping standard coals for charcoals so the fire doesn't burn at a stable heat which makes the smithing job even more difficult XD)."
         },
         {
-            "id": "1b7a4156-b142-468d-add8-8b3a1950e799",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "I love the idea of a blacksmithing academy. I bet the town is quite loud with all the forges, though!",
+            "response": "What better place for an academy, than the place where all raw materials are (quite literally) a stone throw away ^^ And indeed, I don't even want to know how many noise complaints there must be in a city like this.. xD"
         },
         {
-            "id": "0681e49a-bb2b-46e7-888c-d2da9d6083c8",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Catoblepon",
+            "comment": "Can people that aint dwarves learn in the blacksmith academia? I would love to learn a bit in there...",
+            "response": "The academy is for everyone! ^^ Good upperbody strength is necessary, though. Still, the elves and gnomes have found ways to do it, so you can do too ^^"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/settlement/ed81f438-3853-4cff-85f2-5b7e233024b1/edit",

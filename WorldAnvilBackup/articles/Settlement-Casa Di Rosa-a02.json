@@ -377,49 +377,20 @@
     ],
     "comments": [
         {
-            "id": "11018176-2293-406b-b7c6-1c07a1bd98b4",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Michael Chandra",
+            "comment": "Okay this one is just sweet! <3",
+            "response": "Naawh, thank you! <3",
+            "additionalAuthor": "Ononomad",
+            "additionalComment": "I agree!"
         },
         {
-            "id": "724f74b1-7d5b-4396-8c5a-18a226f819f6",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "AP.",
+            "comment": "Love this!! Sounds like a perfect place and blend of creativity and logic. Nicely done Shadow!\r\nAlso love the demonym of Shadows Little Madlads xD"
         },
         {
-            "id": "62b03a6b-c97d-49df-a91d-10454a31a544",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Kefkejaco",
+            "comment": "Really fun read! I also have pool of inspiration in my brain :p but is is closed sometimes xp",
+            "response": "I know right! Pools these days with their flexible opening times.. xD"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/settlement/0616ba02-ad82-4755-ad42-8937d28c345f/edit",

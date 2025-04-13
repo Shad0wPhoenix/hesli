@@ -574,49 +574,16 @@
     ],
     "comments": [
         {
-            "id": "4d27bbc7-0515-4a98-acb8-78ab260b016c",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "'Here, Pingus bellyslide their way through the frostglazed aisles like tiny tuxedoed torpedoes blasting through the tunnels to their destination.' This is my new favourite thing. I wish I could travel like that."
         },
         {
-            "id": "b915abbc-83a7-4ae4-a42f-00f3b3ec1cc4",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Brinsmead",
+            "comment": "I love that if you have to brawl, you need to do it in an arena outside. This is wonderful!"
         },
         {
-            "id": "4fdb85d8-572c-42ca-b54b-e51f519bb9b3",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Michael Chandra",
+            "comment": "A penguin-pub sounds like an awesome place to visit. Forget cat-cafés, penguin-pubs here I come!"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/settlement/ede89057-366a-4474-b04c-451ef1a0c565/edit",
