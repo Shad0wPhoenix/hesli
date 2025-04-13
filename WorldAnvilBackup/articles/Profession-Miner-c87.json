@@ -223,19 +223,9 @@
     ],
     "comments": [
         {
-            "id": "18dbe902-24fb-431b-b1a0-a3a291377b17",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Qurilion",
+            "comment": "Ah, mining. One of the most dangerous thing you can do, then and now. Are there differences in how much safety the different species put in place when it comes to their mines? Or is there a push to use slave or prison labor among the less ethical?",
+            "response": "Interesting question! And, as per usual, something I had not yet given a thought. That'll give me something to expand on after SC!\r\nThanks! :D"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/profession/b8855c87-1d5a-4849-bfbe-a8695354ac02/edit",

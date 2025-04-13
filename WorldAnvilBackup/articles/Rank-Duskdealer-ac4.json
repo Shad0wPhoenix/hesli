@@ -253,19 +253,8 @@
     ],
     "comments": [
         {
-            "id": "f479008a-e061-4f83-9c68-9d6cea0a4853",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "hcraven",
+            "comment": "Interesting title and role. I like that no one knows who exactly is the Duskdealer and if/when the title changes hands"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/rank/05f08ac4-5c36-4c2f-ac54-b96b8b92a42d/edit",

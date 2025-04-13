@@ -589,34 +589,14 @@
     ],
     "comments": [
         {
-            "id": "b750f1e0-4c1b-47a9-9b5e-1fa3a4fa7f70",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "A cartographer isn't useful when they've been eaten by a large predator. XD Poor cartographers. I am glad that they learn survival skills to make that less likely to happen",
+            "response": "Most cartographers love to draw already, so better to teach them the things they didn't think they'd need. ^^"
         },
         {
-            "id": "5e8bf1f2-80c9-457b-be3d-0693fa2872fb",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "AP",
+            "comment": "I would like to attend the Wanderers School of Cartography please! Love this lil article Shadow. And no, I'm not biased at all xD",
+            "response": "Yay! <3 Is a very good school, 11/10 would recommend attending for any aspiring cartographer x3"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/profession/c7a81719-7a91-4447-8706-cb2456b36289/edit",

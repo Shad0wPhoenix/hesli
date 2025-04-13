@@ -362,34 +362,15 @@
     ],
     "comments": [
         {
-            "id": "587b30ae-e03e-4a31-992f-0a452a295588",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "AP",
+            "comment": "Oh I love this so much! And that is such a great title for the handbook (Well done Verti!) xD I love the humour and can't wait to see the actual physical handbook you are totally going to make.... >.>",
+            "response": "Thank you! ^^ I also cannot wait for the physical handbook, it's going to be so much work but so worth it x3"
         },
         {
-            "id": "daee0b7e-69aa-4205-9794-c0266cc97bd1",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "tlcassis",
+            "comment": "Happy to let you know this was one of the eight finalists for the \"Title\" Special category for WE 2023!",
+            "readingChallenge": "This is a fun article which skips through the prestigious title of Phoenix Master - which is exactly what it sounds like - someone a Phoenix will answer to. The relationship as described sounds more like friendship than mastery, but that is par for the course with titles which tend to overblow their own importance... The challenge of actually interacting with the Phoenix and persuading it to befriend the adventurer is downplayed which I think is a missed opportunity for story setup, but there's plenty of story possibilities to be had here. Delightful references to the handbook \"How Not to Get Eaten by Various Phoenixes; A Possibly Useless Handbook for The Aspiring Phoenix Master\". Generous use of text from the book, and linked to the article on the book which was great too. Not a masterful CSS example, but shows that you can easily do great world building without turning yourself inside out. Draws you in and you'll definitely click around to find out more. Not too long - definitely a recommended, fun read."
+
         }
     ],
     "editURL": "https://www.worldanvil.com/world/rank/71199df9-4ab7-49a6-a29a-7b98c9d161ed/edit",

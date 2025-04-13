@@ -469,34 +469,12 @@
     ],
     "comments": [
         {
-            "id": "b28dbced-63bd-49aa-b349-38b6c82872fd",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "mashd",
+            "comment": "You know, I like the idea of turning a cooking recipe into an adventure. It's rather lighthearted and I've never fought a boss onion before (laughed at the save to prevent you from crying). I'd probably shorten the search for the other ingredients, or make 1-2 additional encounters like the onion out of them. The judging would probably be very fun, with the witch constantly looking over their shoulders critically or maybe go full Gordon Ramsay. Nicely done!"
         },
         {
-            "id": "cd3c1234-ae37-4c91-af8a-246d0a3bea8d",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "SoulLink",
+            "comment": "Delightfully simple! I love it :) Glad I could help inspire it!"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/plot/2ee9a73d-9f41-4308-82a4-9886a700c010/edit",

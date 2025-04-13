@@ -317,19 +317,8 @@
     ],
     "comments": [
         {
-            "id": "f1163c59-62d8-4677-8bdf-ac0124a8674d",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "hughpierre",
+            "comment": "It's great to see a loving and supportive family dynamic in this story."
         }
     ],
     "editURL": "https://www.worldanvil.com/world/prose/f05cda92-9e7f-434a-b96a-dcdd4f16e079/edit",
