@@ -482,49 +482,17 @@
     ],
     "comments": [
         {
-            "id": "c7c3b342-9097-4c75-8b96-b550c318d8ac",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "CrazyEddie",
+            "comment": "Hmmm me love me some good Sarimsoq ... <3"
         },
         {
-            "id": "d58cb931-acc4-44dd-99a5-aa460d0bfafb",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "Mmmm, tasty"
         },
         {
-            "id": "0345af3a-f5a9-4087-99ab-c72e56882b8f",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "deleyna",
+            "comment": "Yum! Reminds me of when I learned that garlic scapes were edible...",
+            "response": "I had no idea until I grew them myself! :o They're such a great addition to salads."
         }
     ],
     "editURL": "https://www.worldanvil.com/world/species/56932b64-ee12-4295-9d45-27dd561ddd63/edit",

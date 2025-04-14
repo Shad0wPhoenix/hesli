@@ -238,19 +238,9 @@
     ],
     "comments": [
         {
-            "id": "e2d39775-374f-41bb-9141-89cab1d104cf",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Mochimanoban",
+            "comment": "HAHAHAH! I KNEW IT WOULD BE BASED ON YOUR FRIEND! Great article!",
+            "response": "Hehe, glad you liked it! ^^"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/species/b50e909b-d71a-4913-b5e6-21c9fc65d6b2/edit",

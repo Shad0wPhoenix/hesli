@@ -497,49 +497,14 @@
     ],
     "comments": [
         {
-            "id": "ddfdda2e-d77b-457a-966b-6125e38f2feb",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "Oh no, don't get eaten!\r\nI love them <3",
+            "response": "Thank youu! <3\r\nThis one totally wasn't inspired by Iroh o.o xD"
         },
         {
-            "id": "e3be8e23-7b37-4313-87fc-b4aeb508e773",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
-        },
-        {
-            "id": "3480d777-5fb9-47df-b5d6-37fb47ac3a3d",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "eccbooks",
+            "comment": "Orange is my favorite color, so I love that choice for the eyes. I also love that they feel like they'd be totally adorable if they didn't moonlight in murder.",
+            "response": "If only people were brave enough to get to know these beautiful furballs.. maybe they aren't as bad as people make them seem."
         }
     ],
     "editURL": "https://www.worldanvil.com/world/species/fd1ae320-808d-4ee1-95c1-2ccabb28350f/edit",

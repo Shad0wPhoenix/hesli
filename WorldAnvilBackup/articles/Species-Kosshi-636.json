@@ -439,19 +439,8 @@
     ],
     "comments": [
         {
-            "id": "33531244-fcac-4c0e-acad-d9455649a184",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "CrazyEddie",
+            "comment": "Lovely mushrooms ^-^ now I wanna hear about that omnious cave squirrel <3"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/species/a010a636-18e6-4a13-a055-5600f32f8eea/edit",

@@ -394,49 +394,19 @@
     ],
     "comments": [
         {
-            "id": "f149230c-1d53-4a9f-830c-fb24152fbbd5",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "nnie",
+            "comment": "They sing? Musical doom? :ooo",
+            "response": "They sing indeed! But no one know how, unfortunately. :< And the poor dwarfs run away from it!"
         },
         {
-            "id": "15c2aede-5027-4489-927b-582a17607483",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "AmelieIS",
+            "comment": "Singing mushrooms!!! They seems to be making some very eerie music, I'm intrigued now...",
+            "response": "I hope to be able to put a sound sample in at some point that closely reflects the sound they make. ^^"
         },
         {
-            "id": "65cf5a10-8304-4ab6-9cc1-a79fcb9f1da6",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Kalaidesche",
+            "comment": "I like how much mystery still surrounds them, and the reasons why studying them is so difficult. And yeah, I totally understand why the dwarves hold the beliefs mentioned in Ye Musical Doom. Very cool!",
+            "response": "I'm glad you liked it! :D"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/species/3707ea8f-7303-47fa-9d51-276925d126ad/edit",

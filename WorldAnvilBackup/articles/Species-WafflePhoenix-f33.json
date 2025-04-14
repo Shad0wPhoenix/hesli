@@ -422,64 +422,20 @@
     ],
     "comments": [
         {
-            "id": "db2bc088-ccb9-4fe0-9c2e-986a25ebc4ee",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "kitoypoy",
+            "comment": "I literally LOLed at \"Is that why we're having waffles for breakfast?\""
         },
         {
-            "id": "00a2d07c-7178-4b11-b620-cb692daa5048",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "MandoMc",
+            "comment": "The quote just about killed me. And paper that turns to syrup. I'm not crying you are!"
         },
         {
-            "id": "48640a1f-325b-4b51-856b-78f84531e12c",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Kefkejaco",
+            "comment": "The question remains can the be reborn from the waffles? :p"
         },
         {
-            "id": "5bd2d810-aee1-44bc-a15b-3490c1b3dc81",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "JAWest13",
+            "comment": "So... so many questions... What in the blue blazes happened during that first cloning? Can a Wafflephoenix rise from its... crumbs? How much did you write this just to see how many chicken-and-waffles jokes would show up in the comments?"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/species/e1570f33-4ba3-4948-b5df-22d0edfb3348/edit",

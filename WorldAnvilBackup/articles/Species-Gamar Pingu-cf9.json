@@ -407,19 +407,8 @@
     ],
     "comments": [
         {
-            "id": "b19b76c0-f9ff-401a-9402-fc25d3fad853",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "Fascinating article. I love all of the different scientific illustrations also. My favourite bit is the different edges/patterns - and also the quote from the scientist who found themselves at the end of a beak."
         }
     ],
     "editURL": "https://www.worldanvil.com/world/species/1bff2cf9-978d-4857-ae0d-370b2443d197/edit",

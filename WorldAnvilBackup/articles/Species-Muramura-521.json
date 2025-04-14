@@ -469,64 +469,22 @@
     ],
     "comments": [
         {
-            "id": "0cddeeac-29a2-43fd-8d46-c89f11c87446",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "invadersforever",
+            "comment": "oh yes adorable baby glow mushrooms!!!\r\nExcellent job!"
         },
         {
-            "id": "bceb39d5-cd6d-4a14-9763-080ba2951122",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "AmelieIS",
+            "comment": "Cute little mushrooms!!!\r\nHas anyone tried to eat them before?",
+            "response": "Thank you! :3\r\nSome have tried, but they find these little guys quite distasteful. :P"
         },
         {
-            "id": "b5d29e20-d2b7-489f-8db6-3e15f39eef86",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "throughthechi",
+            "comment": "\"they release their spores amass and cover the caves and peaks in a sea of microscopic green dots. The spores are biolumenescent for a very brief moment.\" This gives such a lovely image in my head, also my autocorrect reacted to bioluminescent I see now.",
+            "response": "Thank you! ^^\r\nOops, I'll correct that, thanks for spotting it! <3"
         },
         {
-            "id": "e1d180fb-b1a3-49a7-bbcd-7792c16eb554",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "nnie",
+            "comment": "I love seeing self-illustrated articles! This made me so happy!"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/species/fee9b521-e003-4b05-9cf8-58657bff24b6/edit",

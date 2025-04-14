@@ -452,34 +452,12 @@
     ],
     "comments": [
         {
-            "id": "3abcb214-4ded-4b96-b934-4b18a116bb20",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "AmelieIS",
+            "comment": "Great article! That's a fascinating reproduction method!"
         },
         {
-            "id": "dca081db-c251-4701-8de1-fc60bdfa1385",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "KajetanWrites",
+            "comment": "A very interesting article! The reproduction sounds unique!"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/species/b242aaff-76a5-4997-a4c8-b760da21fc93/edit",

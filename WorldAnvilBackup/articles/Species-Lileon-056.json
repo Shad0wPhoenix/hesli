@@ -317,34 +317,13 @@
     ],
     "comments": [
         {
-            "id": "8308f00b-1704-40a9-b8a7-4e4b0bab0f5b",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "MGatta",
+            "comment": "Interesting species! Seeing how they are intelligent however, I'd expect to see a bit more about their society or culture, for example. I loved the detail that they taught another species to talk :D",
+            "response": "There is indeed a society of Lileons, but no one has \"encountered\" them before to know much about it. ^^ But yes, I do plan on writing about their culture sometime in the future. :D"
         },
         {
-            "id": "a84bb56a-55a6-4086-9937-9a8a61ef5062",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "I really liked the section about how their camouflage works. Really interesting how they are intelligent enough to have learned how to talk."
         }
     ],
     "editURL": "https://www.worldanvil.com/world/species/4f712056-952a-48b8-b906-0ea2857c1102/edit",

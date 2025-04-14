@@ -405,49 +405,18 @@
     ],
     "comments": [
         {
-            "id": "ab5dd5ad-b1e0-4b8b-9d8d-ce8786fc0bb8",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Soutti",
+            "comment": "I like these little guys. Some questions, are they fresh or salt water? You seem to indicate both. What color are they? I'm dying to know for some reason. How does the toxin work? Is it also a poison they use for defense, or literally just a part of their body?",
+            "response": ":o How did I forget to write down their colour?! They are blue! Well, they're known for being blue, but they have a range of colours really. Another thing to expand upon. :3 I have no idea yet how the toxin works, but I guess I'll figure that out today!\r\nThank you for the questions and reading!"
         },
         {
-            "id": "17945e4c-5c9e-4999-9932-fab10973e75e",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "SoulLink",
+            "comment": "Fun little critters! Though what I am wondering the most is how those pesky humanoids are using them to murder each other? :P",
+            "response": "Now that is an interesting train of thought that I'll steal for my world, if you don't mind of course. :3"
         },
         {
-            "id": "eaeeff03-1f7e-49e3-a929-f20a8208acc8",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "Do not eat the babies! <3 I always love reading articles about shrimpies. :)"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/species/b4b19cdf-938c-45e3-b2a2-9c13fd87bc9e/edit",

@@ -497,64 +497,17 @@
     ],
     "comments": [
         {
-            "id": "1cbc501f-37b6-4a0c-9c74-2e9018151232",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Kiyomo",
+            "comment": "Love the Scientific Journal Style art~ It really feels like a discovery piece!"
         },
         {
-            "id": "ea035294-583a-4990-9c39-c6ee00c33b6c",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Dimitris",
+            "comment": "This is SO well done!"
         },
         {
-            "id": "19451360-b75d-4134-976f-3f254ebbd946",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
-        },
-        {
-            "id": "3fa07282-b22b-497a-80e8-3e8a25ba9c02",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "This is such a great article. I love how it is scientificc but still has a jovial and friendly tone. I LOVE THE PINGUS.",
+            "response": "Aww, thank you so much! <3 I'm so glad I managed to strike the right balance between the scientificc yet friendly tone."
         }
     ],
     "editURL": "https://www.worldanvil.com/world/species/8889d491-ca35-4239-999d-4a0516ab371b/edit",

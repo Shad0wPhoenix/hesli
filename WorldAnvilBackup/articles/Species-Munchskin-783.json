@@ -362,19 +362,8 @@
     ],
     "comments": [
         {
-            "id": "7ba86998-a2fd-4a2d-9d4e-1f5738e3fa45",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "thoughthechi",
+            "comment": "I love this take on the munching mushrooms!"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/species/a7da5783-2d49-42bd-aeaa-48bc86faa22e/edit",

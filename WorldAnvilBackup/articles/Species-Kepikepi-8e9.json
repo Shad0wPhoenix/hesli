@@ -484,19 +484,8 @@
     ],
     "comments": [
         {
-            "id": "e1b5c36d-be26-4e7e-87c4-ee86575744fa",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "Aw, the art is so cute! I really love how this fungus helps with fertilising the fields and breaking down bad chemicals before they can leach in to the soil. I also love that they glow and that people love them. :D"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/species/fb33f8e9-2c27-4aa9-8a18-5127bcf06764/edit",

@@ -379,34 +379,14 @@
     ],
     "comments": [
         {
-            "id": "355109cd-b778-46e9-ab58-fb42627bb9ff",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Kriltch",
+            "comment": "Whippersnapper, such a perfect name. I really need a visual for these creatures, they sound awe-inspiring.",
+            "response": "Thank you! :3 I intend on creating some artwork for it sometime soon! ^^"
         },
         {
-            "id": "733c8b98-d8fd-4b22-81b0-cdba0033eed6",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Ilmaine",
+            "comment": "Whippersnapper, whippopotamus, whipping enemies with a giant beard. I love them!\r\n> During this stage, they will dance with each other.\r\nThey also dance. So amazing!",
+            "response": "Thank you! I'm glad you like them. ^^"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/species/9ce23c05-6d89-42c1-98cc-a9f18fc745d5/edit",

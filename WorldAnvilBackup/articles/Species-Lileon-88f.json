@@ -285,34 +285,9 @@
     ],
     "comments": [
         {
-            "id": "b62facbe-f9ca-4101-9d74-8992bf498a12",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
-        },
-        {
-            "id": "5d8fcd65-a6ed-4643-941b-3c816479d1a9",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "AmelieIS",
+            "comment": "This is a fun lion :D Did they just decide not to eat anything that can talk back at them?",
+            "response": "Not really :P Tartoises are the only animals... so far that are able to talk and their shell is a wee bit too hard for a lileon to bite through. ^^"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/species/4070888f-9b12-4b4a-893c-16d5aa2e9eb0/edit",
