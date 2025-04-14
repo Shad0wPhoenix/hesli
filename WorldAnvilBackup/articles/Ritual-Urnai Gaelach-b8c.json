@@ -377,19 +377,8 @@
     ],
     "comments": [
         {
-            "id": "5428b25b-4c6e-40c0-84ac-16eade536254",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "This is really interesting. I like that there are different versions out there for if you are travelling alone, or for different groups. I think it sounds like a really cosy ritual to be a part of."
         }
     ],
     "editURL": "https://www.worldanvil.com/world/ritual/b45a7b8c-2a3b-4531-a731-d2a946fc0038/edit",

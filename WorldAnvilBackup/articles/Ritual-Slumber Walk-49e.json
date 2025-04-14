@@ -208,19 +208,8 @@
     ],
     "comments": [
         {
-            "id": "458d97e8-9bc0-4b4a-bfa0-2000a1074cf3",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "CrazyEddie",
+            "comment": "What a lovely way to get into the Keepers Order. I mean, normally we have blood and blood and moons and... oh, more blood, but find your own ingrediences and craft the meal for the end of the rite is so perfect. Gooood job."
         }
     ],
     "editURL": "https://www.worldanvil.com/world/ritual/2989e49e-ed6f-4f47-919a-800b43fcf3bb/edit",

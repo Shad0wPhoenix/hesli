@@ -268,19 +268,8 @@
     ],
     "comments": [
         {
-            "id": "b2547740-ea34-4e45-bb63-2519721da0e5",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "lia-anna",
+            "comment": "I really like the added touch of the song and prayer."
         }
     ],
     "editURL": "https://www.worldanvil.com/world/ritual/15a6acef-c807-4b6d-87c7-c50dcc704ca2/edit",

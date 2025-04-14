@@ -268,49 +268,18 @@
     ],
     "comments": [
         {
-            "id": "e94d291e-abaf-4e51-a81d-7c710bf379d5",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "AmelieIS",
+            "comment": "I fear they have a supply of unlucky souls xD But seriously, they mostly use those who suffer from terminal diseases and such. Best case they can bind the soul and they live on through the object. Worst case, they die. But they would anyway, so that makes it less.. bad? xD",
+            "response": "The ancestors of the dwarves used to be \"slaves/peasants\" when the dragons ruled the world, doing a lot of manual work to maintain the world. Even though they were protected by the dragons, they saw a lot of horror and try to suppress that part of their history. After the draconic war, they truly became free from the rules of the dragons. Or so they think... ;)"
         },
         {
-            "id": "657c5ce4-c0e2-45e2-9cf8-297c9d99792c",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Qurilion",
+            "comment": "It's an interesting twist! Usually, dragons and dwarves are depicted at being at odds. I like the twist, and those classic dwarven games sure do sound very Dwarven :D"
         },
         {
-            "id": "e2c07436-bbae-40bd-b13b-9bb9536c806e",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "MGatta",
+            "comment": "Interesting festival! I was a tad confused as to whether dwarves see dragons as a positive or as a negative thing (and/or whether this has changed through history). I think a paragraph or two clarifying this may be a great addition to the sidebar.",
+            "response": "Thank you! The dwarves see the dragons as a negative thing, because it reminds them of their enslavement. However, I can try to clarify and flesh that out further in the article to avoid the confusion. ^^"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/ritual/41233093-89f7-4dc3-aa8a-f9709d9daee2/edit",

@@ -422,64 +422,24 @@
     ],
     "comments": [
         {
-            "id": "e3a97ecc-e9e9-4ade-a542-491a00f21d32",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "Tasty tasty waffles. <3",
+            "response": "Delicious accidents are the best accidents <3"
         },
         {
-            "id": "92711d36-df4d-46d9-9c52-1bbc948340ac",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Valcin",
+            "comment": "Cool your mail and a tasty treat what an interesting idea waffle Phoenix so cool",
+            "response": "Thank youu! <3"
         },
         {
-            "id": "c035d5cb-d74e-448d-9ef0-d11dcb429e1c",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Cassie Storyweaver",
+            "comment": "SO,.. the important question is: Belgian, or buttermilk? Also... is the phoenix reborn after you eat the waffles?",
+            "response": "Always Belgian x3 (I'm biased, they're my neighbours so I only get to eat those xD)\r\nAnd nope, WafflePhoenixes that have turned into waffles do not reincarnate. Such is the tragedy of a \"failed\" experiment.. But they're widely available and new ones are made every day, so there's plenty to keep up with demand. ^^"
         },
         {
-            "id": "66689559-88ac-4cc3-9709-723db4f14b89",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "DesdemonaRose",
+            "comment": "Nice! This could turn into a new sort of DoorDash service too, especially if they could do more than waffles. Get hungry, your food just flies to you.",
+            "response": "Never thought of using them that way!"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/technology/5787ec15-1a85-4ea0-8409-a49405dc946c/edit",

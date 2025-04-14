@@ -253,19 +253,13 @@
     ],
     "comments": [
         {
-            "id": "8e610336-d441-4a96-acd6-094a1a97d7af",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Kefkejaco",
+            "comment": "Nice start already, love the concept of some medicine aiding the miners and also that there is a limit to the amount of times it can be used. I see that you are still working on it already but I noticed a few recurring spelling error for 'oxygen' and 'elixir' :) Other than that good job already!",
+            "response": {
+                "author": "ShadowPhoenix",
+                "comment": "Thank you! I figured, in modern day medicine, you cannot \"eternally\" take it without some consequence, so why not put it here too. ^^ Only thing I'm wondering about is whether I should or should not describe said consequences...\r\nOh geez, I cannot believe that I haven't noticed those spelling errors. I guess it was late, but I'll correct them immediately. Thank you for the feedback! :D",
+                "response": "You can always add a side effects section but it is up to you :) as long as the article is more than 300 it counts so you can still add stuff on a later day :p"
+            }
         }
     ],
     "editURL": "https://www.worldanvil.com/world/technology/f61be984-669c-4bc3-82c6-aeca23ce9576/edit",

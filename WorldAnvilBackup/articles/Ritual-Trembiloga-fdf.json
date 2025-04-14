@@ -469,49 +469,18 @@
     ],
     "comments": [
         {
-            "id": "ae54ef65-533a-4085-9b67-cf2568e8480a",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Serukis",
+            "comment": "Yay for feasting until you pass out!\r\nThis is great, I really love the concept. I want to go and watch all the smiths at work.",
+            "response": "Nothing beats food and beer until you fall asleep imho, especially after a hard days work!"
         },
         {
-            "id": "134e19a0-62ee-4c1c-95e8-dcc717e1f866",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "Catoblepon",
+            "comment": "I love the concept, I don't enjoy that a heat thingy has to be done in summer, when its more hot xD",
+            "response": "Well, technically, this event isn't done during summer per se ^^ I took the liberty to interpret the end of a school year with summer ^^"
         },
         {
-            "id": "0788c132-bc90-415d-b44c-ec50b7d0ac87",
-            "title": "untitled",
-            "slug": null,
-            "state": "public",
-            "isWip": null,
-            "isDraft": null,
-            "entityClass": "Comment",
-            "icon": "fa-solid fa-comment",
-            "url": null,
-            "subscribergroups": [],
-            "folderId": null,
-            "tags": null,
-            "updateDate": null
+            "author": "CrazyEddie",
+            "comment": "Ah yes, the hammering work of a blacksmith. The stench of hot iron being cooled of. Flying sparks, sweating people, hissing water and the shimmer of muscles hammering away to form metal after your will...\r\nWhoops, I daydreamed a bit. :D Good job, that one was right up my alley. :)"
         }
     ],
     "editURL": "https://www.worldanvil.com/world/ritual/7acc5fdf-bedc-4769-a8e9-f746c585f49d/edit",
