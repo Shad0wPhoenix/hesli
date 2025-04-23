@@ -9,13 +9,13 @@ However, beneath the beauty of natures hides a conflict that - fortunately - has
 ## Diverse Regions
 There is tons Eshil has to offer to anyone looking for an adventure. Here people can scour the mountains for hidden treasure in caves, learn about all the different animals keeping the farming ecosystem alive, or simply Looking for some heads to pounce in exchange for coin.
 
-> Hey you, I heard you were looking for some quests! I highly advice you to make your way to the Wandering Lileon in Limani; they have the best brew and food in the region, but most important of all a good quest board to get you started! How do I know? Well, I might be the one supplying the quests. - Ashish Ludak
+> Hey you, I heard you were looking for some quests! I highly advice you to make your way to [the Wandering Lileon]() in [Limani](./eshil/limani.md); they have the best brew and food in the region, but most important of all a good quest board to get you started! How do I know? Well, I might be the one supplying the quests. - Ashish Ludak
 
 ### Gardens of Bermuth
 Rich meadows filled with a wide variety of flowers gives this biome its well deserved name. Patches of small forests dotted around gives the grazing wildlife its much needed shade and cover from predators. Some even claim to have sighted a ForestPhoenix somewhere among these trees.
 
 #### Limani
-At the mouth of the river flowing into the sea lies the port town of Limani, known for originating the enormous enterprise that dominates the economy of the region. There's always work to be done and not enough hands to do them, making it the perfect starting point for anyone wanting to take their first steps into life as an adventurer, thief, or merchant.
+At the mouth of the river flowing into the sea lies the port town of [Limani](./eshil/limani.md), known for originating the enormous enterprise that dominates the economy of the region. There's always work to be done and not enough hands to do them, making it the perfect starting point for anyone wanting to take their first steps into life as an adventurer, thief, or merchant.
 
 ### Greze Urngorr
 The mountains of Greze Urngorr are easily recognised from far away; their rounded peaks resemble something akin to oversized hills. Many paths lead through this range to get people and caravans to the other side. Underneath the rocky exterior, cave systems provide a vital lifeline to the few critters and the various fungi and plantlife who call these mountains their home.
