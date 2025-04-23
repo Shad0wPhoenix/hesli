@@ -1,5 +1,5 @@
 # Hesli
-~Created By ShadowPhoenix~
+_Created By ShadowPhoenix_
 
 For a long time, the world of Hesli has been prospering in relative peace. Its four major powers have set aside the majority of their differences and manage to coexist alongside another. In some places, people of all shapes and sizes live together as one.
  
@@ -12,7 +12,7 @@ There is much to explore in the world of Hesli! Feel free to set out on your own
 If you're new here, may I suggest checking out these articles to get you started?
 
 ### World Primer
-Not sure where to start reading at all, or would you like to get to know the setting a bit better first? Read [the World Primer]() to get a feel for the adventures that await you in this world!
+Not sure where to start reading at all, or would you like to get to know the setting a bit better first? Read [the World Primer](./primer.md) to get a feel for the adventures that await you in this world!
 
 ### Reputation System
 As adventurers wander through the world, they gain a reputation with different organisations, people, clans, nations, and more. They can use it to persuade someone to make a change, or to prepare for something in their favour. Of course, parties with a less than favourable reputation will have more trouble influencing the people. Adventurers get their reputation by the quests they do, and their attitude towards the people, to name two examples.
