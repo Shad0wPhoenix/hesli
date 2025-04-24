@@ -42,13 +42,13 @@ There are many prominent figures roaming the city. These are a few of the people
 #### Barney
 As the only [Lileon]() in town, Barney is a hot topic. He is the owner of [The Wandering Lileon]() who welcomes travellers and adventurers of all colours and backgrounds. As long as they behave, that is.
 
-_[Learn more about Barnabas Stripepaw]()_
+_[Learn more about Barnabas Stripepaw](../../npcs/eshil/barnabasStripepaw.md)_
 
 ![This is Barnabas!](../../npcs/eshil/barnabasStripepaw/barnabasStripepaw.jpg)
 
 #### Ashish
 She might come off as a total wackadoodle, but she knows everything thats happening in town as if she has eyes and ears everywhere. Ashish likes to help adventurers get a job, or giving passing travellers directions to their next destination.
 
-_[Learn more about Ashish Ludak]()_
+_[Learn more about Ashish Ludak](../../npcs/eshil/ashishLudak.md)_
 
 ![This is Ashish!](../../npcs/eshil/ashishLudak/ashishLudak.jpg)
