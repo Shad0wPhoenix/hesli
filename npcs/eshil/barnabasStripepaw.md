@@ -1,5 +1,5 @@
 # Barnabas Stripepaw
-Mostly walking on all fours, but sometimes only on the hind-legs, Barnabas Stripepaw serves the patrons of [The Wandering Lileon](). His hulking frame intimidates most of the (new) customers who threaten to become a problem. Those that behave get to know his gentle nature and his witty sense of humour that brings a smile to anyone's face.
+Mostly walking on all fours, but sometimes only on the hind-legs, Barnabas Stripepaw serves the patrons of [The Wandering Lileon](./../../regions/eshil/limani/wanderingLileon.md). His hulking frame intimidates most of the (new) customers who threaten to become a problem. Those that behave get to know his gentle nature and his witty sense of humour that brings a smile to anyone's face.
 
 > Ah, my meat fresh is new. How you taste? - A joking Barnabas
 

@@ -9,7 +9,7 @@ However, beneath the beauty of natures hides a conflict that - fortunately - has
 ## Diverse Regions
 There is tons Eshil has to offer to anyone looking for an adventure. Here people can scour the mountains for hidden treasure in caves, learn about all the different animals keeping the farming ecosystem alive, or simply Looking for some heads to pounce in exchange for coin.
 
-> Hey you, I heard you were looking for some quests! I highly advice you to make your way to [the Wandering Lileon]() in [Limani](./eshil/limani.md); they have the best brew and food in the region, but most important of all a good quest board to get you started! How do I know? Well, I might be the one supplying the quests. - Ashish Ludak
+> Hey you, I heard you were looking for some quests! I highly advice you to make your way to [the Wandering Lileon](./limani/wanderingLileon.md) in [Limani](./eshil/limani.md); they have the best brew and food in the region, but most important of all a good quest board to get you started! How do I know? Well, I might be the one supplying the quests. - Ashish Ludak
 
 ### Gardens of Bermuth
 Rich meadows filled with a wide variety of flowers gives this biome its well deserved name. Patches of small forests dotted around gives the grazing wildlife its much needed shade and cover from predators. Some even claim to have sighted a ForestPhoenix somewhere among these trees.

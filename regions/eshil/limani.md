@@ -40,7 +40,7 @@ As a token of their gratitude, Limani voluntarily joined the Kingdom of Illtresi
 There are many prominent figures roaming the city. These are a few of the people that everyone in town loves to talk about.
 
 #### Barney
-As the only [Lileon]() in town, Barney is a hot topic. He is the owner of [The Wandering Lileon]() who welcomes travellers and adventurers of all colours and backgrounds. As long as they behave, that is.
+As the only [Lileon]() in town, Barney is a hot topic. He is the owner of [The Wandering Lileon](./limani/wanderingLileon.md) who welcomes travellers and adventurers of all colours and backgrounds. As long as they behave, that is.
 
 _[Learn more about Barnabas Stripepaw](../../npcs/eshil/barnabasStripepaw.md)_
 
