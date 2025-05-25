@@ -48,3 +48,10 @@ Naturally, you cannot simply dive into these grand problems like a headless chic
 Totally understandable, a fresh world, a new city, it's only natural wanting to see what's out there before getting in the heat of things. There are plenty small villages around [Limani](./regions/eshil/limani.md), shrines and temples to explore and learn more about the religions that are intertwined in this multicultural area.
 
 [Barnabas](./npcs/eshil/barnabasStripepaw.md) and [Ashish](./npcs/eshil/ashishLudak.md) have plenty connections and knowledge in and around the town. So, if you're looking for something specific, there's no harm in asking them for some directions.
+
+## Technology and Magic
+When trekking through Hesli, you will encounter various levels of technology and magic. Some communities are more advanced in one or the other while others just prattle on clinging to the old ways of life. 
+
+That said, the technology level will not advance much further than our human world has seen during the very early industrial revolution. The use of steam will be very much limited, so you're most likely to see technology from the middle ages.
+
+As for magic, it.. exists. You won't find excessive use and power, similar to the level of technology in this world. Don't feel too comfortable yet, because there certainly are powerful magic users just not as common.
