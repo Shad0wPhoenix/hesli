@@ -21,7 +21,7 @@ If you already arrive with your adventuring company, the same applies! Look arou
 While Eshil may look peaceful on the outside, there are plenty forces active within trying to suppress a grim reality.
 
 ### A Covert Brotherhood Stirring the Pot
-People are certain that there is an underground organisation moving in the shadows. It is still unknown what their intentions are and who they are. However, it is clear that this organisation is politicallly active. There are rumours that the [Limani Supplies Dealer]() is working together with the [Durkdealer]() and their information network to uncover the mystery and put an end to whatever it is this brotherhood is plotting.
+People are certain that there is an underground organisation moving in the shadows. It is still unknown what their intentions are and who they are. However, it is clear that this organisation is politicallly active. There are rumours that the [Limani Supplies Dealer](./encyclopaedia/organisations/logistics/limaniSuppliesDealer.md) is working together with the [Duskdealer](./encyclopaedia/professions/information/informationBroker/duskDealer.md) and their information network to uncover the mystery and put an end to whatever it is this brotherhood is plotting.
 
 ### A Terrifying Propect in Theorston Thicket
 People have been disappearing left and right over the past couple years. However, in the past few months the number of disappearances have tripled causing alarm. What's worse; they vanish without a trace. People suspect it has something to do with the reports on increased activity in Theorston Thicket, the home of Archmage Anvar. If his disciples are trying to bring him back from the dead, the world is in for a whole new set of problems.
@@ -29,7 +29,7 @@ People have been disappearing left and right over the past couple years. However
 ### But where can I start?
 Naturally, you cannot simply dive into these grand problems like a headless chicken after your arrival in [Limani](./regions/eshil/limani.md). However, that doesn't mean there's nothing for you to do. Here are a few pointers to help you get started on your journey in Eshil. 
 
-- Many merchants from the [Limani Supplies Dealer]() are getting robbed at broad daylight without any reprecussions. The organisation doesn't have enough hands for fully protecting their merchants against this. They've grown so desperate that they hire fresh adventurers to guard their junior and minor merchants.
+- Many merchants from the [Limani Supplies Dealer](./encyclopaedia/organisations/logistics/limaniSuppliesDealer.md) are getting robbed at broad daylight without any reprecussions. The organisation doesn't have enough hands for fully protecting their merchants against this. They've grown so desperate that they hire fresh adventurers to guard their junior and minor merchants.
 
 - [Barnabas Stripepaw](./npcs/eshil/barnabasStripepaw.md) has some errands to run but not enough time to do it himself. If you help him out at [the Wandering Lileon](./regions/eshil/limani/wanderingLileon.md), he'll give you great rewards. They're relatively simple jobs, but when done well it could earn you the trust of the lileon, who might have more pressing issues that he only shares with those he trusts.
 
