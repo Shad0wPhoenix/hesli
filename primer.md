@@ -55,3 +55,17 @@ When trekking through Hesli, you will encounter various levels of technology and
 That said, the technology level will not advance much further than our human world has seen during the very early industrial revolution. The use of steam will be very much limited, so you're most likely to see technology from the middle ages.
 
 As for magic, it.. exists. You won't find excessive use and power, similar to the level of technology in this world. Don't feel too comfortable yet, because there certainly are powerful magic users just not as common.
+
+## I want to play! What character can I make?
+There are a few playable species in Hesli. You might already be familiar with most of them by their name, but be sure to read through their articles regardless. There are some interesting twists to take into account.
+
+### Elf
+
+
+### Dwarf
+
+
+### Gnome
+
+
+### Human

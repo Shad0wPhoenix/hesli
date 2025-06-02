@@ -36,5 +36,5 @@ If you have any questions, feel free to contact me on the World Anvil Discord. E
 ~ ShadowPhoenix
 
 > All images are made by me, ShadowPhoenix, unless stated otherwise.
-
+> 
 > © 2021 - 2025 ShadowPhoenix / Rosa Fiore - All Rights Reserved.
