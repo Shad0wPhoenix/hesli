@@ -1,12 +1,3 @@
-- The overview
-    - Where are we?
-    - Who's here with me?
-    - What's going on? (bad/problems)
-    - What's fun to do? (activities/fun traditions)
-    - Where do I go next?
-- Tl;dr level of tech and magic
-- Tl;dr playable species -> Maybe make this a hub article and link that?
-
 # Welcome in Hesli, Curious Bean!
 Hesli is a world filled with adventure and cosy/wholesome vibes, where you shouldn't believe everything at face value: concealed meanings, unsuspecting twists, and dangers hide in plain sight waiting for the right moment and opportunity to strike.
 
@@ -75,3 +66,6 @@ Usually more technologically advanced than other playable races, gnomes have a p
 [Learn more about Gnomes](./encyclopaedia/biota/fauna/people/gnome.md)
 
 ### Human
+Most unpredictable of all, are the humans. Known for their utter stubbornness and their unwavering determination - regardless of the odds - these medium sized beings surprise everyone. While humans don't necessarily have subspecies like the others, they do come with a wide variety of chracteristics based on their origin and upbringing.
+
+[Learn more about Humans](./encyclopaedia/biota/fauna/people/human.md)
