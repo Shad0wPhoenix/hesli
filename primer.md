@@ -60,10 +60,14 @@ As for magic, it.. exists. You won't find excessive use and power, similar to th
 There are a few playable species in Hesli. You might already be familiar with most of them by their name, but be sure to read through their articles regardless. There are some interesting twists to take into account.
 
 ### Elf
+Generally recognisable by their slender figure and long ears, elves come in a few variations but all with the same quirk: they have a hard time traversing "impure" water. If you are to believe the [High Elves](./encyclopaedia/biota/fauna/people/elf/highElf.md), they are descendants from the [Gold Dragons](./encyclopaedia/myths&legends/dragons/goldDragon.md) — but not everyone believes that, even among the various species of elves.
 
+[Learn more about Elves](./encyclopaedia/biota/fauna/people/elf.md)
 
 ### Dwarf
+Most people know dwarfs as these mountain-dwelling and axe-swinging drunken bastards eager to run headfirst into a fight. Here in Hesli, you can definitely find these stereotypical dwarfs. However, there are also magic-wielding dwarfs that love exploring the outdoors feeling inclined to keep the lands and riverbanks prosperous.
 
+[Learn more about Dwarfs](./encyclopaedia/biota/fauna/people/dwarf.md)
 
 ### Gnome
 
