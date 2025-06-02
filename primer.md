@@ -70,6 +70,8 @@ Most people know dwarfs as these mountain-dwelling and axe-swinging drunken bast
 [Learn more about Dwarfs](./encyclopaedia/biota/fauna/people/dwarf.md)
 
 ### Gnome
+Usually more technologically advanced than other playable races, gnomes have a proper knack for tinkering — so much so, they have an entire religion based on it. Yet, there are a few gnome species that actively live humble and simple lives; tending to the waters, diving for food or harvesting underwater plants. Life doesn't have to be complex to be a good gnome.
 
+[Learn more about Gnomes](./encyclopaedia/biota/fauna/people/gnome.md)
 
 ### Human
