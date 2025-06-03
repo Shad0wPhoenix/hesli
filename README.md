@@ -1,1 +1,1 @@
-../hesli.md
+docs/hesli.md
